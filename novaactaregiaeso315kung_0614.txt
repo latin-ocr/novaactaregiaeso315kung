@@ -1,0 +1,37 @@
+18 Η. PETRINI7
+
+(12) zu dem Raumintegrale noch das Oberflssiohenintegral der Querschnitte
+hinzuffigt. Diese Resultate kbnnen kurz 'so ausgedrfiokt werden: Die
+fiir einen einfach zusammenhangenden Raum bewiesenen Satze gelten
+fijr einen mehrfach zusammenhiingenden ohne Beriicksichtigpng irgend
+welcher Querschnitte bei der Berechnung von σ. Dagegen muss in
+dem Ausdruoke (23) ffir F noch ein Ausdruok von der Form Σκν Ων
+hinzugefiigt werden (vgl. S. 7 ΘΙ. (52 1)). Wenn wir das Vektorpoten‘tia]
+einwerthig annehmen, Wird κν = O und kein Glied ist hinzuzuft'igen.
+
+Satz 4. Wenn μ ein Potential hat, so ist im Falle 2:0 fiir einen
+&iusseren Punkt
+
+ffl—ffi=0w‚
+
+Gy ὂε
+
+wenn J: Ο und der Raum einfaoh zusammenha'ngend ist.
+Denn es sei
+
+βω ωΞ-ἓζβᾙ
+
+folglich nach (12) und (2021) mif Anwendung von (14)
+
+J = 471 ᾗὲξζ
+Setzt man
+J = Ο ,
+so wird in einen] inneren Punkte
+Δσ = Ο .
+Ferner ist (vgl. (16) u. (2225)
+JM=0
+ὃ-«τ - ᾖ Q
+δη δη
+
+a: -M-ff-Konst.
+

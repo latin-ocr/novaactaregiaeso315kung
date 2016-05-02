@@ -1,0 +1,46 @@
+EINIGE UNTERSUCHUNGEN IN DER ALGEBRA. 7
+
+zerfallen, welche 80 beschaffen sind⁷ dass Γ 8111 wisskfirlich gegebenes
+Element nur durch Elemente ablcsst, welche demselben Systeme zugehb-
+ren wie das gegebene Element. Wenn 111111 81118 substitution in ((G7
+
+T¹ ‚ . . . T„—,)) den Komplexen
+TJGTaj (j=O,1‚...r—1)
+
+zugehcrt, 80 ist die entsprechende substitution in F:
+
+(s >-
+
+α]- ⁷
+
+also muss cxj ι84181811 811181· der Zahlen ‘²92- , apim, . . . σφω-1 sein, wenn
+j· eine dieser Zahlen ist. Es folgt, dass die 111 (118 ((1ρί -1- nst-⁹,
+(aqi41 4- 1)Ἓ , . . . (aem—¹ -Ι- DQ Kolunme 111 (1) eingehenden Komplexe,
+welche eine substitution 111 ((0- , Τ1 , . . . Τ,-])) enthalten7 ausschliess-
+lich in der (αρί -1- Ustg ‚ ((1ρίΗ 4- DQ, . . . (aem-1 -ff- DQ Horizontalreihe
+vorkommen. Also muss jede substitution in
+
+((8, Τ, T„,1>)11'1 die eruppe ((Τῑρζθφα :ra-¹1⁷0 .. T<T¹Tae,÷1—1))
+
+92· ’ (²2⁴ 9z÷¹ ’ 92·
+‘eingehen‚ wo i: O, 1 , . . . lc- 1 successive zu setzen ist.
+
+Umgekehrt 1111188811 clie Subststutionen, welche diesen lc Gruppen
+gemeinsam sind, in alle Kolumnen in (1) eingehen und somit in ((G,
+T¹ ⁷ . . . T„„1)) enthalten sein. Also besteht diese Gruppe aus den Sub-
+stitutionen, welche den le Gruppen ’
+
+((T1;g,¹iGT09i, ἸῖἷριίΤαρίἦ , . . . ΤζῐΤαρΖ-μ-ι» (2‘= O,1,. .. lc—1)
+gemeinsam sind.
+
+6. Wenn die substitutionem in der ersten Kolumne 111 (1) 81118
+Gruppe bilden⁷ 80 sind, Wenn ρ<ν ist und wir unter a¹ ‚ a? ‚ . . . ezr-1
+eine Permutation von 1, 2 , . . . r-1 verstehen, die Gruppen
+
+((G‚ Ta, , . . . Tap-1» und ((Ταζ,1 8Ταρ, ΤαζξΤαεΗΓΙ , . . . Ta? Tar-1 ))
+identisch.
+
+Weil 1181111181] (118 substitutionen in der ersten Kolumne in (1) eine
+Gruppe bilden, so enthfflt jede Kolumne in (1) diese Subststutionen, somit
+auch die Gruppe ((G, Ta, ‚ . . . Tap—Q). Nun gilt von den ρ, 81118
+

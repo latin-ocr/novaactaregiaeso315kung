@@ -1,0 +1,47 @@
+EINIGE UNTERSUCHUNGEN IN DER ALGEBRA. 9
+
+welche in Γ der Σ entspricht, muss also die Elemente Ο, α1 ‚ . . . .
+‹zo—1 entweder nur unter sich vertauschen oder durch lauter neue Ele-
+mente ersetzen. Also muss Γ intransitiv oder imprimitiv sein.
+
+Wenn umgekehrt gegeben ist, dass Γ intransitiv oder imprimitiv
+ist, 8ο folgt, dass die Substitutionen in ((G‚ Τ1 ‚ . . . Tr-1))‚ welche
+gewissen Komplexen in der ersten Kolumne in (1) zugehcren‚ eine
+
+Gruppe bilden.
+
+Es mcge nssimlich Γ die Elemente Ο, αἱ, . . . αρ,1 entweder
+unter sich vertausohen oder durch lauter neue Elemente ersetzen. Es
+seien ferner Σ und Θ zwei Substitutionen in ((9, T1 , . . . ,Tr-0), welche
+in dem Schema
+
+(8) G, GT& , . . . GEe-1
+
+enthalten sind und nicht verschieden sein miissen.
+Ε8 seien ferner
+
+Ti—IGTQ· und Tz-—lGTss¹< (2'=O, 1,. ..ν-1)
+
+die Komplexe in (1), welchen Σ und Θ zugehcren. Weil ΤΟΞΙ ist,
+mfissen ας, und βο uhter den Zahlen Ο, al ., . . . αρ-1 vorkommen.
+Die Substissutionen in Γ , welche den Σ und Θ entsprechen‚ sind
+
+0⁶³(0Z) und ss÷(s}})·
+
+Weil αο und βο unter den Zahlen O ‚ αι1 ., . . . (lo-1 vorkommen‚ mfissen
+zufolge der iiber Γ gemachten Annahme αι und [32- immer unter den
+
+Zahlen Ο, σι1 , . . . ‘le—1 enthalten sein, Wenn i eine dieser Zahlen ist.
+Wenn nun
+
+asff2<yi>
+
+gesetzt wird, 8ο folgt‚ dass 72< eine der Zahlen Ο, al, . . . cto-1 ist,
+Wenn i eine dieser Zahlen ist. ΣΘ muse den Komplexen
+
+wan,
+
+zugehcren. Da 70 eine der Zahlen Ο, αι, . . . ap,-l ist, muss ΣΘ wie
+Σ und Θ in einen der Komplexe (8) eingehen. Die substitutionen
+Nova Acta Reg. Soc. So. Ups. Ser. ΠΙ.
+

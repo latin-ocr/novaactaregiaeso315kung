@@ -1,0 +1,55 @@
+24 J. T. SODERBERG‚
+
+Wenn wir in (pr die Substitution (τ, θ) ausftihmn, wird cp„ formal
+verstndert, bleibt aber numerisch unveriindert⁷ und geht also in (ρδ tiber.
+Wir erhalten daher ῳΤν(ῑ,9)Ξφ3; also wird
+
+(21) m, θ) = 211,
+
+wo Σ der Gruppe G zugehbrt. VVenn wir fiir (rsty) aus (17) in (21)
+einsetzen⁷ erhalten wir:
+
+,ΤΓ .
+
+ 
+
+ 
+
+Hieraus ergiebt sich nach (12) und (13)
+
+(22) 2-7(r—1÷2<1÷0))²2·-22—142(r÷0)‘T ‘Af-ff . 1=2Tss
+
+T-ca (1-0)2
+
+ 
+
+ 
+
+wenn r -- 1 -f- 2(r -Ι- θ) Ξ O ist. Diese Forderung ist immer erfffllt. Sonst
+ware niimlich (18) erffillt, und wir hatten numeriseh φ = (Pr, was gegen
+die Voraussetzungen in C streitet. Die Gleiohung (22) giebf„ da die
+Indices der beiden Τ in Bezug auf den Modul 5 kongruent sein mfiseen,
+
+1²4- r0÷ 6²4- (7'-{-s—2)(T-}-0){2(r- 1)(s— 1) (mod. 5).
+Wir erhalten hieraus:
+
+(23) f ΤΞΥ-1 oder] ⁷3⁸—1
+l 63272-8—1 l 0323-22-1.
+
+Dass xv und χρ von den &brigen Wurzeln von f(x) verschieden
+sind, erhellt damus, dass gemiiss (23) nur ein 6 existirt, wenn τ gege-
+ben ist.
+
+Wir nehmen nun an, dass die Wurzeln der Gleiohung
+
+<24> fe)
+
+(fixam—sco: '
+
+ 
+
+welche geln'ass n:0 14 reduktibel ist, sammtlioh verschieden sind. Wir
+wellen die Gruppe aufsuchen‚ in welcher die Gruppe der Gleichung nach
+n:o 12 enthalten ist. Wir baben dann die Gruppe (15) zu betraehten.
+Diese besteht aus den substitutionem
+

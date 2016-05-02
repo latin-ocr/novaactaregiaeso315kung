@@ -1,0 +1,52 @@
+Ennea UNTERSUOHUNGEN IN DEP ALGEBRA.17
+
+1) wenn 9! nicht. durch 71-2 theilbar ist und ρ>1;
+2) wenn ἶφι - 2)1-- ρῖἷ nicht durch n— 2 theilbar ist und ρ<(η-2)1-1.
+
+Wir bezeichnen durch
+
+ΦΨ) = 0
+
+die Resolventengleichung, welche die Funkfionen (3) zu Wurzeln hat.
+
+Danu haben wir folgenden Satz:
+
+Wemv die Resolventen'qleicltung] 11³(y) = Ο ρ mzter sicle gyleiclze ratio—
+nale Wurzeln hat, welche von den iibrz'yen Πῖινερίη versclzieden siml, so ist
+die urspanyliclze Gleiclczmgy (l) reclulctz'bel
+
+1) menn κρ<11 ist3
+2) wevra (11-2)1-11 <ρ<(11-2)1- 1;
+
+und wenn die Glez‘clccmy f(x) = O ffleiclze Wm'zeln leat und f,(x) vom
+Grade n — 2 ist, so z'st s¹(x) radah-cibel
+
+1) wemz 9! wicht (lzcrclz n — 2 theilbar ist und 9> 13
+2) wenn {(n—:2)' l--plfl nieht (lwelz n-2 tlzez'lbar ist und ρ<(11- 2)1-1.
+
+15. Wenn sco, ιτ, , . . . 1,,-1 alle verschieden sind, so existirt eine
+rationale Funktion ψ dieser Grcssen, welche fiir die Substirutionen in
+ΤΓζιζὲΤ,0 formal unven'indert bleibt„ bei allen anderen Substitutionen aber
+
+ihren VVert andert. Diese Funktion 1111111111- fiir die Substitutionen (5) ρ
+
+Formen an. Da die zur Griippe (5) geherende Gattung von Funktionen
+
+rational ist, wird also ψ durch Lcsung einer Gleichung vom Grade ρ
+
+bekannt. XVenn aber ψ bekannt ist, ist die Gleichung (l) durch Wur—
+
+zelgrcssen auflcsbar. Dies ist also immer der Fall, wenn ρ < 5 ist.
+Wir denken uns 111111 die Gruppe (5) in die Form
+
+((13{¹G13<,2T1{¹⁷322÷1⁷··&lq-²²³⁴»
+
+gesetzt‚ was ρ < (oz-im voraussetzt. Wir verstehen unter χ 61116 ra-
+tionale Funktion von ⁷0 ‚ 1,, . . . ,τμη welche bei den substitutionem 1n
+
+ΤῖΟ-ΤΓρ formal unveraondert bleibt,f1'1r alle iibrigen substitutionem aber
+
+ihren Werr andert. Dann ninnnt χ durch die Gruppe (5) (oz—2)!—9
+
+hAtRSbUpSIH ὑ
+

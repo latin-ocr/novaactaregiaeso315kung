@@ -1,0 +1,51 @@
+28 A. Emeum,
+
+formule⁷ qui subsiste pour m Ξ O ‚ 72 Ξ Ο ‚ m Ξ n . Pour m = O on en
+deduit l'equation (170). Pour m=n la formule (174) n'est- pas vraie,
+mais dans ce cas l’integrale definie‚ dont il sagit, peut &tre evaluee par
+le procede suivant. D’apres Ie theoreme II on a
+
+(175) ai = zon-11⁶‚2÷1÷(- 1)”
+
+pour 72 Ξ 1 , et de cette formule on tire
+
+(176) J
+
+²21·
+εἰ
+
+(³5² -ξ- ‘spui cla: :sm (50² ÷ 4)''²un-1u„÷1doe -Ι- (- 1)” sm (0⁶² ..Ι- 4)4d:c .
+-22- -2z
+
+Appliquons maintenant l'equation (174) ὲ, la premiere integra-le du
+second membre de l’equation (176), nous en deduirons pour n 5>— 1
+
+(¹7⁷) st <ff ÷ &afim =(—1)'²s²i(x2 ÷ 4>÷czoe .
+'‘ ‘2¹‘ -22-
+
+Oette formule, que nous avons demontree pour oz} 1 ‚ subsiste
+encore pour η = Ο, et en remplaqant m par 2oe2‘ dans l'integrale du second
+membre de l'equation·(l77)‚ neus en obtiendrons
+
+(178) sm (ff ÷ aspum: = 4<- wis (1 -fffidoe ‚
+
+—2i -1
+
+et par suite nous aurons pour n Ξ O
+(179) f (2222 ÷ wazela: Ξ 2(- lym· .
+—21'
+
+Nous resumens les formules (17⁶4) et (179) dans le theoreme suivant.
+
+ΤΙιέονὲφηε X] V. Si l'on de'sz‘yne par m et n des nombre-s entiers po-
+sitis& οῑι mols, on aura
+
+2i
+s (93² -f- 4)÷u‚„u„ clae = Ο ⁷
+k--2i
+si m et 11 sont clzffe'rents entre eum, mais
+
+sm (af -1- 4)÷u{d.v = 2(- 1)”πὶ .
+
+-2ἰ
+

@@ -1,0 +1,50 @@
+UEBER DIE DIFFERENTIALGLEICHUNG DER ELLIPTISCHEN FUNKTION eto. 5
+
+Die gesuchte Differentialgleiohung wird also
+
+ 
+
+ 
+
+(7) ema? 4 (sF2 Ξ βΡ 4 sQF‘fflY' — ᾗῇ [SF2 — β’ F ÷ 81]³ =
+
+Ξ (Rq-{4 3EF² ÷ 37EJF35 313²
+27t²
+
+ 
+
+welche Gleiohung nach gehbriger Entwiokelung die folgende Form an-
+nimmt
+
+ 
+
+ 
+
+(8) tm& 4 [3172 Ξ (3F4 ³1]F(u>² 4 αο F⁶ 4 7F⁵ 4 <yffi 4 zF⁵ 4
+431F²471F4a1 ΞΟ ‚
+
+Wobei man findet:
+
+a„ Ξ 1, 44332- 97152 Ξ ΞΕΕ, 4β8ξ Ξ 9γ1ι2 Ξ 2RIE1, - 433 Ξ a127t2= R}
+
+3E² -4- ΞΗΕ1 -ι- 9τ2ὃ-Ι-48[β2-ι-.ς.ς1] 20, 3E1²†2R1E-{·· 9t²d⁸¹ -Ι- 431U3²÷ssl]= Ο
+24sj's-91-1- 4β3 Ξ 27κῐ2 = 2[]ἳΕ1 -1- 9 EEI] .
+
+Durch eine einfaohe Transformation kann man es immer so ein-
+riohtem dass οι1 = l wird, folglich
+
+R2=-[4s³427t2] , R}- =-[4s²;²427t2].
+
+Diese beiden Gleichungen geben die Werthe von R und Εὐ ferner
+erhfflt man die Werthe von E und Ει aus den Gleichungen
+
+4l352— 97252 = 2RE ‚ 4β8ῗ Ξ 971252 = ΞΕῙΕ1 .
+sind dann die Bedingungen:
+ΞΕ2 -1- 2RE1 -1- 9τ2ὃ 4- 45[β2 4 831] = O , ὃΕξ-ὶ-ΞΕΙΕ-ἦ- 9τ2δ1 4431[[32÷331]= O
+2458& -{· 46³ - 27t²x = 2[RR14 9EE1]
+orsam, so wird die Gleiehung
+(9) ΨΒ ÷ [82102 — βα] ÷ 2³1]st ÷ 2²2⁶ ΔΓ yffi ÷ δῶ* ÷ ²2³³ ÷ (ἡ ³12² 4- γιίυ ÷ 1 = Ο
+
+von einer doppeltperiodischen Funktion dritter Ordnung mit einfachen
+Unendlichkeitsstellen (03) und deren Abgeleiteten (y) befriedigt.
+

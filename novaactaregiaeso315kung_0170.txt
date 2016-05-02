@@ -1,0 +1,52 @@
+2 GORAN Dmnmzxz,
+
+1. METHODE GENERALE D'INTEGRER UNE FONOTION 31 DES
+POINTS CRITIQUES D'ORDRES REELS.
+
+Identile' fonslamenta le.
+
+1. Nous prenons pom· point de depart l‘z'clentz'te' fondamentale bien
+‹zonnue [II(24>]
+
+(l) sJQMz ÷L[''{f(:) -fpspffidg z} sAJ(2)d2 ⁷
+
+o’est-a-dire qu'en supposant la fonction f(z) synectique en tous points
+du chemin d'integration la somme de I'integrale de f(2)‚ prise autour
+
+du contour ferme (3 qui renferme 188 laoets A , ..... 4 1, allant du poin‘t.>
+:0 et entourant parles celeles infiniment petits O ‚ . . ‚O 108 points
+critiques al ⁷ ·. . . ‚ αι. comme centreS, et de l'integ rale. de la fonction
+
+{f(:>-f,1(z)} prise du point ΖΟ ἐι 1111 point C du 001110111- C ,f (Z) etant
+la valeur de f<z) apres que z a decrit le contonr C en sens positis} est
+identiquement egale ὰ la somme des integrales de f(z)‚ prises suivant
+
+les lacets A1‚...,A,..
+
+De'veloppement d’une sonclzbn (ὶ points crz'ba'ques d'ordres Ξζ- 1).
+
+2. En 'designant par s 1111 entier positis et par (1,oe et lz (108
+points situes ἐι l’interieur du eontour (3 110118 13080118 dans (1)
+
+(Ξ) ιῑ·0<>;(ΖΞ(”)) 10g}{7{‚
+
+ 
+
+011 la fonction F(z) est supposee de n' avoir d'autres points critiques ren-
+formes dans l'interieur du contour C que les points multiformes al , . . 7 ak.
+L'identite (l) se mettra (10110, ἐι l'aide de I (14) et- H (14), sous la forme,
+
+ 
+
+ 
+
+ 
+
+(3) &Lm 10g⁵——ld -i-2172jq1ITSZJU ds
+c> — (01) 1·—-‚
+00οἕ Ῑ1Ξο<>0 003001 01140-
+
+]ΙΡ<)-Ρ(Ζ)ι1οοοἷξ-ΙΈ ζ Ξῖ)
+
+ 
+

@@ -1,0 +1,52 @@
+56 Η. Panum, .
+
+Der clielelctrisclze Strom. Was von den elektrisohen Strbmenffl ge-
+sagt. ist, gilt ohne Ab'anderung von dem elektrischen Kraftflusse im All-
+gemeinen, da ja der Strom niohts anders als ein elektriseher Kraftfluss
+ist. Da aber es nieht nothwendig ist, dass in jedem elektrisohen Krast-
+flusse ein magnetiscbes Potentia] nicht existima, so kbnnen wir der Allge-
+
+meinheit wegen in obigen Formeln F statt μ einffihren. Wenn die For-
+meln auf Dz'elelmilca angewandt wird‚ mbge c gegen K ausgetauscht wer-
+den, wo K den namen spezifisehe elektrische Induktionsfssihigkeit oder
+die Dielelcffrz‘zitectslconstante bekommen hat.
+
+EJ‘s'alzrunyssatz 6. In dem in dielektrischen I{6rper11 vorkommen-
+den elektrisehen Kraftfiusse giebt es ein magnetisohes Potential.
+
+Dies wird ermbglieht eben dadureh7 dass an der Oberfl'ache eines
+Leiters S—HV = O ist, wodnrch bewirkt wird, dass der Strom ein gesohlos-
+senes Kraftrohr bildet.
+
+Elektrisclae Influenz. Bisher haben vvir nur eine Art ven Influenz
+betraehtet, welche sich jedoch in drei Erscheinungen wiede1·h01t‚n}1;mlich
+110 magnetische Infiuenz, ‘lto elektrische Strominfluenz und 320 dielek-
+trische Influenz. Wir werden jetz‘t-⁷ diejenige Influenz bestimmen, welche
+an der Grenze zwischen einem Leiter und einem Nioht-Leiter erregt
+wird. Der Ubersichtlichkeit halber wellen wir die beiden Falla einzeln
+behandeln: 1:0 wo es keinen elektrischen Strom im Inneren des Leiters
+giem und 220 wo es bebiebige Strbme da giebt.
+
+120 Es sei im Inneren eines Leiters kein strom vorhanden. In
+diesem Faue ist pon: O und folglioh
+
+517:
+
+W
+
+Ο
+
+an der ganzen Oberflache, den Quersehnitten eingereohnet.
+Wenn V kontinnirlioh ist, folgt hieraus
+
+(65) V = konst.
+
+im Inneren und an der Oberflaohe jedes Lfflters, wenn es im Inneren
+keine freie Elektrizitm gieb‘c.
+
+“ Wenn es aber solehe giebt, kann man dieselbe mit einer geschlos-
+
+senen Flaohe umgeben, und von dem fibrigen Theil des Kbrpers gilt
+
+dann die Gleiehung (65).
+

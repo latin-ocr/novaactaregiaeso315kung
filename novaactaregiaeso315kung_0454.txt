@@ -1,0 +1,50 @@
+18 Ε. SOLANDER,
+
+durch Vergleichung mit einer verifieierten Glasskala auf Millimeter redu-
+ciert. Da ich das feste Flagelrad nicht ins Wasser eingesetzt hatte und
+wethrend der Beobaohtungsreihe auch nieht die geringffigigste Verende—
+rung vornehmen wollte⁷ 8ο zeigte sich der Ubelstand‚ dass der Bifilar-
+magnet eret nach etwa anderthalb Minuten nach der Umkehrung zur
+Ruhe kam und somit bisweilen Deklinationsiinderungen den Magnetome-
+‘ceretand beeinflussten3 diesem Misstand wurde wenigstens teilweise da-
+durch abgeholfen, dass der Magnetometer zweimal abgelesen wurde‚
+einmal unmittelbar nach Umkehrung (188 Bifilarmagnets‚ und daun gleich-
+zeitig mit der Bifilarablesung. In jedweder Lago (188 Magnetometers
+wurde der Bifilarmagnet etwa 8 mal umgelegt. Temperat-urenderungen
+sind nicht beriieksiehtigt‚ da sie nur die letzte Decimalstelle (188 Loga-
+rithmus beeinflussen. — Die Bereohnung der Beobachtungen habe ioh 8ο
+ausgefiihrt‚ dass 1811 zuerst eine derselben nach der vollst'andigen Formel
+ausreehnete, dann aber, da die Unterschiede nur wenige Zehntel eines
+Skalateils betrugen‚ fiir die fibrigen eine Differenfialformel benutzte. Ε8
+ist. mamlioh:
+
+ 
+
+ 
+
+t ὃφ t δα
+ΞὸΗΞδα- Ξδφ ψὲα eos²cp÷gwffis3=a
+H tgoc 8111 2φ 2 -†- tgatgq) '
+
+Wegen der Kleinheit der Winkel α und φ ist aber das letzte Glied
+nur 8111 Kmrefflionsglied, in (1888811 Nenner das Produk‘n tgoc .tg(p ver-
+naehleLssigt werden kann, und somit ist:
+
+ffl=}(cota†}t—gfp—‘)t5a—(‚l -ὲ tga' )‹5‹p,
+H 2 2cos-‘a 81112φ 4 eos²cp
+
+ 
+
+ 
+
+Mit Berfiokeichtigung der Reduktion auf den Teilstrich 103 (188
+Variometers und mit Einffihruug der Bezeiohnungen πὸ und nm fiir die
+halben Differenzen der korrigierten Ablesungen am Bifilar und am Magne-
+tometer erhfflt man alsdann:
+
+log H¹05 Ξ 9805763 -1- 1400 (ηρ - 15515) - 131501771 - 165112)
+÷ 2231181,- 103) ‚ '
+
+wo die Korrektionen in Einheiten der seohsten Deeimalstelle ange-
+setzt sind.
+

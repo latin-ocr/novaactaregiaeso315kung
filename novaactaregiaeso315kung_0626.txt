@@ -1,0 +1,52 @@
+30 H. Pmmm,
+
+Wenn die Endfliiohen der Spule unendlich entfernt sind, wird ihre
+Potentiale = 03 wem] dieselben zusammenfallen, ¹d. i. wenn die Spule ge-
+solossen ist. vvird die Summe ihrer Potenti-ale Ξ Ο. Da in beiden Fauen
+die Spule von einen] {iusseram Punkte aus nicht durohsetzt werden kann,
+so ist V<¹ einwerthig und konstant, so dass man
+
+(38) Vss Ξ 0
+
+schreiben kann. Im Inneren wird daun das Potentialgefiille
+
+ὃ Vs
+
+ 
+
+(39) ὃς = — 4mm5I 7
+und das Potentia}
+(40) Vi Ξ - 4πηὸιῙ3 -1- 4ΙεπΔῙδῙ,
+
+wo s von einen] beliebigen Querschnitte aus gerechnet ist.
+
+Abgyeleitete Spulen. Da der der Spule entspre-chende Vektor Pnaoh
+(36⁹⁵) und (37⁹⁶) die Bedingung ·
+
+erffillt„ kann man
+
+P„ = ΛΜΨ,ιτ (3)
+
+setzen und den dem Vektor μ1 entsprechenden Vektor Ρ, aufsuehen,
+weloher durch die Gleichungen
+
+01³, δρψ
+
+ὂψ &Z = 471¹tcm (3)
+
+ 
+
+definiri} ist. Im Allgemeinen ist nicht pq„ z O an der Oberflssiohe der Spule;
+wffim aber die Spule in sich zurfioklaufend ist, so ist μι konstant und
+parallel der Achse derselben gerichtet
+
+.· μ, = ww: μδῖ)
+
+ὂμ] :O Ἰ
+on
+
+ 
+
+und folghoh kann eine gesohlossene Spule in einem inneren Punkte als
+ein geschlossener Faden mit dem Vel<t0r μι (statt μ) angesehen werden.
+

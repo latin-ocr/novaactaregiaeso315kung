@@ -1,0 +1,45 @@
+ANALYTISCHE DARSTELLUNG DEs ELEKrlzoMAGNETmMUs. 57
+
+Anm. Doeh kann man sich gewisse elektromotorisohe I{r{ifte in]
+Inneren des Leiters vorstellen, die nur eine Potentialdifferenz, aber keinen
+Strom bewirken, z. B. Wenn der Stromfaden nicht gesohlossen ist. Danu
+ist V konstant an jeder Seite der Doppelsehieht, welche die elektromo-
+torische Kraft at1siibt3 wenn es mehr-ere Doppelsohiehten giebt, oder wenn
+es eine kontinuirliche Folge elektromotoriseher Krkifte -— z. B. wie in
+einer Spule von selehen Faden, die in derselben Beziehung zu den elek-
+trisehen Doppelsehiehten stehen wie 'die elektrisehen' Stromffiden zu den
+magnetisehen Doppelschichten — giebt, kann sogar das Potentia} Vsieh
+lfings eines nicht geschlossenen Fadens kontinuirlich kindern, ohne dass
+ein elektriseher Strom erregt wird3 ja es kann im Inneren eines belie-
+bigen Leiters V sich andern und sogal· ἵζ’-ἴ an der Oberflfftehe nieht Null
+werden, ohne dass ein Strom erregt wird, wenn entspreehende elektro-
+motorische Krafte in kontinuirlioher Folge angebracht werden. Die noth-
+wendige und hinreiohende Bedingnng daffir, dass jedoch kein elektrischer
+Strom erregt werde, ist dass fiir jede im Inneren des Leiters gehende
+geschlossene Kontur die Summe aller elektromotorisohen Krafte gleieh
+Null ist. Dies soheint mit den] Erfahrungssatze 5 im Widerspruche zu
+stehen. Der Satz muse daher so ergenzt werden, dass er nieht ffir
+das Innere des Bezirkes der gegebenen elektromotorischen Krafte gilt.
+
+In de'm umgebenden Niehtleiter wird V 8ο bestimmt, dass es auf
+jedem Leiter konstant ist. Der Leiter verhfflt sich nach Erfahrungssatz
+
+5, als ob er mit der Flfichendichte σ belegt ware, wo
+
+b—V=—4:7'c(5
+
+ὃηΝ
+
+ist, und nN die nach dem Nieht-Leiter geriehtete Normale bezeichnet. Da
+ferner V an der Oberflaohe konstant ist, 8ο ist
+
+ 
+
+wo ds„ ein Element einer in der Oberflaohe liegenden Kurve ist3 folglioh
+ist. die Kraft rechtwinklig zu de1·‘Oberfl}tohe gerichtet.
+
+Wenn ein Leiter sich in dem elektrischen Fe1de befindet, wird die
+Hel-leitung der Gleiehung (56ss) unbrauohbar, weil
+
+Nova Acta Reg. Soc. Sc. Ups. Ser. III. 8
+

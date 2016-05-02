@@ -1,0 +1,41 @@
+54 H. PETRINI,
+
+so werden diese Bedingungen erffillt. Auf beiden Seiten des Quer-
+schnittes giebt es eine diskontinuimt in M, welche gleich
+
+(m) E=M
+
+ist, welche Gleichung man auch-in der Form
+
+ 
+
+(62)
+
+ 
+
+’ setzen kann⁷ was mit dem Ohm’sohen Gesetze sfir elektrisohe Streme
+tibereinstimmt.
+
+Ahnlioh wie wir die magnetisehen Krafte auf primare haste,
+diejenigen ursprfinglieh gegebener magnetischer Doppelschichten oder
+geschlossener elektrischer Strbme, welche anregender Natur sind und
+von den magnetischen Eigenschaften der Kerper unabheingig sind, redu-
+zirl: haben⁷ so werden wir auch bei der Betraohtung der elektrischen
+streame dieselben als elektrische Kraftfeiden auffassem die von gewissen
+ursprfinglich gegebenen elelctromotorz'sehen Kraften herrfihren wie elek-
+trisehen Doppelschiehten. Wird ein isotroper Kbrper in ein elektrisches
+Strom- oder Kraftfeld eingefl'jhrt, so erleidet er eine Influenz, und die
+Intensitat des Stromes wird
+
+(63) μ = effxyzss) ,ν
+
+wo μ die Stromdiehte oder der Kraftfluss auf der Flieiseheneinheit, P die
+induzirende elektrische Kraft und c die sogenannte spezifiselze elektriselze
+Leitzmqsfc’ilzz'ylceit ist. Ffir einen isotropen homogenen Kbrper ist
+
+ffi&n ffl=fffflP.
+
+let V das elektrisehe Potentia] und E die Potentialdifferenz oder
+die elelctromotorz'sclze Krafl, so erhalt man ganz wie bei der Herleitung
+der Hopkison'sehen Regel
+

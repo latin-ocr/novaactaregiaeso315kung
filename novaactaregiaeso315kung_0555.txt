@@ -1,0 +1,46 @@
+SUR LA CONDITION A LA SURFACE DANS L’HYDRODYNAMIQUE. 5
+
+rieur du fluide. Dans le premier 033 13 particule a quitte le fluide et la
+continuite ⁷1zate'rz'elle est rompue; o'est 13 033 p. ex. aveo l'evaporation.
+Si la particule au temps t÷dt se trouve au-dessous de la suff-aee, on a.
+—— en rejetant le 033 ou la surfaoe presente des points singuliers —
+deux 033 a distinguer: 03 33 distance de 13 surfaoe est une quantite in-
+finiment petite d'un ordre de grandem· plus grand que celui de dt, ou
+non⁷ e'est a dire que la oomposante normale de 13 vitesse relativement
+a 13 surfaoe est infiniment petite ou non. Si 13 vitesse relative normale
+est infiniment petite, la particule peut &tre regardee comme situee dans
+13 surfaee au temps t÷dt3 (1333 13 033 contraire 13 mouvement est dis-
+continu, parce, qne 13 vitesse moyenne pendant 13 temps dt differe d'une
+(13331113, qui n’est pas infiniment petite, de 13 vitesse moyenne pendant
+le meme temps dt des particules voisines‚ soit de celles qui peuvent
+etre regardees comme restant dans 13 3311303 et qui, au moment t, etaient
+situees dans le voisinage de la particule 00331ς13ῑ33, soit de celles qui
+se meuvent vers 13 surface aveo une vitesse relative finie et qui, au mo-
+ment t÷ ἀί, 33 trouvent dans le voisinage de 13 particule consideree.
+
+On peut (1030 3303031Ί 13 theoreme suivant:
+
+lee'07²(}me B. ›Sz' [e mouvement 1ῑά pas cle discontinuite' ni mate'rielle
+ni dynamique, toute particule de la surface ἔρ trouve au moins ὰ, deuoe mo-
+mente conse'cutifh 1⁴ et t÷dt‚ si Z'on ndyliye les infiniment petits d'un ordre
+, supe'rieur ὰ dt, et si l'on ne tient pas compte cle certatus points ou liques
+sinyulz’ers cle la swface.
+
+Remarque. Le theoreme B, qui peut aussi bien que le the'oreme
+:l servir 3 13 fondation d’une equation a 13 surfaee, est 330303 sans in—
+troduction (Z⁷lzyp0tlz&se. On 3 seulement restreint le probleine 33 033 par-
+ticulier ou les conditions y formulees se trouvent reunies. Si 033 003-
+ditions ne sont pas remplies, 03 dont on peut juger (1333 chaque 033
+particulier‚ il faut tenir compte de l’evaporation, ou de 13 disoontinuite
+materielle qui aura lieu si la pression 3 l'interieur (13 fluide devient 33-
+gative, ou des lignes singulieres de 13 3311303, 03 (133 choos disoontinus Α
+a la surfaee eto.
+
+§42
+
+Representons par
+(1) F (ευ y Z t) = O
+
+]⁷equation de 13 surfaoe. En neglig-eant les infiniment petits d'ordre 33-
+perieur, il faut dono⁷ en vertu du them-eme B, qu'on ait au moment 1-1- dt
+

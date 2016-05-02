@@ -1,0 +1,56 @@
+SUR LE DEVELOPPEMENT DE QUELQUEs FONGTIONS DISCONTINUES etc. 7
+
+Ι)88 equations (31) et (34) on eonolut, que la condition (27) est
+
+remplie, et par consequent nous obtiendrons pour ΟΞ „vg l le deve-
+loppement
+
+(43) φῄς) = ’ἑο -1- ”⁸35 (am eos 2mnw -1- b„ sin 2mnoe) .
+‘⁸¹ ¹11=l
+
+En y substituant. les expressions oi-dessus de la fonction φῶς) nous
+aurons pour O Ξ x ξ l les formules
+
+(44) {Syr = {E -1- mim (α,η 808 2τππα] -f- bn, sin Zmnoe) ,
+»πο m=1
+
+si la variable ω· n’est pas multiple de Ξ, et
+
+η
+
+(45) {syr -ιξ = {A 4- 21sz (am eos 2mnx -1- bm sin 2νηπα3) ,
+
+0 m ι
+
+Ι
+
+si w est multiple de ὲ, 18 nombre s etant determine dans oes deux for-
+
+mules par l’equation (42). Quant aux coeffioients α7η et bm, nous trouve—
+
+rons d’apres le theoreme I et par applieation des equations (33), (34),
+(30), (31)
+
+ 
+
+(46) a0 = - Ξ Σ cs ι
+
+(47) α = -ssmffly sm ‘2'an pour mg 1 7
+r=1
+
+(48) bm = mssssmffly, ctos 2⁷⁷X⁷¹ pour m Ξ 1 .
+
+ 
+
+Si l'on remplaoe ,υ par ω -1- 1 dans les equations (44) et (45), les
+seoonds membres ne ohangeront pas3 le nombre s sera transforme en
+,ε’-ξ- η d’apres la formule (42), mais d'apres les equations (30), (31), (32)
+188 premiere membres des e‘quations (44) et (45) ne ehangeront pas par
+cette substitution. Puisque les formules (44) et (45) sont demontrees
+pour Οξωξ l, elles subsisterent done pour toutes les valeurs de la
+variable ιε, qui satisfont ὲ l’inegalite ⁷
+
+(49) 2130.
+
+Par la le theoreme suivant est dementi-e.
+

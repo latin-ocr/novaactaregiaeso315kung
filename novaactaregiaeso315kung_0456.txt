@@ -1,0 +1,62 @@
+:20 E. SOLANDER,
+
+bereohnet. Diese Messungen ergaben:
+
+Sept. 20, 10¹¹l7¹¹¹, R33 (p, Σ 27052’45”, t Ξ 17907, nv Ξ 102.61; H — 030154
+
+103 —
+
+)) )) 111125m‚ B43 <p1 = 24052‘35'', t = 1792, n„ = 102.17; H — O.20156
+
+103 '—
+
+Zweitens wurden zwei Beobaohtungsreihen mit einem Lokalvario-
+meter gemacht, und zvvar⁷ um den Einfluss der Temperaturuntersohiede
+der beiden Punkte mbgliohst zu eliminieren, zuniiohst naehdem der Lokal-
+variometer eine Weile am Platz N:o 1 des Eugenieapparats‚ sodann nach-
+dem derselbe am Platz N:o 2 des Bifilars ausgestellt worden war. Die
+Beobaohtungen wurden fibrigens natfirlich zu je drei kombiniert. Abstand
+Spiegel-Skala = 515 Skalatei133 Riohtungsvinkel φ = 2791. Bezeiehnet
+man mit K die Intensiffit des vom Deflektorensystem am Platz der Nadel
+hervorgerufenen Feldes, und mit δι und δῇ die Winkel der Nadel mit
+
+der zum Meridian senkrechten Richtung (positiV, wenn nach dem Meridian
+gerich‘tet) so ist:
+
+Keos (φ — δι) = H1 cos δι
+Keos (φ - (52) Ξ· H2 cos <52
+
+und somit
+
+ΫΗΞ — cos δ, cos (φ - (52)
+Hl - cos (52 ⁸ cos (φ - 0¹1) ⁰
+
+ 
+
+In der Tafel sind ὃ, und (5⁸2 in Skalateilen angegeben.
+
+Tafel der Differenzbestimmungen mit dem Lokalvariometer. Sept. 22, p. m.
+
+εἳ1 <3¹2 Ξῖ
+
+23.04 2.67 0.98989
+
+23.51 2.68 78
+
+23.86 3.19 71
+
+2439 75
+- ,7 ῖὲ 0-98978
+
+3.08 0.98983
+
+23.86 3.14 83
+23-92 3-56 m Wffi 0,98986
+
+Mittelz {2 = 098982 und {A . H1 Ξ Η2 = 020165. Nimmt man da-
+ι
+
+1
+
+nach im Mitte] als Bestimmung mit dem Eugenieapparat H1=020160
+

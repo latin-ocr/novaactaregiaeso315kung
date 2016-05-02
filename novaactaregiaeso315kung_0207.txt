@@ -1,0 +1,45 @@
+DEVELOPPEMENT D'UNE FONCTION ANALYTIQUE POUR UN CONTOUR etc. 39
+
+ou les constantes H¹ , . . . ‚ H4 jouissent des valeurs [(24>]
+
+ 
+
+(160) H0=fvg⁶²⁵ (o=l,2,3,4>
+
+dont les numerateurs sont positifs pour
+(161) e1>e2>323>64>e5.
+
+Puisque, d’apres (71), .Ῑ(’ῑι) est une fonction paire d'ordre 2, la
+periodioite de J(u) est suivant (58) representee par la formule
+
+(162) πα) = πῶς) ÷ feu> [ρ l ] ‚
+σ = 2 , 3 , 4, 5 ν
+ou l'on choisisse d'une maniere convenable deux periodes distinotes 212ι
+et. 2Ω2 qui par leurs multiples 2μιῼι et. 2μὲ Ω2 , μ1 = O , ὲ 1 , ss 2 , . . .
+et μ, = Ο , ss 1 , ὲ 2 , . . . , forment un reseau de periodes infini. Aux deux
+zeros A d'ordre 1, donnes par l'integrale (63) pour m = 5 et 2) = 2 ,
+
+correspondent les trois infinis b d’ordre Ξ , donnes par l'integrale (45),
+
+eu egard εὶ (36) et (43), pour m = 5 et q = 3. Tous les zeros et tous
+les infinis de J(u), disperses sur tout, le reseau de periodos infini, seront.
+representes respectivement par α et β.
+
+On aura immediatement, pour σε 1,2 ..... 5 , 16 developpe-
+ment de l’inversion J(u) suivant (95) et celui de la fonction (ιῙ(α)-ι3-σ)ιζ
+suivant (96). Le developpement de l⁷inversion complementaire 30⁶) qui
+a* l'infini uniforme γε, d'ordre 3 s⁷6tablit de cette maniere. Mettons d’apres
+(96), pour σ = 5 , l'identite sufflante,
+
+66)ωωμήνεψὼεμω-ψψψωω-ηγψμω-ηνψηη
+οὺ, d'apres (97),
+
+(164) ,ὲ-βλκγό) = L, (λ = 1, 2, . . .> ;
+
+mettons ensuite, suivant (102), l’identite
+
+<mm w—mrfflo=mm
+qui, ἐι l’aide de (156) et (163), s’eorira
+
+ΘΜ) α-ῃεφωῆωκ
+

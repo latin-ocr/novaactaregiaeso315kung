@@ -1,0 +1,39 @@
+4 A. BEssGER,
+
+De l'efiquation (3) on tire pour m Ξ 1
+(23) bm = 2 S Σ ΓΞΗ (pst) sin 2 ιηπΐείτ
+
+ou, d'apres l'equation (8),
+
+(24) bm = 2 ⁵ nil (αθ -1- ο, -Ι- . . . -ff- 0³) ΓΕΑ sin 2mntdt
+
+ου, en executant l’infflgration,
+
+(25) ὁ, = - ᾗ ἶ (σο ÷ ρ, ÷ . . . ÷ 0³) (cos 2222ms÷1 - cos 2mws)
+
+s=0
+
+ou, d’aprbs les &quations (7),
+
+(26) bm = — U Σ - 6„(l -— Cos Ermum) .
+
+Au moyen des &galites (20), (22), (26) les ooefficients am et bn,
+sont determines, et par suite nous aurons le theim-eme suivant.
+
+Theoreme I. Soit n zm nombre entier, supe'rieur ozc e'yal ὰ 2, et
+
+Χ, , ΧΞ, Χ3 , . . . ΧΠ..1 des quantite'8‚ qui sacisfont aua: conditions
+O<oe1 <.)ε2 <.... <ῑ,,-2<.ῑ,,-ι <l‚
+et posons
+xo = O , z„ = 1 ;
+en de'sz'fflzant par· 00 ‚ c1 , 02 ‚ . . . . (zu-2, Cu—1 des constantes arbitraz'res re'elles
+
+et en defin-issam une fonction φ(Χ> par les e'yalite's
+
+w(x)=00÷01 -1-02-ff-··--}-0.‹p0w‘.z=,<x<a;⁵÷‚ (s=0‚1,2‚...n-1)‚
+
+‹12(x)=00 pour ΜΞ
+φ(ω)εοΠ-Ι-σ,-1-,.,-4-65-,-4-ἒ pour x=x⁸ (3:1, 2,...η-1),
+
+φῇ) = σο 4- ετ, -4- . . . c„„2 -ῃ- e„‚1 pour ,n = x„ ,
+

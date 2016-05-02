@@ -1,0 +1,72 @@
+26 A. BERGm
+
+Substituons successivement ν = O, l ‚ 2, . . . n dans la premiere
+des equations (163), nous obtiendrons par addition des egalites ainsi
+obtenues et par application de la deuxieme formule du theoreme VI
+
+(164) [mium dm= 42· Σ ῖὲφ-ἐζ ,
+
+ 
+
+ 
+
+formule qui subsiste pour 72 21- Ο.
+
+Supposons que n Ξ 1 , et remplacons r successivement par Ο7 1 ,
+2 ..... n— 1 dans la seconde formule (163>; par addition des egalites
+ainsi obtenues et par application de la troisieme formule du theoreme
+VI nous aurens
+
+(165) f Μὴν-166 2 O ‚
+
+{11¹
+
+ 
+
+formule qui subsiste evidemment pour n Ξ Ο.
+De ce qui precede resulte ce theoreme.
+
+lee'or&²7ze XIII. Soit n un nombre entier positis ou nul, on ama
+
+2AE u2nclae = 4(-- Uni- 7 s2i202n÷1doe = O ,
+-22- 222 -}- 1 0-25
+
+sssnoeuhdx = Ο ‚ s? oeu2n41da: = 4(— l)⁷²÷¹i (27ὶῇ- l -}- 2nl Ξ) ‚
+
+Γ “guz-1 da· = 0 ‚ ΤΗΜ dm = 453¹ (-— 17 .
+ι -21 'x -22— x rsso ΞΓ 4- l
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+En faisant croitre le nombre entier n vers l’infini positis, nous
+obtiendrons de la derniere formule de ce theoreme
+
+(166) iim Γ ΜΤ ctoe Ξ m‘ .
+μῶυ-21·
+
+ 
+
+D'apres le theoreme XI on satisfera ἐι l'equation differentielle
+
+(Py clzs
+
+(167) (2² Ἴιι1>ά ἔψῂῖ-ᾧ-ηωψῆῃε 0
+
+ 
+
+par ia fonction y = u ‚ et par suite on aura identiq'uement pour η Ξ Ο
+
+ff u ἫψΜῖΙᾼΞ-ηςηψωαη Ξο
+
+ 
+
+(168) <x ÷ 4>
+

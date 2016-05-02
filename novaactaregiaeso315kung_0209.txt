@@ -1,0 +1,44 @@
+DEVELOPPEMENT D⁷UN1⁴3 FONCTION ANALYTIQUE POUR UN CONTOUR GiC. 41
+
+lv. SOMME DES INTEGRALES D’UNE ΜΕΜΕ IRRATIONNALITE ALGE-
+BRJQUE. LES LIMITES D'INTEGRATION ETANT LEs RAOINES onix-E
+EQUATION ALGEBRIQUE Α OOEFFIOIENTS VARIABLES.
+
+Methfode de trouver la somme des ι’φιίέρναίεος.
+
+23. La grande question d'Abel de trouver la somme des inte'-
+grales d’une meme irrationnalite algebrique⁷ en exprimant les limites
+d'integration comme moines d’une equation algebrique ἐι ooeffioients Varia-
+bles, question qu'Abel a traiffie sous un point de vue tres general mais
+qu’il n’a precisee en de‘tail et pour l'usage pratique que pour les fonc-
+tions elliptiques‚ sera traitee ioi d'apres une me'sshode bien simple qui
+adme‘t. de preciser en detail et. d'une maniere complete le theorenie
+d'addition et de multiplicatiori des integrales d'une irrationnalite sous la
+forme generale de (21).
+
+Mettous les deux polymomes entiers et rationnels de (κ, de degres
+ι’ et κ,
+
+lq J φ(ι’1’)--.ί70 †91oe†···†fl2‹21¹¹' ⁷
+(ί) Ι x<²²⁷)=l⁶⁰÷f⁶1³³÷···-i—lcu-ffl--q-oeu,
+
+ou les coefficients 9 ....... cs „, et lvo„ . . . ‚ len-1 sont independants de ας
+mettons ensuite, pour M ..... Mu designant des entiers positifs, ΡΨ)
+16 produit (20) et ερ les valeurs (55), les deuxidentites suivantes‚
+
+(172) G Πω) = 0⁷<ae — ιη’· - - - ω — NJ = ψω>” — P<oe>x<oe>⁷²
+
+= (φω) - ΡωῨκωηωω) »- ιο-ιΡωῡῆχωη - - - ωω) - ÷;21P<222>‡2<J>)
+et
+
+(173) GH1<³2)= G(·2‘— ΗΜ · · - (τ- Ιτμ)Μ“ = φο (ιτ >⁷¹ —P( vx) ο(ιτ )”
+
+Ξωοω>- Ρω>χοω ωο(η(φ )-÷1-¹P<a2>ssx0<ae)>---(w) ιοῑ- Ρω mozo)
+
+ou φθῇ) et 950(oe ar) representem les valeurs de 900²) et χ<ου> poui α’). = lz'.
+(r = l , 2 7 . . . 7 μ), c’est-a-dire pour un autre systeme de valeurs des
+ooeffioients 90 ‚ . . . 7 92] et lc ...... lvx-1 ; alors nous allons etudier les pro-
+prietes de la fonction
+
+Nova Acta Reg. Soc. Sc. Ups. Ser. 111. 6
+

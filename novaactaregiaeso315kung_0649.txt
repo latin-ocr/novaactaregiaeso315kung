@@ -1,0 +1,50 @@
+ANALYTfficHE DARSTELLUNG Dsss ELEKTROMAGNETISMUS. 53
+
+Aber Bw ist der Kraftfluss I, der htugs des Fadens konstan‘t. ist,
+wenn ρ und σ iiber-all = O angenommen werden. Wenn man die aus
+den influenzirten Belegungen ρ’ und (τ’ stammenden magnetomotorisohen
+Kritfte gegen die aus der Stromspule stammende Vernachliissigt, so wird
+
+ 
+
+S=JR
+R=sffi
+&Q »μω
+S=4nNi
+J:Bw‚
+
+ 
+
+welche Formel eine Erweiteruug des Ohm⁷sohen Gesetzes ἰδῇ sie is'c
+zuerst von Hopkinson hergeleitet.
+
+Aram.N Die Formel (59) gilt fiir jeden beliebigen Theil des Fa- Ὗ
+dens, wenn S die Potentialdifferenz der Endflkichen bedentet.
+Elektromotorz'scloe Kmft· Es habe μ ein Potentia-l, So dass 'man
+
+stef—{g (3)
+
+schreiben kann. Die Gffisse M wird dann (Vgl. S. 18) so bestimmt, dass
+im Inneren des betraohteten Raumes
+
+AM=0
+
+und an der Oberflaehe
+ὂΜ -
+
+W
+
+O
+
+mit Ausnahme von den Quersehnitten‚ wo
+
+&M
+6⁷7, Ξ -μη
+
+ 
+
+zu setzen ist. Ffir einen einfaehen gesehlossenen Faden ist nur ein
+Querschnitt vorhanden. Setz‘n man (vgl. S. 28)
+
+&oe ΛΜΞ-με,
+

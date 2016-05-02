@@ -1,0 +1,39 @@
+Soient a0 , al , α2 , bo , b¹ ‚ σο des constantes arbitraires, assujetties seule-
+ment a la condition, que aO , a¹ ⁷ οι2 ne s'evanouissent pas simultanement‚
+l’equation differentielle lineaire du second ordre
+
+(αοῑᾍΞαμ-μαὲἥζέμὸοτψῳᾱῖθῖψσορΞΟ
+
+jouit de la proprie'te, qu’en choisissant ces constantes d'une maniere con-
+venable on pourra satisfaire a elle-meme par toutes les fonctions simples,
+la puissance, la fonction exponentielle, le logarithme‚ les fonctions circu-
+laires et les fonctions circulaires inverses. Au surplus on peut satis-
+faire ἐι cette equation differentielle par un grand nombre de fonctions,
+composees des fonctions simples. Mais ces fonctions ne suffisent pas
+pour la solution de Pequation differentielle sus-dite sous la forme gene-
+rale. Dans ce memoire je me propose de determiner la condition⁷ pour
+que l’on puisse satisfaire a l'e'quation differentielle par une fonction entiere
+rationnelle de t, et de deduire une expression analytique de cette fon-
+ction dans tous les cas, οὺ cette condition soit remplie ¹).
+
+1) Les travaux, que j’ai consultes sur ce sujet, sont:
+
+I. TODHUNTER, An elementary treatise on Laplace's functions, Lame's functions
+and Bessel's functions. London 1875.
+
+C. F. GAUSS, Aflgemeine Untersuchungen iiber die unendliche Reihe
+
+α.β a(a÷1)ss(ss÷1) '2
+
+Ιψῆωψ 1.2.y(y÷1)2 ÷ ......
+Ubersetzt von H. SmoN. Berlin 1888.
+
+A. R. FORSYTH, Lehrbuch der Differentialgleichungen. Herausgegeben von
+H. MASER. Braunschweig 1889.
+
+W. W. JOHNSON, A treatise on ordinary and partial differential equationS.
+London 1889.
+
+Η. LAURENT, Traite d’AnaIyse. Tome V. Paris 1890.
+Nova Acta Reg. Soc. Sc. Ups. Ser. III. l
+

@@ -1,0 +1,48 @@
+DEVELOPPEMENT D'UNE FONCTION ANALYTIQUE POUR UN CONTOUR eto. 55
+
+ayant, d’apres (204), 166 valeurs (166 61111616 positifs Μ, ., . . . , Μμ determinees
+de maniere que leur somme soit &gale 611 degre (ινιτ-1. 1)Ϋ (16 l'equation
+(5
+
+(192) par rapport 6 ff. Α11161, pour η = a: 2 ou pour les integrales
+elliptiqnes et hyperelliptiques en sens restrein‘c, on aura [(202), (203)]
+
+,ιιΞΕ-μὶ et 2OE÷2>÷l=M1÷=w÷Mu7
+
+sormules· qui, pour κ = Ο, (1011116111, pour m = 2 et m = 3 , les egalites
+μ = 2 et Ml ÷ AI2 = 3 ‚ et, pour m = 4 et m = 5 7 les egalites μ = 3 et
+Jsl -4- Μ2 -1- Ma = 5, et ainsi de suite.
+
+Pour η = 2 ‚ o'est-{z-dire pour les integrales elliptiques et hyper-
+elliptiques 611 sens restrein‘t·‚ 11 y a une maniere particuliere de diminues
+16 nombre (166 variables independantes jusqu'& une. En effet, 61 1ὀι1
+pose (16116 (20) et. (171)
+
+ΡΨ) = (τ - em> · - · <w — em÷1-s)l³³(·2‘> ⁷
+
+(ΗΕΘ) 1 ‹fist-v> Ξ [(,υ -ffl . . . (ω - επιψεᾘὲφκ-τ) 7
+
+16 faoteur [Qu - em) . . . (x — emm—sss& etant par suite contenu (16116 16 fonc-
+tion φεμ), 11 6’61161111; que 16 fonction Aba> [(174)] prendre, pour χ<κ) = l⁷
+16 forme
+
+221) A=(.z¹) -Q⁹{'¹ 6910g ‹AQ- εἲ PM)
+P(Je)'‘ ‘³² <P0(³³)- ἓξ 1ΡΨ)
+
+ 
+
+Ί
+
+oh φὼφς) est 16 valeur de (affl) pour ,1, = 7er = 1, 2 ..... μ); par eonse-
+quent, puisque εἴ (ρ = 1, 2) ne represente que les deux valeurs (ss l)⁷
+16 fonction A(oe) est encore uniforme et finie pour :c = αφ’ = 1 , 2, . . . , m),
+et l’on aura, 611 lieu de (172), ridentia} 6111176616, (16 degre μ = 2v—s,
+
+(222) GHQE) = 6³(OE — ³01) · · · (x — εεμ) = ws(x)² — Ro)
+
+ΞΜω-Εωᾚωωψῌωῆν
+
+identat& qui donne oe systeme d⁷equations [(181)]‚
+
+we mom-Rmst=0 0:1‚2 ,,,,, m,
+

@@ -1,0 +1,64 @@
+DI'SVELOPPEMENT D'UNE FONCTION ANALYTIQUE POUR UN CONTOUR ΘῒΟ. 3
+
+Maintenant il s'agit de trouver 13 moindre valeur de s finie ou
+infinie pour laquelle l’integrale prise auteur du eontour C soit rendue
+egale ἐι une quantite J finie ou nulle en meme temps que le 601110111- C
+s’etende sur tout le plan, o'ests-{r-dire qu'il soit pris de plus en plus grand
+ὲ, devenir infini en tous les sens. Eu effet, 13 valeur cle 13 quantite J
+se determinem en 13 posaut sous 13 forme,
+
+,Υ “·
+11311- M) 100113¹ <now
+
+ 
+
+ 
+
+ 
+
+ 
+
+<ww 0 1121·
+valeur qui7 pour ε = ὲ . deviendra
+(4) J = — Qniffltssv- Ιι) ⁷
+en meme temps que
+(5) lim F< ) - sn ,
+<- =³.> <2 — a>
+
+les quantites SD} et ⁵3} etant tontes deux finies ou toutes deux nulles [Ι
+[1Ο 6 et Π n⁰ 7] ¹).
+
+Pour evaluer 13 somme des integrales des laeets Α1 , . . . ⁷ AR, nous
+13 ρ3113ἕ60115, suivant H (13), en deux somnies, celle des integrales lineal-
+res et celle cles integrales oireulaires
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(ὅ) Ξ] 1 ῗῖῖ) 10g215‘l223l 3²³5- ¹²<²>-F< >¹ Ῑῡὲἶῖῑῗ < ἷῗῑ
+⁰⁹17 , (ω) ,ε-ιξάέ
+4-an (5-11 815-11 ⁷
+
+1) On doit observer que, dans 13 limite (5), 5 eonverge vers l‘infini (1”111161113-
+niere dzssseontinue eu se mouvant sur le contour C qui est arbim-anement ehoisiaele
+plns 61] PIUSO o”rand ᾗ devenir infini en tous les sens tandis qu’il conserve son caractere
+
+essentiel de ne eontenir parmi ses points aucun point mitique de la fonction ἐμὲ.
+De plus, le contour C etant d'une forme queleonque sous la restriction que 165 ra) ons
+
+veeteurs Tuo — ἦ), soient eomparables [ΙΙ 11Ο 7], 11 suffit pour la condition (ὅ) que 165
+points critiques de Fe), 311 voisinage de 5 = ὲ , soient assez disperses pour qu'on
+
+puisse faire glisser la ligne C entre 665 points sans toucher aucun d'eux.
+

@@ -1,0 +1,66 @@
+Sui< UNE θηΝηκΑηιεΑΤιοΝ Αηθηηηῐρυη DES NOMBRES DE LAME. 27
+
+Dans le oaleul suivant nous ferons usage de l'expression
+
+<12 ÷ 4>÷
+
+pour les valeurs purement imagin-diros de la variable α’, qui sont com-
+prises entre -2z' et 22'. Pou'r ces valeurs de α] la quantite m² -4- 4 est
+evidemment positive, et nous designerons par (affl-{Aff- la raeine carree
+positive de ὤ -}- 4.
+
+En mett-<int l’equation (168) sous la. forme
+
+ 
+
+(169) 2202 ÷ 2)(1-21Γ 4>÷2121= Τ] {wi-451 ᾗζῖέ ,
+nous en obtiendrons par integration entre les limites a: = - 22· et
+:c = 22’, θη supposant que n Ξ 1 ‚
+
+(170) j‘m (2⁶² -Ι- wanda: = O ‚
+
+formule, qu'on peut generaliser de Ia maniere suiv-ante. Remplaeons η
+par m dans l'equation (168), nous en deduirons pour m Ξ O
+
+d²zcm ἦ- 3oe dum
+
+d 33² (1.1,-
+
+x
+
+(171) (nt-² -1- 4) — m(m 4- 2)sz τ. Ο .
+
+ 
+
+ 
+
+et en multipliant les deux membres de l'equation (168) par um et les
+deux membres de l'equation (171) par un, nous en tirerons par sous-
+traction
+
+d²un d²um
+
+)
+dae² —un (1ng
+
+ 
+
+ 
+
+(172) (121- 4> 3u„
+
+—> {72² -1- 2η- m² — 2722}u„1un = O
+ou
+
+(173) (η-Ίνι)(ηψιη;12)αηαη(1ἳψ4)1ε 23(x2÷4>÷(u„22l-‚21-u‚2—m .
+
+daz
+
+Puisqu'on a m Ξ O ‚ n Ξ O ., 1θ facteur η -4- m ÷ 2 ηθ s’annulera
+
+pas, et θη supposant, que les nombres m et η soient differents entre
+eux, nous obtiendrons de l’equation (173) par integration entre les limites
+
+(174) Γ (oe2 ψ 4>÷umundx Ζ 0 ,
+-22-
+

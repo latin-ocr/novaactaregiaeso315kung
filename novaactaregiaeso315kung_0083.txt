@@ -1,0 +1,47 @@
+ElNIGE UNTERSUCHUNGEN IN DER ALGEBRA. 5
+
+3¹52 entspricht also ΣΘ nach (4). Hieraus folgt, (1388 die substitutionen
+(5) eine Gruppe bilden und dass diese Gruppe zu der Gruppe ((6,
+Τι , . . . Tr-1)) isomorph ist. Wir bezeichnen die Gruppe (5) mit [¹.
+
+Der Substitution 1 in Γ entsprechen in ((6, Τ1 , . . . Τ,-,)) die
+Substi'nu‘tionen⁷ welche den Gruppen 6, ΤῙ16Τ1 , . . . TrIJGTr-l* ge-
+meinsam sind. Ist die Anzahl dieser Substitutionen m, und bezeichnet
+R die Ordnung von Γ, 80 ist die Ordnung von ((6 , ΤΙ . . . ΤΓ,1))
+gleich mR.
+
+Wenn Γ transitiv ist⁷ muss ((6 , Τ1 , . . . Τ,,,1)) substitutionen
+3118 allen ‘1¹² Komplexen in (l) enthalten. Wenn ((6, Τ1 , . . . Τ,,,))
+substitutionem 3118 allen r Komplexen einer Kolumne in (l) enthelt, 80
+ist Γ transitiv. lst Γ intransitiV‚ 80 existiren in jeder Kolumne in (1)
+unter den r Komplexen solche, in welche keine Substitujzion 3118 ((6 ‚
+T¹ ‚ . . . Tr,1)) eingeht.
+
+4. Es mbgen in 6 eine oder mehrere Gruppen Jenthalten sein,
+so beschaffen7 dass die Substitutionen in
+
+(6) J, szTl , . . . ([Σσ-υΤΗ
+
+eine Gruppe bilden, wenn Συ) , . Σ(”“1) paesende Substitutionen 3118
+6 sind⁷ welche vielleioht auf verschiedene Weise fiir verschiedene J zu
+wethlen sind. Dann 1111188 die Gruppe (6) in ((6, Τ1 , . . . Τ,-,)) Vor-
+kommen.
+
+Weil namlich die Substitutionen in (6) eine Gruppe bilden, 80 ist
+ΤΓΣΨὈ-1 eine derselben und man erh‘ath wieder die Substitutionen in
+
+(6), wenn man sie links mit Τλ-1Σ(λ)”1 multiplicirt. Die Substitutionen
+in (6) sind also dieselben, wie die in
+
+ΤΓ Σαμ] ‚ ΤΓΣαΓ1 ]Σ“> T ..... Τ,-’Σ<λ>-1 ιΤΣ <r-1> 11,ι .
+
+Diese sind aber alle in der (Z-f- DQ Kolumne in (1) enthalten. Jede
+Substitution in (6) kommt. also in der (lq-If& Kolumne in (l) {ror
+und also in jeder Kolumne in (1), da λ willkiirlich ist. Also 1111188 jede
+substitution in (6) in ((6, Τ1 , . . . Τ,-1)) eingehen.
+
+Es sei H die Gruppe der substitutionem welche 6 und ((6,
+T¹ , . . . Τ,.,,)) gemeinsam sind. Weil ((6, Τ1 , . . . Τ,,,)) die Sub-
+stitutionen (6) enthfflt und 3180 Substitutionen 3118 allen r Komplexen in
+der ersten Kolumne in (1), 80 besteht ((6, Τ1 , . . . Τν-1)) 3118
+

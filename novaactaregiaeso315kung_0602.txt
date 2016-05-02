@@ -1,0 +1,50 @@
+6 H. Pmmm,
+
+VVenn der Punkt (πρε) sich durch die Doppelschicht bewegt‚ so wird
+«ΙΙ, einen Sprung erleiden, dassen Werth
+
+ἅθ’ - Jv' = —— 47sz
+
+ist, was man unmittelbar durch die in der Potentiatheorie vorkommenden
+Betraehtungen findet. Da P selbst nieht diskontinuirlieh ist, so ist der
+in irgend welcher Richtung genommenae Differentialquotient dieser Diffe-
+renz gleieh Null, und folglich ist
+
+κν konstant ‚
+
+Jv = κ,,ῼν .
+
+Vl :soclw -Ι-ΣκνΩν-ι-λᾯ-ίῖτ ⁰
+r r
+
+Um den Werth von V in dem urspriingliohen mehrfach zusammenhssin-
+genden Raum zu bekommen haben wir nur eine cyklische Konstante
+beizuffigen, die um die Differenz
+
+Man hat also
+
+ 
+
+131‘- V(
+
+bei jedem Umlauf von der einen Seite des Quersohnittes bis zur anderen
+Wfichst. Diese Differenz fiir den Quersehnitt ων ist gleich
+
+47zx„ .
+
+Definition 4. Um auf einfaohe Weise diese cyklische Konstante
+ausdriicken zu kbnnen wollen wir den Begriff des soliden Winkels
+etwas erweitern. Bisher haben wir diesen Begriff an die Betraohtung
+einer Flfiche geknfipft, an deren willkfirlieh gewz'ihlter positiver Seite
+52:271, und an deren negativer Seite ΩΞ-Ξπ ist. Jetzt wellen
+wir statis der Flfiche selbst deren Begrenzung betraohten. Es gieb‘n dann
+keinen Grund, wesshalb Ω in irgend walchem Punkte, der nicht auf der
+Begrenzung liegt, eine Disk0n†inuit.{tt erleiden sollte, und daher wellen
+wir Ω mehrwerthig mit der Periode
+
+471
+
+annehmeu,
+
+ 
+

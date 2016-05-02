@@ -1,0 +1,73 @@
+DEVELOPPEMENT D'UNE FONCTION ANALYTIQUE POUR UN CONTOUR etc. 37
+
+(147) 903) = 1, .1J'(l³‘)= 0 ³ - - - ,
+
+et· par suite 16 developpement (143) sous la forme
+
+1
+(α - (J')² ³
+ou l'on aura d⁷apres (120), pour l’infini β = Ο , la difference finie
+
+Λα) - {2} = {wo ,
+
+(146) Γ dm) = 1111 Σ
+
+ 
+
+(149) (ling
+
+ 
+
+)
+
+et ou la constante fflt sera convenablement detenninee en identifiant, u
+ἐι quelqu’un des points caracteristiques de J(u), e'est-a-dire en posant
+zar-O, 1⁶:7²0(‹5=1‚2‚3‚) ou u=ssA.
+
+Si l'on pose suivant (144)⁷ pour β = Ο, l’identite (148) sous la forme
+
+(150) 9<u>=1÷u2[⁵-‘Jt÷2‘4a 1 2),
+Ἰ -m
+
+la somme Σ’ ne comprenant pas 16 terme ἐκ, et que l'on derive cette
+identite un nombre illimite} de fois, on obtiendra les derivees successives
+de 90⁶), pour u=0⁷ exprimees 611 des series convergentes dont les
+valeurs sont donnees sous formes finies dans (147).
+
+Le developpement de la derivee logarithmique de l'inversion J(u)
+suivant la formule (113) se fait immediatement en observantque ia serie
+S‘(u)‚ en vertu de l'uniformite de Jffl), s’annule et que par suite 16
+
+contour de convergence se compose des cotes extremes du reseau de
+
+ 
+
+periodes infini de la fonction §gg . Comme consequence de ce deve-
+
+loppement on aura 16 developpernent de J(u) 611 produit infini suivant
+(116). D'autres developpements se font suivant les formules (95) et
+(96). Les developpements de la fonction complementaire 3(α) sont
+donnes suivant (139) par la connaissance des developpements de la
+fonction elliptique sin am Hff'fu .
+
+ 
+
+Applz'catz‘on ιὶ ἴ inversion hyperellzplique J (u) pour n = 2 et m = 5.
+
+22. Dans ce cas les nombres caracteristiques de J(u) sont
+
+Ι 1151,
+
+-23
+le
+
+-ιι
+
+Α
+
+(151) [Ξ ‚
+
+ΦΟΙΝ)
+
+2 ⁷
+

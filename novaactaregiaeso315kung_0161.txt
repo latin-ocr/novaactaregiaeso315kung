@@ -1,0 +1,60 @@
+sz (ΕΞ FONCTmNs ENTII'ERES mmommms, otc. 23
+
+sex-ont dbsormais entiffl-es et ratiounelles comm& auparavam, mais leur
+dog-112 pourra diffirm- de w.
+Dcffinissons ε comme fonction de ,ι- et de t au moyen de l'eigalitc}
+
+(118) Ξ = -υ ÷ ἤϊξε) ,
+
+Ξι chaque valeus de f correspoudront eu ge'ubral plusieurs valeurs de :3
+mais en conside'rant la valeus de ε, qui se rcssduit ὲ 2· pour t: Ο, nous
+aurons d'apmss un tlussolkme de LAGRANGE lo duveloppement
+
+'¹ n—1
+11 . 2 . ἒ, . . . TI— {f<=1‘>'‘F‘<ae)}
+
+ 
+
+(119) F<2> = Fer> ÷
+
+ιι [ΑΞ
+
+71
+
+pour les valeurs suffisummen‘s. petites de t. Par difffirentiation par rap-
+port ἐι v On tire de la sormule (118)
+
+1
+1 — tf‘<2>
+
+ 
+
+(120) {RE ὲ
+
+et de sefiquaffion (119) on demnis„ en dfffffiffllffiant pal. rapport ἐι x et en
+y appliquaut lkquation (120)7
+
+(τε) „ ff z t¹² g
+
+(121) Γ-ῖ- aa
+
+ 
+
+{f(oe>'² F '<a‘>}
+
+ 
+
+ 
+
+Substituons successivement dans les &quations (118) et (122)
+
+(123) f(2)=l2f(2)=2⁷f(2)=³²›f(2)=2²—-l2
+nous en obt-iendrons les rusultats suiv-ants.
+
+1) Pour s(2) = 1 on dffluit de 1⁷&quation (118)
+(124) z = a: -Ι- t 7
+
+et de 1⁷&quati0n (122) on tire dans ce cas la formule de TAYLOR
+
+(125) φ<ω ÷ τ) = Σ ᾖ §gfff -
+

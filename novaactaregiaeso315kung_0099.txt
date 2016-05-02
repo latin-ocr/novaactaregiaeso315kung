@@ -1,0 +1,54 @@
+E1N1GE UNTERSUCHUNGEN IN Dl-:R ALGEBRA. 21
+
+geordneten Faue ρ = 2, 3 , 4, 5, 6, jeden einzelu zu betrachten. Wir
+beginnen mit dem Falle
+
+9:2-
+
+Wir haben zuerst die Substitutionen in den Gruppen (11) aufzu-
+suchen. Wir miissen daun die schemata aufstellen, mittelst derer diese
+Gruppen zu definiren sind. Dio enthaltenen Substitutionenkomplexe
+setzen wir in die Formen Σ oder ΣΤΗ wo Σ der Gruppe G zugehiirt.
+Dies geschieht, mittelst (12) und (13). Wir bezeichnen weiter mit Η0
+die Gruppe der Substitutionen
+
+{z'‚a(z'-r÷1>÷r-1fl‚ (a21,2,3,4)
+Danu erhalten wir:
+(14) ((G, TQ) Ξ Die Substitutionen in He, H0.1i‚ 2'-=r -ξ- 11 . ΤΓ .
+
+Wir bezeichnen ferner mit H¹ die Gruppe der Substitutionen:
+
+171z',ffii÷r-†-3-2],
+
+und erhalten:
+
+«Tr—'G ΤΓ , Ί’,.“1 T,)) Ξ Die Substitutionen in
+H„ Η. - ιῑ, 2<21—s>2<2‘÷2r÷2s÷ m. m„
+H, · si, <†›·—-s·)2<2·÷r - ΔΓ 1)( πω,
+H1-52·‚<r—‹<·>2<2·÷s—22·÷ nl· ΤΗ
+
+Die Grruppen ((G⁷ T„)) und ((T„—¹GT†, ΤῙῙΤ,)) euthalten beide 8
+Substitutionen. Bei der ersten Gruppe wird :cr-1 nieht umgesetzt, bei
+der zweiten atwffl„1 .
+
+Fflr die vveiteren Untersuehungen des Falles ρ = 2 sind drei un-
+tergeordnet-e Ffflle Α, Β, C zu unterscheiden.
+
+ 
+
+(15)
+
+ 
+
+A. Es mbgen xo, oel, 5⁸2, a: ιτ, εὲἱῐῃηηίἰοῇ unter sich ver-
+schieden sein.
+
+VVenn die Funktionen (10) aus φ und ῳΓ bestehen, ist die Gruppe
+der Gleichung (7) in der Gruppe (14) euthalten3 wenn sie aus φ, und
+(p, bestehen‚ in der Gruppe (15). Die Gleichung (7) zerfallt in beiden
+Fffllen in zwei Gleichungen mit rationalen Koefficienten‚ was sehon aus
+
+n:0 14 folgt, weil 1 < ρ < n ist. Die erste dieser Gleichungen ist vom
+
+³7
+

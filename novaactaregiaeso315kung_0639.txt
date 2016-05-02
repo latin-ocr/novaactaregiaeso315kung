@@ -1,0 +1,55 @@
+ANALYTISCHE DARSTELLUNG DES ELEKTROMAGNETISMUS. 43
+
+Formel {tndern1). Denn durch Variation nach r kommt in den zuge-
+
+ 
+
+fiigten Gliedern ὃν· under dem Zeichen ᾗ oder ὃς
+
+ῒίοι] nach s· oder ,ς’ nothwendig macht, wodurch dieses Glied fortfffllt.
+Eine besondere Form der φ und ψ ist vor allen anderen ausgezeiohnet.
+Wenn man nssihnflieh beachtet, dass W eine symmetrische Funktion in
+Bezug auf s und ,ς’ ist, so ist es zxveel<11]}issig‚ Wenu der Einfachheit we-
+gffl] nur eine Funktion eingeffihrt wird, dieselbe in der Form ‘
+
+Ι , was eine Integra-
+
+ὀᾶ
+&sas'
+
+ 
+
+zu setzen. Um die Homogeneitssit der Forma] nicht zu stbren71nuss
+dieses Glied von derselben Dimension
+
+1
+ᾙᾶηςθ
+
+ 
+
+COS ὅ
+
+wie das andere- oder sein. Es muss daher χ die Dimension ei-
+
+ 
+
+⁷) .
+ner Liinge haben. Die einfaohste Form von χ ist also
+
+x=fflm
+
+wo lc eine absolute Konstante ist. Ferner ist
+
+ὂ-ῗζξδ] = ὲ (cos θ cos θ’ — eos ε) ,
+
+und folglich kann W in der Form
+(46 : 3) W: —d‘Id‘I‘ss[} cos θ cos θ’ -1- ἐν’-Α eos e] dsds‘
+
+gesetzt werden, welcffle die v. Helmholz'sehe Form ist.
+Das gegenseitige Potential zweier Elemente kann gleich
+
+(51 : 1) d W: - ἐξ [lu¹ cos θ cos θ’ -Ι- (1 -- lc) cos ε] dscls'
+
+1) Vgl. jedoch Poincar6 »Eleon-ici& et Optique» II. Paris 1892 ξ 23, wo
+der Gegentheil behauptet i'st.
+

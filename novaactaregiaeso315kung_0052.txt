@@ -1,0 +1,47 @@
+16 OL. OnssoN,
+
+nehmlioh nur zwisehen den im Ausdrucke der lebendigen Kraft enthel-
+tenen Constantem irgend eine Ubereinstimmung festzuse‘czen7 samm‘c hin-
+siohtlieh der gegenseitigen Grbseenverhssiltnisse der Constanten einige
+Beetimmungen zu ertheilen, und man erhfflt ein ferneres Integra] der
+Bewegungsgleiohungen.
+
+Wir werden jetzt die Existenz dieses Integrals aufweisen, sammt
+die Bedingungen, unter denen es giltig ist, herleiten.
+
+2. Wir transformiren das Ooordinateneystem aeyz in einen neuen
+Anfangspnnkt ,τομο 20, sammt drehen die Aehzen zur Lege oe'y'z',
+
+Dann erhiilt man
+
+u=u¹4-20q—1s077⁷
+
+ 
+
+(1) v=v4a³0r—zop,
+ι w-zv -5-90P-2'04]
+sammt.
+{22 =pffa1÷902÷⁷0s37
+(2) q=p²st3 ÷ql34 42's33
+
+ΊΞΡΜΥι-ΐ-(ΙΥΓἩΊΥε,
+
+wo α’ ‚ v'‚ w' ⁷ ρ’ , q' 7 ‘1 'die Translations- und Drehungsgeschwindigkeits-
+eomponen‘cen hinsichtlieh der neuen Aehsen sammt α’17 α’ἳ, α’3 , . . . die
+Coefficienten der Achsenwinkeln zwisohen den beiden thsensystem
+,τρε und oe'y'z' bezeichnen.
+
+Wenn man diese Werthe von u ‚ v, w , 2) , q, r im Ausdrucke der
+lebendigen Kraft substituirt, tritt dieser=·als Funetion der Componenten
+α’ 7 v' ..... hervor:
+
+2T Ξ c'nu'2 4- 20‘12u'v' 4- 20'13u‘w' 4- 20'14u'p' 4- 20‘15u'q‘ 4- 20‘1520'22'
+4- 6'2217'2 4- 2e23v'w' 4- 20'24v'p' 4- 26'25v'q' 4- 20'230'2s
+(8) -f- 0‘33‘0'2 4- 20'34w'p‘ 4- 2635w'q‘ -ἱ- 20‘2620'7!
+-ὖ- θἰμῖἷ2 -1- 2 Clwplsl' -1- 2 c'ffip'r' '
+÷ 6155912 -Ι- 20'55q'r'
+
+-1- 61667Ἰῖ ⁷
+
+wo die Coefficienten (3]λο cau sammt ffloono und α’ὶ ,α’2,α’3,. . . enthalten.
+

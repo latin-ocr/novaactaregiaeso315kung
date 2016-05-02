@@ -1,0 +1,52 @@
+24 GORAN DILLNER7
+
+οὺ les laoets Α1, . . . 1 A„ entourant tous les points eritiques α ...... α1,
+de J(2)‚ sont situ& ὲ 1’1Π1;ό1·ἰθιιῐ’ du contour C. Pour le eas qu⁷il y a un
+point critique ar sur le chemin d'inte'zgration C, on &vimara⁷ de la manibre
+usitae, ce point en premant l’int&grale suivant la demi-circonffirence du
+cerole infiniment petit Θ. Puisque la fonction J(z), en vertu de sa
+
+double ρὲῑίοᾶίοἰῖὲ, est finie ἐι chaque point du contour C, on obtiendra,
+d’aprhs (10) ὲ l’aide de (4) et (5), l'identin}
+
+ms&
+
+(83) summa Ξ mma .. 72> ΔΓ ΞᾼΉ Σ Jr-1<2>10g {1} d2÷s<u>-S<J2)‚
+
+ou plut& l'identit& dcssrivae [(12)]‚
+
+1 ⁷'2k εἰς
+Q> Jw=ffi÷ffiffgs Joeww—÷Qw-
+
+'cc—2
+
+oh l’on a pos6, d'aprbs (11), le d&veloppement
+
+(85) δ’(α) = L0 -Ι- Ι31(ῑι — α) -ξ- L2(u — 00² 4- . . . 7
+
+les ooeffieients [31),13111327 &tant d'aprbs (9), exprim& par la formule.
+
+ 
+
+fflw—oejffiwd<>JQ(—a—sssw MQJ -ᾒμ
+
+=—L2„-1(2=1.2‚---)‚
+
+mais ἑνειΙυόε, par des de‘zrivations successives de l'identit& (84) par rap-
+port ὲ u, suivant la formula (13) ou
+
+l—ll j Swffl) = 141& Ξ 1, 2, . . .) .
+
+l
+D’un autre Οόῒό on a, d'aprbs (14), l'identiffi
+
+(87)
+
+ 
+
+(Q) fifflffst=wm—m÷sw—Sw‚
+
+ou plutsst. l’identitess ᾶότὶνόθ
+
+(89) J(u)=5ffi-1-L0-1-L1(u—cz)-}-L2(u—a)²-4-...,
+

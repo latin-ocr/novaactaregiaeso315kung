@@ -1,0 +1,59 @@
+ANALYTISCHE DARSTELLUNG DES ELEKTROMAGNETISMUS. 37
+
+Wir wellen jetzt die Eil'nvirlzung der verschiedenen Systeme auf
+einander berechnen.
+1. Zwei nicht vektorielle Sys‘ceme.
+Es seien
+ρᾶτ 9'‹lr' W dP
+
+die Elementarbefflgungen, das Gesammtpotential und die an der Be-
+legung ρσίτ xvirkende Kraft. Danu ist
+
+l W Ξ s fflffflssflff
+
+(44) 1
+
+fla—
+
+&Z εἵατ’ (3) .
+
+ 
+
+ 
+
+δΡπ = ξ pem]
+
+2. Eine nicht vektorielle Belegung und ein System vektorieller
+
+Belegungen, die einen Vek‘torfaden bilden.
+Es ist (vgl. S. 26 u. 20) mit derselben Bezeichnung wie oben
+
+ 
+
+ 
+
+ 
+
+,Ἰ ,ἡδὲ
+W 2 - &J‘jpsſtrfl &J clm
+(45)
+- ,
+ὃΡῑΞ-ρζῖτδ] Ιῖηφὸἠιτζίωε pcl‘cd‘Is Sin 58! Ι) λξ(ἰ8’
+
+ 
+
+wo ‹5J' der Vektorfluss sth'clw' des Fadens ist.
+Die Kraft &P kann also als der &Resultant der Elementarkffifte
+
+J. — pde' sin (8¹,2²)cls‘
+
+,714
+angesehen werden, welche rechtwinklig zu r und ἅθ’ gericl1tet sind. Die Ein-
+Wirkung des Fadens an ράτ ist eine durch den Punkt (aegsz) gehende Kraft.
+Da die Einwirkung der Belegung ρ clv an dem Faden gleich und entgegen-
+gesetzt gerichtet ist, so muss die an dem Faden wirkende Resultant-
+kraft auch durch den Punkt (πρε) gehen. Dies wird natiirlich erreicht,
+wenn man die an dem Elemente &I‘ds‘ wirkende Kraft gleich und ent-
+gegengesetzt der obigen Elementarkraft und in dem Punkte (πρε) ange-
+bracht annimmt. Man kann jedoch beweisen‚ dass die Resultantkraft
+

@@ -1,0 +1,33 @@
+Sehon lange hat man gewisse Analogien zwisehen Elektrodynamik und
+Hydroclynamik gekannt, welche den Gedanken an eine hydrodynamisehe
+Erkla'rnng der elektrisehen und magnetischen Ereignisse gelehnt haben.
+Aber es ist von O. NEUMANN 1) und P. VASCHY2) gezeigt worden, dass
+diese Analogie ganz und gar formeller Na‘tnr ist, indem man willkfirliche
+Funktionen mittelst. Ausdrficke claretellen kann, die. gewissen in der mathe-
+matisohen Physik‚ besonders in der Elektsrodynamil( und in der The-orie
+der Wirbelbewegungen‚ vorkemmenden Formeln {ihnlieh sind. Dieser
+Umstand giebt die Anregnng ein rein mathematisehes Gebssiude von For-
+meln zu hildem, deren. physikalisehe Becleutung zu bestimmen es der
+Erfahrnng zukommt. Auf diese WVeise wird cler Vortheil gewonnen⁷ dass
+die Zahl der Hypothesen zu einen] Minimum reduzirt werden kann, in-
+dem es klarer dargestellt wird‚ welche Facta von prinzipieller Natur
+anznsehen sind.
+
+Wir werden hier die wichtigs‘ren bisher in dieser Hinsich‘s. gewon-
+nenen Resultate mittheilen und uns bemnhen die, Betraehtnngsweise ein
+wenig weiter zu fiihren. Um die Darstellung nieht zu viel zu belssistigen
+werden wir die allgemeinen Grundsssitze (lor Potentialtheorie als bekannt
+voranssetzen ebenso wie die gewbhnlichen Transformationsformeln von
+Ramn- und Flfiehen-Integralen in Fliiehen- und Linien—Infegrale.
+
+1) C. NEUMANN: »Beitriige zu einzelnen Theilen der Mathematiscllen Physik».
+Leipzig 1893. s. 231. ’
+
+2) Ρ. VASCHY C. R. 1893: »Sur une prom-iet& generale dos champs admet-
+tant nn potentiel» S. 1242—7. »Essai d’une nouvelle them-ie (le I'Electrostatiqne»
+S. 1286—9. »Propriete generale (l'nn ohamp queleonqne n'admettant pas (le potentielf..
+S. 1355-7. >Sur une proprie‘ete generale des clnunps electriqnes et magnetiques» S.
+1437—40.
+
+Nova Aeta [leg. Soc. Sc. Ups. Ser. ΙΙΙ. l
+

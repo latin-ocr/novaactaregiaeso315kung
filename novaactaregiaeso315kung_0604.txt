@@ -1,0 +1,48 @@
+S H. Pmmm,
+
+δαῖε 3. Ein jedes Vektorfeld kann wie ein Kraftfeld dargestellt
+werden, welches theils durch Newton-Coulomb'sohe Massen, theils durch
+Laplace'sche Vektoren hergestellt ist, oder m. a. W. jeder Vektor kann
+>als der Resultant von zwei anderen Vektoren angeeehen werden, von
+denen der eine ein Potential, der andere ein Vektorpctential hat.
+
+Erstlich werden ,wir unter der Annahme, dass Satz 3 gut, und
+dass man also schreiben kann
+
+ 
+
+(8) Pl =
+
+einen Ausdruck ffir die Grcseen VFGH abzuleiten versuchen. Mit An-
+wendung der Bezeichnungen
+
+Ι ξψξψόἐεέῑπρ
+(9)
+Ι ΕΞ — ὃ-ΡΉ = 471„th (3)
+63] ὂε
+und -
+
+(10) Q4.³—G÷EIJ=J
+6oe &y ὃε
+
+erhfflt man gemess (8)
+
+(Π) <AF-Es: --4πμῑ (3) .
+
+6oe
+Behandeln wir J als eine nither zu bestimmende willkfirhche
+
+Funktion, sc wird die L'esnng der Gleichungen (11), wenn der Raum
+einfach zusalnme1]h}tngend gemacht worden ist,
+
+(12) F: snffgd—w†sffl=-ss-— -,-’ (3)
+υ ν ⁴ 471 ²
+
+wo die Funktionen σξ ση σζ J so zu bestimmen sind⁷ dass der Gleichung
+
+(10) genfigt wird3 σε ⁰⁷7 σζ Ιώηῃθι] als ein Vektor σ aufgefasst werden,
+
+dessen normale und tangentiale Komponenten on und σι heissen lncgen.
+
+VVenn ihre Projektionen mit. σηξ, ⁰¹} etc. bezeichnen werden, so ist
+

@@ -1,0 +1,65 @@
+DEVELOPPEMENT D,UNE FONCTION ANALYTIQUE POUR [ΣΝ CONTOL’R ΕτῒΟ. 13
+
+de'aeveloppfflneut qui jouit de la proprie'te' importante- d'avoir αα moins· q υα-
+leurs clzffe'rentes suivant que (3-ι dans (41) regni-*ente quelqu'zme de ses q
+valeurs.
+
+Remarque I. Les points el , . . . , 0²1„ &tant situeES sur l'axe HSeL il est.
+tout indiffessrent si on les suppose satisfaire aux intssgalitds ⁶³1 > 62 > . . . > em
+ou aux in&galite‘·s e¹ < (²2 < . . .< em.
+
+Remarque Il. Les lbsultats obtenus dans ee [1⁰ S'GEtendront sans
+difficulte} au eas plus compliqu& que les points e, ,...,em sont situe's
+d'une manibre queloonque dans le plan.
+
+Calcul des de'rz've‘es de l’z'rratz‘omzalite‘ alye'brz'que.
+
+9. On exprimera les ἀέτὶνόθε suecessives de- (30) sous cette
+forme symffirique. x
+Posons
+
+sav> = 1³0&ss
+
+et
+
+ 
+
+ 
+
+ 
+
+γεω), 1 1 1 a.
+so> η e1-v—
+
+÷·m÷Q—OEV
+
+alors on aura d⁷aprkes un tmoreeme oonnu,
+
+s(s — 1)
+
+12 me⁷÷m-
+
+ 
+
+f<oe>00¹> = {sm ψ =f<se> 1⁷0> ÷ {f'w 1⁷0-1’÷
+
+÷f{;3}f(s=0‚1‚2,...)‚
+
+oh l'on doit substituer
+
+γα) {fi 1 l 1
+
+n (³1-x)⁸÷¹÷'''4(em—ae)³÷¹5('³=0'1'2''‘')·
+
+ 
+
+ 
+
+ι
+A l'aide de ces formules on aura la ἀότίνέε de P(oe)‘””d’un ordre .
+
+quelconque par des simples substitutions.
+Pour avoir les &riwes successives de
+
+sm = X‘* ³4⁸(X) '²
+

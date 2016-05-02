@@ -1,0 +1,45 @@
+ANALYTISCHE DARSTELLUNG DES ELEKTROMAGNETISMUS. 21
+
+ 
+
+BH BG ρ . fi = ο
+W .-- ἶ :j ιῑλξιλῖιιὶ-μ] χιλιξτῑτ (ω)
+(26) f: ,E sin (aff)
+f, = {ss sin (μ’μ’) ,
+
+ 
+
+wo die λξλῖ7 ete. die Richtungscosinen der ffl sind.
+Anm. 1. WVenn σ konstant und nach der Normale gerichtet ist,
+
+so ist
+
+(2ss ; 1) sfzgczw Ξ 0 . (3)
+
+Denn es, ist
+
+’Ἴ - a} a} ’,δὲ , 0}
+JJ'Lgdw 26] (nrmr)dw= σὲ] {sitq-02! ἡῘάτΣΟ.
+bys ὃς By ὂξ θεν ὂη
+
+F olglieh wird eine willkfirliohe Konstante in σ,Ζ keinen Einfiuss auf
+die Darstellung von P ausfiben.
+
+Anm. 2. Ffir einen {iusseren Punkb ergiebt sich, falls μ ein
+Potentia] hat und σ’ nach 2zo bestimmt wird‚ mit Rtioksioht auf (25)
+und (26),
+
+(26²³) [χίλιξᾶτ = -sfkgdw (3)
+falls J: Ο gesetzt wird.
+
+KAP. 11.
+Vektor-rohre.
+
+Definition 6. Der durch eine rohrfbrmige Flaohe begrenzte Raum
+wird ein Velctorrohr genanut, wem] auf der Mantelflache iiberall
+
+Pn=0
+
+ist. Ist der Quersohnitt des Rohres unendlioh klein‚wi1·d es Velctor-
+faelem genannt.
+

@@ -1,0 +1,39 @@
+Pour trouver dans l'hydrodynamique une equation 6 16 surface, on s'est
+ordinairement base sur le theoreme suivant:
+
+T lze'orbme A: »Um &lenient du fluide consz'de're' qui, ὰ un certain
+moment, se trouve ὃ( la suw‘s'ace clu fluide, ne peut y‘amais quitter cette &arsace->¹
+
+Oe principe etait 61101166 premierement sous forme d'lzypotlzbse,
+mais comme le principe de d'Alembert pretend 6 une generalite parfaite,
+il faut qu'il suffise pour expliquer le mouvement des fluffles, d’ou il suit
+qu’il ne faut pas adopter un principe 6966161 pour en deduire l⁷equation
+6 16 surface. Aussi plusieurs essais ont-ils 616 faits pour demontrer le
+1116016616 61101166 9166 haut, de sorte qu’a present il est considere le plus
+souvent comme un tlze'oreme. Pourtant, au premier aspect⁷ le theoreme
+A parait 1166 invmisemblable, et c'est pourquoi une etude 91116 approfon-
+die de cette question ne peut pas etre tout 6 fait sans 11116161, et, de
+fait, on trouvera sans peine que les principales demonstratione du theo-
+16166 1101111666 sont en defaut.
+
+ξ 1.
+
+Les principales objections qu'on 96111 faire 6 66 1116016616 peuvent
+&tre formulees sous les quatre numeros suivants:
+
+1:0. D'apres 16 definition de ))fluide))‚ une force, si petite soit-elle,
+peut transmettre dans un temps fini 1111 6161116111 quelconque du fluide 6
+6116 distance finie des 6166161116 11016166. Pour que le theoreme A 661
+quelque sens, il faudrait que, si l'on prend l'element toujours plus 9166
+de la surface‚ la (111166 limite du temps qu’une force finie emploiera pour
+de'placer un 6161116111 d'un point (16116 16 voisinage de 16 surface jusqu'a
+une distance finie de la 6611666, fut egale 6 l’infini⁷ ce qu‘on n'a aucune
+raison d'admettre.
+
+220. Au contraire⁷ on peut 1166 bien imaginer des forces finies7
+agissant 6 distance, appliquees 6 (166 particules qui 66 trouvent 616 sur-
+face et dirigees vers l'interieur du fluide, de 1116111616 que ces particules
+se transportent 6 1’11116116111’; p. ex. s’il y a7 dans la repertition des for-
+
+Nova Acta Reg. Soc. Sc. Ups. Ser. 111. 1
+

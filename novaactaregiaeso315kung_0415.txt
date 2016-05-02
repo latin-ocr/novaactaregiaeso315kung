@@ -1,0 +1,45 @@
+STRAHLUNG VERDUNNTER GASE BEI ELEKTRISCHER ENTLADUNG. 31
+
+VH. Ueber (lie Bestinuuung der Strahlung in absolutem Masse.
+
+Bis jetzt haben wir nur die direkt gefundenen Bolorneterangaben
+als Mass der Strahlung genommen und aus diesen einige Schlflsse ge-
+zogen mit Nichtbeachtung einiger kleiner Korrektionen‚ welche ffir diese
+Schh'isse ohne Bedeutung waren. In dem Folgenden wellen wir ver-
+suchen, die Strahlung in absoluiem Masse auszudriicken und das Strah-
+luugsvermcgen des Gases zu berechnen.
+
+Zu diesem Zwecke ist es erstens ncthig die Empfindlichkei‘p des
+Bolometers zu kennen, d. h. den Werth der Skalentheile in Grammkalo-
+rien per Sekunde und qcm auszudriicken7 und zweitens den Einfluss der
+Rohrwande auf die Strahlung naher kennen zu lernen.
+
+1. Bestimmung der Empfindlichkeit des Bolometers.
+
+Bei Bestimmung dieser kann man verschiedene Wege einschlagen.
+So hat R. V. Hmmnomz, der mit Ausnahme des Verfassers‚ der einzige
+ist, welcher den absoluten Werth der Empfindliohkeit seinos Instruments
+genauer bestimmt hatl), drei verschiedene Methoden versucht. Die, wel-
+che ich friiher befolgt habe2y* und welche auf einer vergleichenden Be-
+stimmung der Strahlung einer und derselben Warmequelle mit dem Bo-
+lometer und mit dem von mir konstruirten Pyrheliometer3) beruht, scheint
+mir jedoch mit Hinsicht auf die Zuverlassigkeit der Resultate wie auch
+seiner Einfachheit halber Vorziige zu haben.
+
+Die Anordnung ist, leicht aus der Fig. 5, Tafel 1, verstandlich.
+Α und B sind die als Kalorimeter benutzten Kupferplatten‚ CDEF die
+Termoelemente‚ die mit ihren Lethstellen in dem Mittelpunkte der Platten
+eingeffigt sind und deren Leitungsdrahte zu dem Galvanometer fiihrenr
+GH und JK sind zwei Schirme mit 0ffnungen. Vor der einen (slffnung
+steht ein kleines cylindrisches Geffiss L⁷ durch dae Wasserdampf ge-
+leitet werden kann, vor der anderen eine kleine Kupferplatte sps, welche
+bei Zimmertemperatur erhalten wird. Die Endplatte des Cylinders L ist
+eorgfaltig berusst, wie auch die Platte M. Die Stellung von L und M
+
+1) R. V. HELMHOLTZ, Die Licht und Warmestrahlung verbrennender Gase.
+Gekrcnte Preisarbeit. Berlin 1890 (siche p, 12).
+
+2) K. {XNGSTROhL Wied. Ann. 26, 253, 1885.
+
+3) K ANGSTR6M‚ Acta Reg. Soc. Upsaliensis, 1886.
+

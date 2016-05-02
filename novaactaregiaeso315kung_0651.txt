@@ -1,0 +1,38 @@
+ANALYTISCHE DARSTELLUNG DES ELEK'I'ROMAGNETISMUS. 55
+
+μΞΟΡΞ &V
+CT&
+E=V,-1smsss-‘-cls= μω-Ξμωίῐῇῑῖ
+E=R2⁴
+Ι ῑ--μω
+
+was das vollstandige Ohm'sche Gesetz ist. Diese Formel gil‘t. fiir jeden
+beliebigen Theil des Fadem, wenn statt Ε die Potentialdifferenz zwischen
+den Endfliichen eingefiihrt wird. Wie die Formel auf die Kirohhoff'sehen
+Gesetze fiir vel-zweigte Strbme zu erweitern ist, ist unmittelbar einleuoh-
+tend (vgl. Anm. S. 22). Auoh hier wird bei dem Ubergange zwischen
+zwei K6rpern von verschiedener Leitungsfflhigkeit eine Oberflaohen-La-
+dung influenzirt. Denn es ist an der Grenze zweier Media
+
+um=—QP=-u1
+Q=QP=Q
+
+um÷um=4nd
+(64) 4716' Ξ μ2 - μ1 = P(c2 — 01) .
+
+Wenn der Kbrper nicht homogen ist, entsteht ebenso influenzirte elek-
+trische Raumdichtigkeit (vgl. Gl. 42).
+Erfahrureyssatz 5. Es giebt in (stationam elektrisoher Hinsioht
+zwei Artem von K6rpern: ”
+Ι. Later, fur deren Oberflache {ng — Ο ist, und
+
+ΙΙ. Nicht-Leiter oder Dielelctrilca‚ fur deren Oberfiaehe H = 0 ist
+
+wo V das elektrisehe Potentia] bezeichnet. Bei dem UbergBaZde durch
+die Oberflache ist V kontinuirliclz. Ein elektrisches Kraftrohr im Inneren
+
+7
+
+eines Leiters ist ein elektrz'scher Strom; ein elektrisohes Kraftrohr im In-
+neren eines Nicht-Leiters wir& ein dielelctiseher Strom genannt.
+

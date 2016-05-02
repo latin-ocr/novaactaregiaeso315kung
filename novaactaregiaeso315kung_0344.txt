@@ -1,0 +1,46 @@
+8 HERMAN SCHULTZ7
+
+Der Abstand zwisohen den beiden Mikrometerfelden wurde gleich
+O,¹481 eines Sohraubenganges erhasten, WO die Hebe eines Schrauben-
+ganges in Zeitsekunden = 3509. Eine nabere Untersuchung der Schraube-
+ist nicht in Frage gekommen.
+
+Instrumentfehler und Reduotion der Beobachtungen.
+
+Von der Bestimmung der Neigung der Rotationsaxe ist im Vor-
+hergehenden sehon gesproehen. Da der Nullpunkt der Scale am einen
+Ende des Niveaurohres liegt, erh'alt man die Neigung (i) durch die Formel
+
+2 ={{<W÷c»-<v1⁷'÷ ω’»,
+
+wo W und O die Ablesungen gegen West und Ost, da der Nullpunkt
+&stlieh negt, W‘ und O' die analogen Ablesungen fiir den Nullpunkt
+westlich sind.
+
+Die Kollimation (K) der Optischen Axe wurde immer durch Um-
+]egen und Einriehtung auf die Mire bestimmt, das Azimuth (a) durch
+celeste Beobachtungen mittelst der Angaben der Mire ausgeglichen. Bei
+Einstellung auf die Mire wurde in den letzten Jahren immer der naeh-
+folgende Mikrometerfaden auf das Westliehe Mirelooh efflgestelst, weil
+die Nahe der Feden bei Einstellung auf das Centralloch die Genauigkeit
+der Bestimmung beeintr‘achtigen kennte. Bezeiohnet man mit
+
+O . . die Ablesung des Mikrometers fiir Kreis ost,
+W , . die Aplesung des Mikrometers fiir Kreis west,
+
+M . . die Ablesung fiir Koincidence zwisehen den] Mikrometer-
+faden und dem festen Centralstzden,
+
+K . . Kollimation fiir Kreis ost,
+
+Λα . . der Azimuthalunterschied zwischen der Mire und dem In-
+strumente3
+
+erhfflt man
+
+A=-{{<0 M)- <M— vw
+ΣΞ
+—2
+
+Aa {(()-]1J)÷<a1'-W>I .
+

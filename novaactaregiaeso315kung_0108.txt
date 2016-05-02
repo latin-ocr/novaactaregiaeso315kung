@@ -1,0 +1,48 @@
+30 J. T. SODERBERG‚
+
+§0—‹r÷s÷t÷u) von den Funktionen (10) numerisch versehieden sind, folgt
+die Identitat w<z,9>'²“}>-(r÷s÷r÷u›3 wir erhalten also:
+
+(34) (Τ ⁷ θ) = ET—(r4-s4-t4u) ·
+
+Diese Gleiohung geht in (16) iiber, wenn r fiir -(r-†-s÷t-†-u) gesetzt
+wird. Wie (18) aus (16), kommt also aus (34) die Kongruenz:
+
+(35) 1÷0÷—2<22÷s÷t÷u÷1>-
+
+Da diese fiir jedes τ nur ein θ giebt. sind xz und ιυῃΊ von den
+
+fibrigen Wurzeln von (7) versohieden.
+Wir nehmen an, dass die Wurzeln der Gleichung
+
+(36) j &fw- ⁷ Ο ‚
+
+(ὦ Ξ ιΈξ><έιΙ -12355 Ξ
+
+welche nach n:0 14 reduktibel ist, alle verschieden sind. Um die Gruppe
+der Gleichung zu untersuoheu, sehreiben wir die. Substitsutionen (30)
+auf folgende Weise:
+
+l⁷ (τ7 Ξθ-τ, θ, &er—0), (r, Ξτ-θ, ,θ Ξθ-Τ),
+
+(Τ, ‹offis-0, Ξθ-τ), (r, θ), (ΞΤ-θ, 20-1),
+(γ’ Ξθ-τΜθτ 2ῖ-θ)ν (τ, 2τ-θ)(θ, Ξθ-τ).
+
+ΘΘΠἹὲὶεε, n:0 12 ergiebt sich nun, dass die Gruppe von (36) in der
+Gruppe
+
+1, (ΞΤ-θ, Ξθ-τ)
+
+euthalten ist.
+
+Aus (35) folgert sich, dass — (r -ξ- s 4- t -1- u) - 1 von τ und θ
+verschieden ist. Also ist x—(r÷s÷t-÷—u÷1) eine Wurzel von (36). Diese
+Wurzel ist rational, weil sie von der Gruppe (30) nieht umgesetzt wird.
+
+20. Wir haben schliesslich die Fene ρ = 5 und ρ = 6 zu disku-
+
+tiren.
+
+Im Falle ρ = 5 kann die Gleiehung (7) nicht gleiche Wurzeln ha-
+ben, weil eine der Funktionen (9) von den iibrigen verschieden ist.
+

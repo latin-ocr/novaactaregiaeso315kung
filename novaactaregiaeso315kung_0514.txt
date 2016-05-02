@@ -1,0 +1,67 @@
+24 A. Bmeemz,
+
+§a
+
+Posons maintenant l'equation (1) sous la forme
+
+ 
+
+(148) ΠΞΦ unffi = 1 υ ;
+„20 1 - ,τί — t*
+
+en y remplfflgant t par ti, 110118 aurens, pour les valeurs suffisamment
+petites de t,
+
+(149) ”35 u„ff7” 1
+
+„0 :l-oetz'q-ffl' d
+
+ 
+
+Multiplions les deux membres de cette equation par dm, nous 611
+defluimus, par integ-ration 611116 168 limites a: = — 22· et· <z- = 2i,
+
+71 00 . Ρὲἰ '21' dv
+mn) u„clae=s ², ., ⁷
+⁷. ο u-22· —211 -sccz-f-t-
+
+d'oh l’on tire, en remplagan‘c x par 2332‘ dans l'integrale du second membre,
+
+ΙΙ
+
+ 
+
+(150)
+
+1³4
+
+ΙΙ
+
+(151) ”EA i'¹‘¹t'¹s2i unclae = 2 l——d‘z——l
+⁷2=0 ,ᾗ „1 1 -1- 2114- t
+
+ou, 611 executant l'integration dans 16 second membre7
+
+ 
+
+052> ”{”ff-½ffi]”2½dae=={1og}·÷{
+
+71=O
+ou, par developpement en serie,
+⁷1:00 ⁸ 221* 25² t4 t& χ
+(153) {zu-‘tus zc,2clae=4(1÷g÷-5÷3÷...).
+n=0 —21'
+
+Cel-<1 fait, &galons entre eux les eoefficients de tn dans 168 deux
+membres de l'equation (153), nous en obt-iendrons pour n Ξ Ο
+
+ 
+
+ωῡω 1μ11ᾖωαωεφμῷ1
+
+81 n est 1111 nombre pair, mais
+
+(155) ιΓαηᾱωεοΊ
+
+7
+

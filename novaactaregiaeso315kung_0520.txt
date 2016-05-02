@@ -1,0 +1,46 @@
+30 A. BERGER,
+
+Par Ιὲ, nous avons dtssmontffl, qu'un polynssme quelconque P„(21>
+peut se mettre sous la forme (189). Maintenant nous dessterminerons les
+coefficients cr. D&signons par 3 quelqu’un des nombres
+
+(190) O‚1‚2‚...22-1‚n‚
+
+et multiplicus les deux membres de l'6quati0n (189) par (95² -Ι- 4)÷u„ nous
+obtiendrons
+
+(191) Ξ εγω ÷ 4>÷ur⁶³ = P„<x><„2 ψ 4>÷u ,
+r=0
+
+et par suite, en inwgrant entre les limites ω = — 22⁴ et :v = 22· ‚
+
+(192) ⁷2:1⁷¹ ers*¹ (502 ΔΓ mansam = Γ Ρηῳεχᾱ12 ÷ 4>÷u,d„v
+
+r=0 -ει- · -21-
+
+ou d'aprbs le thssoere XIV, puisque s est &gal ὲ un des nombres (190),
+
+(193) Μ(- 1)⁸ni=sZP„(x)(x² ÷4>÷u³doe .
+
+En y remplaqant S par r, nous aurons pour Ο ξ ν Ξ n la formule
+
+(194) 0„ Ξ (“ W Γ 1>n<x><x²÷ 4>÷urdoe ,
+
+2πέ
+
+ 
+
+oe qui dffinontre le theorema suivant.
+
+lee'orfflne XV. Soit P„(x) zm polym5me de x, dont le deyre' θεῖ θ’,ᾳαί
+ou infe'rieur ὰ n, on aura identiquement
+
+ἣωῑξᾙω,
+r=o
+
+οὰ les coeffiez'ents <3r sont doome's par la formale
+
+2712
+
+α. = (ΞΗ-Γ Ρη<ω><ω2 ÷ 4>÷urdae .
+

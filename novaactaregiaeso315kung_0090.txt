@@ -1,0 +1,41 @@
+12 J. T. SODERBERG‚
+
+sprechen andere Substitutionen in K. Also sind K und Γ derselben
+Ordnung. Da θ und α ὲὶ111111011 sind, werden K und Γ emunah, w. z. b. W.
+
+Dieser Beweis kommt dem von Prof. NETTO gegebenen¹) ziemlieh
+nahe. NETTO stiitzt seinen Beweis auf die Lehre von Funktionen meh-
+rerer variabam, ioh habe aber den Beweis in rein substitutionentheore-
+tiseher Form hergestellt.
+
+10. Wenn in nto S die Gruppe G eine ausgezeiehnete [1111301-
+gruppe von F ist, so ist die den Gruppen
+
+θ,ΤῙὊΤΗ...Τ,·;11οΤ,.-1
+
+gemeinsame Gruppe die Gruppe G selbst. Die ordnung der Gruppe I
+wird dann wie ihr Grad gleieh r, wie aus nzo S erhellt.
+
+Wenn G nur die Substitution 1 enthfflt‚ ist Ordnung und Grrad
+von Γ gleieh der Ordnung von F.
+
+Sehliesslieh ergeben sich folgende Same, die in den mir bekann-
+ten substitutionentheoretisehen Werken nieht vorkommen:
+
+Wenn die Gruppe G nieht eine allgemeinste Untergruppe von
+F ist, d. h. wenn die Substitutionen einer Anzahl ρ < ν’ und > 1 der
+Komplexe
+
+c†*‚GT1‚...c†*T‚.-1
+
+eine Gruppe hildem, so muss die Gruppe Γ, welche nach n:0 S transitiv
+ist, nach nto 7 imprimitiv sein, und wenn umgekehrss Γ imprimitiv ist,
+so ist nach nto 7 G keine allgemeinste Untergruppe von F.
+
+ 
+
+ 
+
+1) Siehe Substitutionentheorie und ihre Anwendung auf die Algebra von EUGEN
+NE'rrO, pagg. 100 ff.
+

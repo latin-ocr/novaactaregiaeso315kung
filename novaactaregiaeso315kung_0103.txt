@@ -1,0 +1,46 @@
+Emmss UNTERSUCHUNGEN IN DER ALGEBRA. 25
+1, (τ, 2τ-θ)(θ, «δη-36), (τ, 3r÷30)(0, ‘Ar-0),
+(r, 6)(2τ-θ, 3τ-4-36), (r, θ), (ΞΤ-θ, ὅκῃ-39),
+(r, ‘gr-0, θ, &aq-30). (r, 3r÷30‚ θ, 2τ-θ).
+
+Weun wir die Substitutionen ausnehmen, welche die Wurzeln der Glei-
+chung (24) ausschliesslich unter sich vertauschen und in diesen Sub-
+stitutionen nur die Cykeln berUcksichtigen, welche die genannten Wur-
+zeln euthalten, so ergiebt sich die Gruppe der Substitutionen
+
+1, (ΞΤ-θ, 3r÷3o).
+
+In dieser muss gemess nto 12 die Gruppe der Gleichung 24> enthaI-
+ten sein. ’
+
+Zufolge (23) ist 32·.;- 33 ἡ1 von τ und θ verschieden. Also ist
+*vamum-1 eine Wurzel der Gleichung (24). Diese Wurzel ist rational, weil‘
+sie durch die Gruppe (15) nicht umgesetzt wird.
+
+lS. Wir betrach‘cen nun den Fal] ρ = 3.
+
+Wir suchen zuerst die substitutionem der Gruppen (11) auf. Die
+substitutionenkomplexe in den Schemate, durch welche diese Gruppen
+zu definiren sind, setzen wir zu dem Zwecke in die Formen Σ und
+{Tau Der Kiirze halber bezeichnen wir wie vorher mit Hl die Gruppe
+der Substitutionen 1, Ι i, — 2⁴ -ξ- 9· ,ξ- S - 21. Wir erhalten:
+
+Ι ((G³⁷ Tr, Τ,>)Ξ Die substitutionen in
+
+(253¹ H,‚I{1.1z·‚2(r—s)2<z·-r÷ mn, mli,2<=2143>2<2†-s÷1)1.13.
+
+Wenn r, s, t alle verschieden sind bezingich des Modul 5, muse
+eine der Kongruenzen
+
+27‘33-1-25, &zm-r, 2ΐΞν’-4-3 <mod.5>
+
+richtig sein. YVenn nemlich r, s, τ, u, v nach dem Modul 5 inkon-
+gruente ganze Zahlen sind, so mnes die Kongruenz
+
+ΞωΞῑι-ᾖ-ῑ) (mod. 5>
+
+durch ν, s oder t erffisst werden. Je nachdem sie durch r, s oder t er-
+ffillt ist, gilt die erste, zweite oder dritte der fraglichen Kongruenzen.
+
+Nova Acta Reg. Soc. Sc. Ups. Ser. 111. 4
+

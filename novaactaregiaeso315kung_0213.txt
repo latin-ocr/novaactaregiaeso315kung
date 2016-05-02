@@ -1,0 +1,57 @@
+DssVELOPPEMENT D'UNE FONCTION ANALYTIQUE POUR UN CONTOUR θ’ίΟ. 45
+
+oh les limites d'integration doivent satisfaire ἐι ees deux systemes
+d'equations‚
+
+pſsxr) = Ο et ]){⁰'(l1„) = Ο (ι’ = 1 ‚ 2, . . . 71⁴0) .
+
+Par rapport. ὲ ces formules les formules (180)-(182) sont dites
+principales.
+
+Remavque II. En derivant l'identite (18Ο)3 fois pal rapport a a
+qui est tout independam, on obtiendla l’identite
+
+ 
+
+7
+
+zM fr mmm· A<³><a>
+2¹ hoo—‹zrflpof [ἑ
+
+οἰι les limites d'integration satisfont encore aux equations (181) et (182).
+
+Theoreime de multiplicatiora et d’addzlz'on des zhtdqrales.
+
+24. Ᾰ cause de raoines egales de l'equation (172), les equations
+:suivan'nes⁷ au nombre de (M -4- . . . .)- Mu), doivent etre satisffistes,
+
+(183) sl Π<χ);ο s ‘lm—U =0‚..., s 3²⁴7&AE
+
+—sl 7: s <l .1*Mr-¹
+
+=O(r=l‚2‚...‚,u) ‚
+
+systeme d'equations qui, d'apres (181), pourra &tre remplaoe par le suivan‘s7
+
+=;z· ·= .ι;--
+
+(184) ψ s p0(x)=0‚ s—ZQ 0‚..-.‚ (l f{‘'¹''‘¹P0Q
+
+(hyr-¹
+
+ 
+
+=O(r=l,2‚...‚,u)¹),
+
+1) L'equivaleuce des deux systemes (183) et (184) sera evidente si l'on pose
+(206) = 2),(x) . . . pn—lms) ‚ d'osl la λῆθ’*ἸΘ derivee de l'identite (172) par rapport Ξι 9: prendra
+la forme (1:1,2,...)
+
+&mmm =120(-1c)‘2‘²)(:e> ÷ {hako (RQ-”m ÷ M} *21)
+
+ 
+
+ρτςυυ) (θα-213) ÷ . - -2
+
+identite qui montre que le systeme (183) pom-ra etre remplaoe par le systeme (184).
+

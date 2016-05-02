@@ -1,0 +1,42 @@
+6 A. Bmmmz,
+
+En substituant dans 16 ῒῇόοτὲιῃ6 Ι
+
+(33) α» = ⁷'
+
+n
+pour r=O7 l7 2‚...n-1,22‚ et
+(34) er=9‚.
+
+pour r = Ο ‚ l a 2 ‚ . . . n — 2 ‚ η — l ⁷ nous obtiendrons d’aprae les &qua-
+tions (30) et (31) les expressions suivantes pour la fonction (p(x):
+
+(35) w(x)=r{⁵,qr pours<nae<s÷1(s=0,1,2‚...n-1),
+r=0 .
+
+(36) cp(x)=0pourae=0‚
+
+(37) w(x)={⁵9r—{Ep0urvzoe=s (s=1‚2‚3‚...n-1),
+r=0
+
+(38) Moe) = ο pour x = 1 .
+
+Par ces &galiffis la fonction-(pm) est &termimsse pour tontes les
+valeurs de la variable ατ, qui satisfont aux in&galit6s
+
+&m 03221.
+
+Nous pouvons &videmment remplaoer ces quatre fol-mules par les
+deux suivantes:
+
+μω Μωεξω,
+si la variable ac n’est pas multiple de ὲ, et
+μυ φωεξμ-ξ,
+
+si x est multiple de ὲ, pourvu qu'on doefflsigne par s 16 plus grand des
+
+nombres entiers, qui ne surpassent pas noe3 nous aurons dono, d’aprbs
+la notation de memm,
+
+(42) 8 = Effice) .
+

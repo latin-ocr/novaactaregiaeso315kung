@@ -1,0 +1,53 @@
+EINIGE UNTERSUCHUNGEN IN DER ALGEBRA. 3
+
+Die Indices α0 , α1 , . . . αΓ-1 geben die Horizontalreihen in (1)
+an, in welchen die respektivcn Komplexe (2) enthalten sind. Es folgt,
+dass nie zwei von den Komplexen (2) in derselben Horizcntalreihe in
+(1) vorkommen. Ans dem ffir die Ungleichheit der Indices αθ, α1 , .. .
+α,-1 gegebenen Beweise kann auch gefelgert werden, dass die Substi-
+
+tuticnen in einer beliehigen Horizcntalreihe in (1) εξὶωωῑΙίοΙ] verschie-
+den sind.
+
+Es sei nun auch Θ eine Substitution, welche in alle Kolumnen in
+(1) eingeht, und es megen
+
+(3) θΤβο, ΤῙὋΤβ, , . . . ΤΤ-ζ GTssffl
+
+die Komplexe in (1) sein⁷ welchen Θ zugehcrt. Weil αΟ , αΙ ⁷ . . . ο
+
+· 1“-1
+
+alle verschieden sind, kann man die Komplexe (3) in einer neuen Ord-
+nung folgendermassen schreiben:
+
+(3¹) TgssGTyO, Τα-,ὌΤΥ1 , . . . TJrLGTm-2.
+
+Wenn wir die Substituticnen in einen] der Komplexe (2) mit
+denen in einem der Komplexe (δ’) multiplicium, so erhalten wir einen
+Kcmplex von Substitutionen, in welchem ΣΘ vorkommt. Dies gilt
+insbesonderc⁷ wenn die Substitutionen in einen] der Komplexe (2) mit
+
+denen in dem entsprechenden Komplexe (δ’) multiplicirt werden. ΣΘ
+muss daher in S'ametliche Komplexe
+
+(4) &1⁷707 TJGTJ„ . . . 2:¹1GT7„-2
+
+eingehen. ΣΘ geht also wie Σ und Θ in jede Kolumne in (1) ein.
+
+Die in jede Kolumne in (1) eingehenden Substitutionen bilden also eine
+Gruppe, W. z. b. W.
+
+Diese Gruppe bezeichnen vvir durch
+
+((G, T„ ΤΞ, . . . ,ΥΤ-1)),
+und verstehen unter
+
+(G, Tm 7⁷2, ...Tr-1)
+
+die niedrigste Gruppe, welche die in Klammern aufgenommenen Substi-
+tu‘cionen enthfflt.
+
+3. Es existirt eine Gruppe Γ von Substitutionen von ⁷· Ele-
+menten, welche zu der Gruppe ((G‚ Tl , . . . Τ,,,)) isomorph ist. Da
+

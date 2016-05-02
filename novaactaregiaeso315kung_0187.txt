@@ -1,0 +1,53 @@
+DI'EVELOPPEMENT D⁷UNE FONCTION ANALYTIQUE POUR UN CONTOUR OtC. 19
+
+En s'appuyant sur (51), on tire de (66) et (70) 168 formules sui-
+vantes,
+
+(72) Ο = 303) ⁷
+
+et
+
+(⁷3) 3 = 3021> ,
+
+ε’68ῖ-ὲ-(11Γ6 que chaque infimi β de l’z‘nversz‘on J(u) est zm ze'ro cle son com-
+]›Ze'ment 301), et que la valeur γη, est un znfim' de S(u).
+
+Si l’on remplace, dans (51), u par 7'0(0' = 1 , 2, . . . , m - 1) de
+(70), οι] aura
+(74) eff—e„,=C3(yo)‘²¹¹(o=l,2,...,m—l) 7
+
+c'est-asst-dire que γσ(σ = 1 , 2 , . . . ‚ m -- 1) est un ze'ro de (1 — H03(u)²'),
+ze'ro qui en qne5me temps, άάρνὲε (53), annale Za de'rive'e &(u).
+
+Points caractdrzktique& N ombres caractcirz'stiques.
+
+13. Nous appelerons les trois points α,β,γσ, ρ’68ᾑ-ἒι-(Ξ11Υ6 16
+ΖέιὈ et l'infini de J (u) et 16 zero de (J(u)--e⁰) ‚ points caracte'ristz'ques
+et leurs ordres respectifs ἓῐ , Q , (ᾇ nombres caracte'ristz'ques de l’inver-
+sion J(u). q
+Les trois nombres caraemristiques de J(u) sont donn& par 168
+formules II (55), (57) et (58) et ont les valeurs sustantes,
+
+ 
+
+ 
+
+ 
+
+ 
+
+s“<u—a>5‘<{33>=12
+u=70
+
+ 
+
+ 
+
+ 
+
+(ξε t! (α’-7ο)άὲζξῑὲεσ-τηῖ1 (0=l‚2‚...,m) .
+Le type g‘ssss‘ssl‘al J(u) comprend deux classes essentiellement dif-
+&rentes d’inversions, celle ἐι nombres caract6ristiques tous entierg et celle
+
+ὲ, nombres cara0t6ristiques non tous entiers. La premibme classe compl-end
+

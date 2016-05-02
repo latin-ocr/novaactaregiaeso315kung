@@ -1,0 +1,52 @@
+8 H. PETR1N1‚ SUR LA CONDITION A LA SURFACE ETc.
+
+de chaque particule, on emploie 1θ theoreme A, on obtiendra une con—
+dition plus restreinte que si l’on emploie le them-eme B, celui-oi n’ex-
+eluant pas 1θε eas, on une partie de la surfaoe se ment vers l'interieur
+
+du fluide.
+L'expression mathematique de cette differenee des deux conditione
+
+aux limites est tres facile ὲ» trouver. Dans le eas du theoreme A la
+trajeetoire (a) des points abc (ssss) εθ trouve toujours sur la surfaee
+(1)7 θ’θεῒ-ὲι-ᾶίτθ que l'equation (1) est saffisfaste, si l'on y remplaee „vyz
+par leurs valeurs tirees des equations (β) oh abe sont des quantites
+eonstantes qui satisfont ὲ, l'equation
+
+(lza) F(abcto)= Ο,
+
+on ts, est une valeur speciale de t. Les quantites ab ce etant constantes
+on peut dans l'equation (3⁷³³) differentier totalement‚ dest-&dire
+
+dF(.vyzt) Ξ
+
+(3:21) dt*- ,
+
+ 
+
+oh ,τρε sont determines au moyen des equ-atione (met (lza). L'equa-
+tion (32²²) peut aussi etre representee par l'expression (3:a), mais la deri-
+vation est symbolique, parce que les quantites abc y sont. regardees
+comme constantes quoique en realite elles soient variables. Mais on
+peut. formuler mathematiquement la differenee entre les deux theories., si
+l⁷on regarde 1θε eoordonnees πρε comme connues ἐι priori et les abc
+comme des fonctions determinees au moyen des equations (sse.) Au lieu
+de (ὃς-«1) on peut eci-ire
+
+(gna) c-J—tFOEU‘OE = Ο ‚
+
+on les ξηζ sont determines au moyen des equations (α) comme fone-
+tions des ab c et ceux-oi sont exprimes en fonctions de «τρεῖ au moyen
+des equations ([ἄὲ) En comparant l⁷eqiiati011 (321ssta) avec l'equation (3³2),
+on trouve que dans 1θ eas du theoreme A non seulement cette equation
+(35³²) doit etre satisfaite‚ mais aussi l'eqnation
+
+ 
+
+⁷
+
+. (4) Σ Σ ὃΡΩτρμΐ) ,ὂξᾲιὸστ ,ὂαῇῑ-ῌΖῆεο
+'mm' ’Μ &a et
+
+on l'on regarde 1θε points oeyz de la surfaoe comme donnes.
+

@@ -1,0 +1,39 @@
+Son UNE GENERALISATION ALGEBRIQUE DEs NOMBRES DE LAME. 29
+
+Designons par P„(.1=.) un polynssme quelconque‚ dont le degre est
+au plus egal a η, nous aurens
+
+(180) RQ> Ξ ‹102- 1- alsw- ΔΓ . . . . ÷ (ιη-11 ÷ a„ ,
+
+en designant par ao, α1 . . . αἰ des quantites constantes, et de l'equation
+(180) on tire
+
+(181) P„(oe) = αοῑιπ 4- {— aou„ 4- αοχη -4- a1 aen-¹ 4- . . . 4- απ] .
+
+Puisque un est une fonction entiere rationnelle de la variable a:
+du nime degne, dans laquelle le coefficient de „v” est ega] a l'unite, la
+quantite‚ qui 86 trouve entre les chrochets dans le second membre de
+l'equation (181), sera un polynfime de x, dont le degre est au plus egal
+a n - l . Par suite nous aurens une egalite de la forme
+
+(182) Ρπ (212) = α0 ÷ Ρη-κκ)
+
+ou, en y remplaeant αο par 0⁷2,
+
+(188) R2<x> = enan ÷ Ρη-ιίαώ ‚
+
+011 c„ est une quantit& constante. De 11161116 on aura
+
+(184) [Βῆ-ιω) = amazon-1 1- Pn-2(oe) '1
+(185) P„-2(2;) = onaan-2 ÷ Pn-3(x) 2
+(186) P2(x) = 02202 ÷ Re) 7
+(187) P, (aa) = c1u1 ÷ P0(2³) ·
+
+Puisque Po (x) se reduit a 11116 constante, nous pouvons poser
+(188) P0(oe) = <rouo ‚
+
+et des egalites (183) . . . (188) nous obtiendrons par addition
+
+(189) Ρῃω = Ξη esur .
+. ,20
+

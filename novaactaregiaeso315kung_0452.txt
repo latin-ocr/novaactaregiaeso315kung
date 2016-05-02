@@ -1,0 +1,49 @@
+16 Ε Samma,
+
+den betreffenden Magnet an seinem Pla'tz7 oder in der Mitte des Theo-
+dolits‚ Wenn es ein Ablenkungsmagnet ist, anlegt, und zwar zuerst mit
+dem Nordpol nach Siiden⁷ dann mit dem Nordpol nach Norden3 die
+Korrektion ist dann der halben Differenz der entspreehenden Ablesungen
+am Variometer gleich, falls fiir einen im Meridian befindlichen Magnet
+korrigiert werden soll; bei Ablenkungen muse man noch mit dem Cosinus
+des Winkels multiplioieren, den der betreffende Magnet mit. dem Meridian
+bildet. Bezeichnet man die genannte halbe Differenz mit B mit entspre-
+ohenden Indices, n'amlieh b ffir den Bifilarmagnet, η fiir die Nadel des
+Eugenieapparats‚ '1¹3 und {24 ffir die Magnete 123 und ΒΜ so wurde
+gesunden: Bb = 4- 040, B„ = — 004, ΒΓ3 =. — 045, Β174 = — Ο.10; bei
+Ablenkungen sind somit nach den spii‘cer mitzuteilenden Ablenkungsvvin-
+keln die beziigliehen Korrektionen:
+
+Bb eos (Ξ- - a) Ξ -ξ- 0.02; B„ ces (Γ1 = -- Ο.Ο4;
+
+u
+
+BT, cos (ξ ÷ φ1); ÷ 0.07; ΒΖ,ἆ cos (g -μ ml) Ξ ÷ 0.04.
+
+Diese Korwktionen7 sowie die Temperaturkorrektion, sind an den beige-
+gebenen Variationsafflesungen sehon angebraeht.
+
+Der Bifilarmagnet mit Aufhkin'gevorriehtung war darselbffi den
+Herr Pros. KOHLRAUSCH zuvor benutzt1) und dessen Polabstand d er
+auf 1384 cm bestimm‘s, hatte. Ferner sind die Abstiinde der Aufhkmge—
+drame nach seinen Messungen im Mistel, oben und unten, auf 20⁰ C.
+redueiert, el = ll.5326‚ <²2 = 11.5414; die Lange der jetzt verwendeten
+
+0.008 cm dicken Messingdrfihte betrug im Mitte] 3OO.155; fiir die Schwere- γ
+
+besehleunigung in Strassburg mit 40⁰5ss Polhbhe und 150 Meter Meeresf
+hehe erhfflt man nach Bssocfls 2> Formel logy = 29916143 die Wfigung
+des Bffilarkt5rpers, wobei die Beruhigungsrkider in Wassertgetaueht und
+die halbe Masse der Drehte eingereohnet, warde, ergab die Massa m =
+197.558 gn, so dass man mit Beriicksichtigung der kleinen Korrektionen
+wegen Steifigkeit und des eigenen Torsionsmoments der Dr5hte, -— 0.086 cm
+
+ 
+
+1) F. und W. KOHLRAUSCH: Das elektroehemische Aquivalent des Silber53
+zugleieh eine experimentelle Prfifung erdmagnetischer Intensiffitsmessungeu. Wied.
+Annalem B. 27 (1886).
+
+2) O. J. BROCH: Acceleration de la pesanteur &e Traveaux et Me'moires du
+Bureau international des poids et. mesures, T. I.
+

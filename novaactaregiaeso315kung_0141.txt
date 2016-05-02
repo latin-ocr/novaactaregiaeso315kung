@@ -1,0 +1,41 @@
+Son LEs F0N0T10Ns ENT‘IERES RATIONNELLES, etc. 3
+
+T he'orenne I. Soit (lonne'e um> e'quation clzffe'rentielle cle la forme
+(a0 t²÷2a maes—§²1 ÷<b0t÷b> ἷῇψιοὲκεθ
+
+οἱι les coeffcients ao ‚ a¹⁷ a2 ne s'anmclent pas simultane'ment, et 01⁸0 les coef-
+fiez'ents ao, bo ne s'annulem‘ pas simultane'ment, et Supp080728‚ que Z’on satis-
+fasse ὰ cette e'quation dzffdrentz'elle par mie fonction ambre rationnelle cle ἰα
+variable t, le cleyo‘e' cle cette fonction sera moine cle l’e'quatz'on ὰ Z'z'ncormue r
+<Iu second 021· clu premier ἀρφ-ε’
+
+αονῗ -f- (ὸο - a0)r -Ι- <⁷0 = Ο ,
+
+et l'e'quation clzffe'rentz'elle sera de la forme
+(a0t24-2a t-4-a2)d— (3²9 -4.(b0 t÷b1()ll—=⁹ t-ff-anO—bO—aon n)y=0‚
+
+en de'sz‘yrzant par n un nombre entier posz'tzf ou nul.
+
+On ne peut pas conclure de ce theoreme, que toute equation dif-
+ferentielle de la forme (5) soit satisfaite par une fonction entiere ration-
+nelle3 de plus, on ne peut pas en conclure, que, si l’on satisfasse a l’equa-
+tion differentielle (5) par une fonction ent-iere rafionnesse, 16 degre de
+cette fonction soit necessairement ega] a η. Mais si l'equation (4) n’a
+aucune racine entiere positive ou nulle, il s’ensuit certainemeut, qu'il
+sera impossible de satisfaire a l'equation differentielle (1) par une fonction
+entiere rationnelle de t.
+
+Apres avoir montre'‚ que l’equation differentielle (1) sera neces-
+sairement de la forme (5), si l'on peut satisfaire a elle-meme par une
+fonction entiere et rationnelle de t, nous demontrerons dans ce qui suivra,
+que l'on satisfera effectivement a cette equation differentielle par une
+fonction entiere et rationnelle de t. A cet effet nous transformemus
+d'abord l’equation differentielle sus-dite par une substitution de la forme
+
+(6) τεβωψγ,
+
+ou nous designons par a: une val-iable independante nouvelle et par β
+et γ deux constantes arbitraires, excepte que β 116 s'annule pas. La
+substitution (6) etant lineaire‚ il faut, que l⁷equati0n differentielle (5) et
+l’equation differentielle transformee soient satisfaites par des fonctions
+

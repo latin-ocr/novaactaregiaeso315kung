@@ -1,0 +1,47 @@
+46 Ε. SOLANDER,
+
+ξ 20. Reduktion der Schwingungsdauer wegen des Bifilarstandes.
+
+Steigt infolge Wachsens von H die Ablesung des Bifilares von Bo auf Η, so
+nimmt die Sohwingungsdauer des Magnetstabes‚ welcher zu den absoluten Bestim-
+mungen benutzt wird, ab und zwar um
+
+(ΑΒ μ ΒΟ) 2 ὲ z ἓ . (Η - Bffek = O‚0007343 (Β - Βογεκ- .
+
+Um also eine bein] Bifilarstande B beobachtete Sehwingungsdauer τ’ auf die-
+jenige zu reduzieren welche beim Bifilarstande Β0 stattgefunden haben xviirde, gilt
+die Formel:
+
+z„ Ξ τ’ - 00007343 (B‘ - Βθγεκ- ,
+
+ξ 21. Reduktion der Ablenkungen auf gegebenen Bifilarstand.
+
+Ist die Hfilfsnadel um deu Winkel φ abgelenkt und steigt. infolge XVachsens
+von H das Bifilar von B„ auf Β, so nimmt der Ablenkungswiukel φ ab um:
+
+qv z R sin 292„ ἓ (B‘ - 130).
+
+Es geniigt fiir φ die Mit-telwerte 9³1: 5⁰ 27¹ , ῳ2 = 2017'30“ zu setzen; und
+somit bekomm‘n man den Reduktionsfaktor (l. = 0,0574 fiir den kleinern Abstand r„
+und (12 = 4284‚99 siu 4⁰ 35‘ . 0,00007095 z O‚0243 fiir den g1·6sse1‘n Abstand r2. Ist
+also das Bifilar auf Β gestiegen, so hat man, um die Beobaehtungen auf den Stand
+B⁰ zu reduoieren, und um zugleich dabei das Vorzeichen von (pv zu beriieksiehten,
+bei Ablenkungen fiir φν auf grbssere Zahlen: q„(B— Bo) zu den abgelesenen Skalen-
+theilen zu addireu, bei Ablenkungen fist φιι auf kleinere Zahlen: q„(B'— B„) zu sub-
+
+trahiren.
+
+ξ 22. Beschreibung des Unifilares.
+
+Zur Elimination der Deklinatiousschwankungen wfihrend der Ablenkungen dient
+ein genau gleichzeitig mit der abgelenkten Nadel abgelesenes Unifilar. Die Nadel
+desselben ist ein 200⁰¹m langen durch Kupfer fast aperiodiseh gedhimpfter Platteumagnet.
+Die Entfernung Spiegel bis Skala (optisoh gemessen) betriigt fiir dies Instrument:
+
+ρ = 4871,8mm.
+
+ξ 23. Korrektion der Ablenkungen wegen Anderung der Deklination.
+
+Ist der Winkel, welchen die abgelenkte Nadel mit dem magnetisehen Meridiane
+bildet, gleich φ, und {indert sich die Deklinatiou so, dass das Unifilar im unterir-
+

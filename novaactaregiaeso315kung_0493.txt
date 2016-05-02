@@ -1,0 +1,59 @@
+SUB UNE GENERALISATION ALGEBmQUss Des NOMBRES DE LAM123. 3
+
+ou les coeffieients uo , ul ⁷ 112 7 ug ‚ . . . sont des fonctions de la variable x.
+Multiplions les deux membres de l'equation (l) par le denominamur du
+premier membre, et egalons entre eux les eoeffieients de t⁷¹ dans les
+deux membres⁷ nous en deduirons les formules suivantes:
+
+(2) ²⁶0 = l ‚ η] = „v , u„ ε (ΜΗ-ι -Ι- u& pour ng 2 ,
+
+par lesquelles on peut ealeuler successivement les fenctions uo , ccl,
+2c2‚u3‚....
+En faisant
+
+(3) ‘¹'1 Ξ a: -1- Vbi—41] a 1¹.. [r — Vaz¹² -4- 4
+. 2 “ 2
+
+ 
+
+nOUS fiUl'ODS
+
+(4) 1 — 1 (¹³¹ ),
+
+l -— zet — ᾗ) ⁷¹1 — ⁷¹2 l—„rlt 1 - 7¹2?
+
+ 
+
+ 
+
+et par suite 011 tire de l⁷equati0n (l)
+
+(5) ”Z u„ τί = ,1ῑὴ γὴ 4‘ (rifi μ- ⁷¹3†¹)t'¹ .
+
+Egalons les coeffioients de t'‘ des deux membres entre eux, nous
+deduirons de cette equation
+,fibi-1 n÷l
+
+(6) u„ Ξ —-⁷'2—
+
+ν] - ‘¹²2
+
+on, d'apres les equations (3),
+
+-ἠιῖ (πῃπῇ-Γ (ῃ-νᾱτῑῑῑγΗ
+“ vien Ὗ “ 2 ἡ l ⁷
+formule qui subsiste pour ugo . Par le nous avons trouve une expres-
+
+sion generale des fonctions un. Pour le ealcul de ees fonctions il est
+oependant preferable d'employer les formules (2); les dix premieres sont:
+
+(τ)
+
+ 
+
+(8) u0=l‚u¹=oe‚u2=ae²-{-l‚u3=ae3÷233‚u4:oe4÷3ffl²†l,
+²⁶5 =oe⁵†4oe3-{-3213‚ u6 ssoe⁶÷5oe⁴÷6oe2÷h u7zoe⁷÷6oe⁵÷10oe³÷4oe,
+uS =m⁸÷7oe⁶÷ l5m4-f-10oe2†l ‚ u„ =m⁹÷8oe⁷÷21ae⁵÷20ae³÷5x.
+
+Nous pouvons donc enoncer le theoreme suivant.
+

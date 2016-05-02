@@ -1,0 +1,51 @@
+10 J. T. SCJDERBERG,
+
+in ((G⁷ T17 . . . Z.-1))‚ welche in die Komplexe (8) eingehen‚ bilden
+also eine Gruppe.
+
+S. In den Darstellungen der Theorie des Isomorphismus⁷ welche
+ich gesehen habe⁷ sind einige der gewichtigsten Satze nicht rein substi-
+tutionentheoretisch hergeleitet, sondern auf die Anwendungen der Substi-
+tutionentheorie auf die Lehre von F unktionen 111611161611 Variabeln gegrfin-
+det. Ich werde hier (11666 86166 rein substitutionentheoretisch herleiten.
+
+Es 661 eine Gr'uppe F von Substitutionen gegeben und eine Un-
+tergruppe G von F. Ε6 iniige r (166 Verhaltniss der Ordnungen von F
+und G sein. Dann kennen 72— 1 Substitutionen Tm . . . Tr«l aus Faus·
+gewahlt werden der Besohaffenheit, (1666 (116 in
+
+G,GT1,...GTr-1
+
+euthaltenen substitutionem die Gruppe F bilden. Dann ist nach n:o 4
+((G‚ Tm . . . Tr-1)) mit F identisch‚ was auch unmittelbar 6116 der De-
+finition jener Gruppe folgert. Nach n:o 3 κὅ1111611 wir nun eine Gruppe
+⁴ Γ (161 Ele-mente Ο, 1, . . . r— 1 bilden, welche zu ((G⁷ T„ . . . Τ,-1))
+isomorph ist, also auch zu F. Der Substitution 1 111 Γ entsprechen
+
+in F die substitutionem welche G, TJGTl , . . . 1⁷5le Tr„l gemein-
+66111 6111(1. Γ wird nach n:o 3 transitiV. Wir haben 6160 folgenden Satz
+
+rein substitutionentheoretisch hergeleitet:
+Ffir jede Untergruppe G von F kann eine transitive zu F 160-
+
+morphe Gruppe gebildet werden, deren Grad der Quotient der Ordnun-
+
+gen von F und G ist und deren Ordnung gleich ist dem Quotient der ,
+
+Ordnung von F und der Anzahl der Substitutionen‚ welche den Gruppen
+G, Ts¹G T1 , . . . ΤΞ,ΘΤ,-ι gemeinsam sind.
+
+9. Wir haben weiter den Satz zu beweisen, (1666 alle zu F 160-
+morphen transitiven Gruppen nach der in n:o S dargestellten Methode
+gebildet werden kennen.
+
+Es 661 K eine transitive zu F isomorphe Gruppe von 8110611111-
+tionen, welche die Elemente ξο, ξ, , . . . ξκ-1 vertauschen. Die [111161-
+gruppe von K, welche ἔθ’ nicht umsetzt‚ nennen wir A. Da K transitiv
+161, enthalt 616 κ - 1 Substitutionen
+
+T17‘527 · · ·T“-17
+
+welche ξο durch ξ1, ξ2, . . . ,ἔκ-1 ersetzen. Die in A, Λτ1 , . . . Λτκ,1
+enthaltenen Substitutionen bilden die Gruppe K.
+

@@ -1,0 +1,44 @@
+SUR Les FONCTION! ENTn'zRES RATIONNELLES, eto. 11
+
+La quantite λ ne s'annulan‘c pas, l'expression de y, donnee par
+l'equation (48) ne sera pas identiquement nulle. et l'on trouvera sans
+difficulte, que cette valeur de y se reduit ὲ une fonction entiere ration-
+nelle de oe3 d’apres le theoreme III le degre de cette fonction sera ega]
+ἐι n. Par Ιὲι nous avons demontre ee theoreme.
+
+Tke'oreme V. De'siynons par n un nombre entier positsz ou nul et
+par λ, μ deuo: constantes ‹zv-bitraires, soumises seulement ὰ la condition, que
+λ ne s'annule paS, on satisfera ὰ C’e'quation dz'ffe'rentz'elle
+
+ῗΞψακψωΞΞ-ηαεο
+
+par Za fonction entiere rationnelle du n¹¹¹¹⁰ deore'
+
+y »- *(14) -
+(Ιῑυη
+Pour λ = — 2, μ = Ο on en oonelut, qu'on satisfera ἐι Γέᾳυειϊίοῃ
+differentielle
+(49) ΞΞΞΞ-ΞχῇμΞψΞΊΨ-ο
+
+om y=ff32ffff;
+
+o'est le polynome nam de M. HERMITE.
+
+N
+
+§a
+
+Soit n un nombre entier positif ou nul, et designons par λ, μ
+deux constantes arbitraires, soumises seulement ἐι la condition, que λ ne
+s'annule pas. En posant
+
+(51) Z Ξ θλῑχηψμῆ
+
+7
+
+nous en obtiendrons par differentiation logarithmique
+
+(52) χᾷ-Ζ--λωε-(η-Ι-μ-ὈΖΞΟ
+
+dcc
+

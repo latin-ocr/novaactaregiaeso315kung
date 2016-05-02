@@ -1,0 +1,47 @@
+7
+
+ANALYTISCHE DARS'FELLUNG DES ELEKTROMAGNETISMUS, 47
+
+SerWnnemial eines Rittgses. Wenn 63 1111 1111161611 eines Ringes
+einen Kanal giebt, in welchem ein geschlossener Faden litust, 30 giebt 63
+1111 Allgemeinen ein gegenseitiges Potential (163 Fadens und (163 Rin-
+ges. Wenn aber der Kana] unendlich (1111111 131, 30 class der Faden
+11111 v‹)llst{mdig ausffillt, 30 giebt 63 keinen Grund ι(111Ζ1111611111611, dass
+63 auch dann ein Potentinl gieht, da der Faden 1116111, 61116 1111611(111611
+11161116 Verschiebung erleiden kann ohne die benachbarten Fitden zu be-
+eintrssichtigen. Jedoch giebt 63 1111 Allgemeinen einen Grenzwerth fur das
+Potenti-al, wenn der Kana] 111111161 (111111161 wird⁷ 1113 (116 Begrenzung (163
+Kanales 11111. derjenigen (163 Fadens zusammenfisslt. Diesen Grenzwerth
+wollen wir das gegenseitige Potentia] (163 Ringes und (163 Fadens 11611-
+nen. Wenn die Intensitn't, (163 Fadens gleich eins 131, kann 63 1111161193
+khdenpotentz'al des Rinyes zweckmssissig genannt werden.
+
+Definition ΖΙ. Wenn 6111 Ring in Fn'den zerlegt wird, 30 131 die
+Summe der potentiale der thden auf einander gleich der halben Summe
+der Potentiale jedesv Fadens auf den Ring. Der Grenzwerth dieser
+Summe, wenn die Elemen‘tarfitden unendlich (1111111 angenommen werden7
+wird das Selbstpotential (163 Ringes genennt⁴
+
+Das doppelte Selbstpotential wird durch (53) ausgedrtickt, wc die
+beiden Integra‘tionen 111061 denselben Raum genommen sind⁷ und wc man
+von dem Knotenpotential absieht.
+
+Da die Feden als in einander ζ(1161611111 angesehen werden kcnnen‚
+30 wird das hinzuzufi'igende Knotenpotential
+
+(53 2 1> ’ κ s amas
+
+wo n die Zahl der Knoten 131, welche ersorderlich 3111(1 um (116 Ρὲ1ἀ611
+(Π und ‹YI‘ von einander auszulcsen3 n kann fiir verschiedene Fn'den
+verschieden ausfallen.
+
+Anni. Eine hinreichende Bedingung dafflr, dass dieses Glied = O
+361, kann man durch die Analogie 11111 (161 Theorie der Flussigkei-
+ten finden. Wenn μᾝιιῃμ, (116 Geschwindigkeitskomponenten der Ele-
+11161116 611161 Flfissigkeit bezeichnen, 30 kann Ιιι 6111 beliebiger Vektor
+sein, (161 nur die Bedingung (16) zu erfi'illen hat, welches hier bedeu-
+161, dass die Flfissigkeit inkompressibel ist. Wenn wir jetzt annehmen,
+dass die Elemente um einander nicht gedreht sind, 30 wird dies da—
+durch 611616111, dass die Geschwindigkeitsffiden, welche den Vektor-
+fiiden 6111-3111661166, auch nicht 11111 einander gedreht sind. Wenn also
+

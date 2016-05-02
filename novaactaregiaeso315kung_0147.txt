@@ -1,0 +1,54 @@
+SUR Les FONCTIONS ENTlnREs RATIONNELLES, eto. 9
+
+§2.
+
+Eu definissant. z comme fonction de la variable a: au moyen de
+l'egalite
+
+(33) Ζ 2 -ψ
+
+οἳ] λ et μ designent des quantites constantes quelool1queS‚ soumises seule-
+
+ment ὲ la condition, que λ ne s’annule pas, on en tire par differentiation
+logarithmique
+
+dz
+
+(M) HJ-OEOE†WZ²⁰
+
+et par suite, en designant par n un nombre entier positif ou nul,
+
+(35) ‹1⁸42z — rl⁷¹†¹{(z,⁷÷ -1- μ)Ζῖ = O
+
+ἅψῃ dffffl
+
+ 
+
+ou, d'apres la formule de LEIBNITZ,
+
+d⁷¹4²z εἶ’-ΗΖ dmg.
+(36) ΜΗ, - <2oe ηιμ) πῇ — (η ÷ ψῃ = ο.
+
+ 
+
+En y faisant
+(με
+
+cl ω’·
+
+(37)
+
+ΞΗ,
+
+nous trouverons‚ qu'on satisfera ὲ, l'equation differentielle
+
+(38) ΞΞξ-(λω-ἦ-μ)ἕΞ--<η4-1)λαεθ
+par la fonction
+&Q u={}*
+
+ou, d’apres l’equation (33),
+
+(40) u Ξ {a} (gum)
+
+Nova Acta Reg. Soc. Sc. Ups. Ser. 111. 2
+

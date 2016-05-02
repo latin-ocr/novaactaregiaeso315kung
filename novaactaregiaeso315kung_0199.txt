@@ -1,0 +1,55 @@
+1
+DEVELOPPEMENT D’UNE FONCTION ANALYTIQUE POUR ΗΝ CONTOUR etc. 31
+
+qui se pose sous la forme suivante,
+
+ 
+
+(1, - (ί
+(116) aa> = J<l2> ng* Z Ἦ &ww-²2> Βότω-86) ,
+¹¹ 3 sr- ’βξ
+
+ἱᾶθῃῒίϊέ qui donne le de'veloppement de l'z'nversz'on J(zc) en produit infimi.
+
+Remarque I. De la nffime manibre 011 aura 16 (16ν6109ρ61ῃ6ηῖ de
+
+la ἀότίνόθ logarithmique de la fonction {J(u) — eo} (σ = 1 7 2 , . . . ‚ m),
+
+dont les Ζόῐοε y„ et les infinis β, d⁷ordres respectifs ff} ⁷1⁷ et M [<75)]‚
+
+sont les infimis simplos de cette defirive'e logarithmique. De 66 ᾶ6ν6ΙΟΡ-
+
+pement on tirera, pour σ =1n‚ 661Πί de l'inversion compffimentaire
+
+Remarque II. Pour 16 cas particulier η = 2 et M un entier, l⁷inver-
+sion J(u) [(116)] est uniforme en tout point du plan, et les ooeffioients LO,
+L1 ., L2 , . . . [(11)] sont⁷ en accord de (86), nuls⁷ 16 cerole de eonvergenoe
+s’fflendant sur tout 16 plan. Oe cas eomprend les dffeloppements des
+
+fonctions ellipt-iques J(u) et ἔω) = (Jssb)C- em) M en produits infimis.
+
+ 
+
+Limite de la dffe'wnce d'u‘ne fonction f(u) et de l’z‘nte‘qrale circulatim
+
+1 ffiffifmdz
+
+“ni U z pour u = a, a e'tant un z'nfim' uniforme, d’ordre m, de f(u).
+
+ 
+
+20. Soit f(u) une fonction ὲ l'infini uniforme α d’ordre m7 et
+cherehons Ia limite
+
+ow> ΕΞὲῇᾣψγ-ὲε]
+
+ 
+
+271), u—3
+
+chssff} .
+
+Si l’on pose‚· suivant (102),
+
+mm> Q—wssff&=yw‚
+

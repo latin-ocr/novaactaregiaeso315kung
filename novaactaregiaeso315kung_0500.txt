@@ -1,0 +1,71 @@
+10 A. BERGER,
+
+ 
+
+ 
+
+(56) tg {arc tg “⁷25² -1- arc tg ἵζ’* ξ - (“ l)'¹(u„‚,zZ Ῥ α’ῐῌαω) pour η Ξ 1 ,
+n ¹n÷1
+
+u„
+
+ 
+
+ 
+
+4- arc 'cg ²⁶¹² ξ Ξ §KQ pou-r ηΞ 2 .
+
+zan-2 u„ ,2 11⁴
+
+(57) tg{ar0tg
+Remplacons dans la formulc de recursion (2) η par r -ι- 1, nous
+
+en tirerons pour r Ξ 1
+
+(58) „Tur Ξ ῖιν,ΓΙ -- ur„ 3
+
+en y faisant r successivement egal ’ἐι 1 , 2, 3, . . . η, ou l'on designe par
+η un nombre entier positis, nous obtiendrons par addition des egelites
+ainsi obtenues
+
+r=n r=n r=n
+(59) ιτ Σ u„ Ξ Σ ῑιγΗ - Σ ‘zar—1 .
+νει r=1 r=1
+
+Introduisons r — 2 au lieu de ν dans la premiere somme du second
+membre, nous en tirerons
+
+r=n ατη-432 7·:n
+(60) x Σ u„ Ξ 4 zar-1 — Σ ur„1
+r=l r=3 r=l
+ou
+7'·=›l
+(61) „v Σ u„ = — αθ -- u, -ξ- un -Ι- u,¹41
+7¹=
+
+et par suite, puisqu'on a uo = 1 ‚ u, = α’ ,
+
+7
+
+(62) Ξ ur = ²—- ÷ ΜΗ - 1
+
+a?
+
+formule, qui subsiste evidemment pour η Ξ Ο .
+
+En remplacant η par 2ν-Ι-1 daus I'equation (2), nous en obtien-
+drons pour r Ξ 1
+
+(63) mum = 2⁶24, — αρν-1 ;
+
+faisons dans cette formale r successivement egal ὲ, 1 , 2 , 3, . . , η, et'
+ajoutons les egalites ainsi obtenues, nous en deduirons pour η Ξ 1
+
+r= n
+
+νεα r=n
+(64) a: Σ u2r = Σ u2r÷1 - Σ u21·—1 ·
+r=1 r=1
+
+r=l
+

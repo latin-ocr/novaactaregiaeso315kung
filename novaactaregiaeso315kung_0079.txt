@@ -1,0 +1,42 @@
+l. In meiner Inauguraldissertation ¹) habe ioh eine Methode gege-
+ben, aus einer beliebig gegebenen Gruppe von Substitutionen andere
+Gruppen herzuleiten. Ich werde diese Gruppen naher untersuchen. Danu
+werde ioh eine Methode geben, die Theorie des Isomorphismus rein sub-
+stitutionentheoretisoh herzustellen. Sehliesslich werde ioh zeigen⁷ dass
+
+eine algebraische Gleichung gewisse Eigenschaften haben muss, wenn
+
+gewisse Resolventengleiohungen gleiehe rationale Wurzeln haben sollen.
+
+Die Arbeit zerfallt in einen substitutionentheoretiseben und einen
+algebraisehen Theil.
+
+Ι.
+SUBSTITUTIONENTHEORETISCHER THEIL.
+
+2. Ich bezeichne mit
+
+1,,5ᾎ,82,...8ι-1
+
+ν Substitutionen der Elemente 1230 a αἰ, . . . ‘vn-1, welche substitutionem
+eine Gruppe G bilden sollen‚ und mit
+
+l‚‘[l’1,T2,‚...T„,l
+r substitutionem derselben Elemente, so gewahlt⁷ dass die Μ’ Substitu-
+tionen in
+
+G‚GT1‚GT2‚...GT
+
+alle verschieden sind. Danu gilt folgender Satz:
+
+ 
+
+ 
+
+1) Deduktion af nfidviindiga och tillr'aekliga vilkoret fer algebraiska eqvatio-
+
+ners solution med radikaler. Upsala Universitets arsskrift 1886. Siehe auch Acta
+mathematica, 11: 3 pag. 299.
+
+Nova Acta Reg. Soc. Sc. Ups. Ser. ΠΙ. l
+

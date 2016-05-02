@@ -1,0 +1,49 @@
+38 E. SOLANDER7
+
+ξ 3. Tragheitsmoment.
+
+Das Trfigheitsmoment K war (unabhangig von der Annahme irgend einer regu-
+liiren Figur oder Massenverteilung, sei es des Magneten oder der benutzten Gewichte)
+bestimmt durch Belastung mit zwei Gewichteu von je uugefahr 0‚5 kg. Masse, welche
+in fsmf verschiedenen Abstfiuden von der Drehungsaxe und symmetrisch zu derselben
+mittelst Argentanspitzen 111 feine Ausdrehungen des den Magnetem umgebenden Mes-
+* singmantels eingehangt wurden. Die Messung der Sehwingungsdauernl) in den be-
+lasteten Zustiinden uud unbelastet, sowie die auf einem eiseufreien Komparator vorge-
+uommene Messung der Abstiinde der Schwerpunkte der Gewichte 2) liefern die nbtigen
+Data zur Bestimmung des Tragheitsnmmentes. Die Gewiohte und der beuutzte
+Maassstab waren direkt mit (161] Normalen des hiesigen Physikalischen Institutes ver-
+glichen und 50 auf1 Wlilligramm und Millimcter bezogen.
+
+Bei cler Bestimmung von K xvurden als Korlektionen beriicksichtigt: Auderuugen
+von H, Anderungen von M mit der Temperatur Verschiede'nheit (165 Torsionskoef-
+fizienten je nachdem der Magnet belastet ist, oder nicht
+
+Als Endresultat der nach der Methode der kleinsten Quadrate gefiihrten Be-
+rechnung ergab sich:
+
+log K z 10,6276956 [(mm)²(my)¹] bei t = ÷ 15,68.
+
+Nach K. SCHERING (Gettinger Nachrichten 1881, pag 143) wurde angenommen, dass
+das Tragheitsmoment fiir jeden Temperaturgrad um 0‚000028 5611165 gesammteu VVertes
+xviichst. Danach hat man die Formel:
+
+log K z 10‚6276956 4 0‚4343 . 0,00002S (t — 15,68)
+z 10‚6276956 ψ 0,000012152 (t — 15‚68).
+
+Zur Bestimmung von t diente 6111 in dem 56111· weiten hfflzernen Schwingungskasten
+befindlicher in 0,2⁰ Celsius eingeteiltes The1·mometer; dasselbe war nur etwa 4 6111 von
+der Mitte des Magnetem ent-fernt und in gleicher ΗόΙ16 wie die Axe desselben⁸
+
+ξ 4. Torsion-
+
+Θ wurde durch Drehung des Torsionskreises (jedesmal um 1800) 1111(1 Ablesung
+des Standes (unter Benutzung der gleichzeitigen Beobaohtungen an einem Variometer)
+gemessen. Es ergab sich, dass einer Drehung des Torsionskreises um 1800 61116
+Standanderung (165 Magnetem von Ο, 578870 -1- 0, 002190 entspricht ³); daraus folgt·
+
+(9— - 00032263 ss O‚0000068 (Mite. Fehler).
+
+1) Tageb. 145 pag 139—-195 (1891 Sept. S—Sept. 15).
+⁴2) 1‘ageb. 145 pag 207—218 (1891 Sept. 17—Sept. 18).
+3) Tageb. 129 pag 111—-115. (1889 Nov. 28).
+

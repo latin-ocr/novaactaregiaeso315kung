@@ -1,0 +1,42 @@
+SUR UNE GssNERAmsmmN ALGEBRIQUE DEs NOMBRES DE LAmzz. 5
+
+et par suite, d'aprss l’eiquation (9),
+
+(16) FOz) = (— 1)”“’(ῑι“;’ - uo zc2)
+ou, par application des formules (8),
+(17) F(n) = (— 1)η .
+
+Des &quations (9) et (17) on obtiendra la formule
+(18) αξ -- zen—lum„ = <ῃ 1)Π ,
+
+qui subsiste pour n Ξ l .
+Au moyen de l'essquatiou (2) 011 obtiendra pour n Ξ 1
+
+(19) ιιηῑιηψ, - ἀη-Ῑῑιηψὲ = un u⁷le — u„-1(a3u„÷, -Ι- ιιη)
+= u„ (ΜΗ, — zan—1) — ,ι’ u„„¹ unffi
+= ιι’·ιίξ, — „vua-lu„4¹
+
+ou, d'aprss Psquation (18),
+(20) amn÷l — (ιη-μιμῇ = (- l)''oe ,
+
+formule, qui est vraie pour n Ξ 1.
+D’aprss fflquation (2) on a pour n Ξ 2
+
+(21) unffi, = „sunm -1- u„ , (ιη-2 = u„ — [cun-1 ,
+et de ees deux formales on tire par multiplication
+
+(22) (ιη-μιηψῖ = u} — ἔπη-ιαμ, -1- mu„ (ῑιἨΓΙ ἡ (ιη-ι)
+et, par oonssquen‘Q en faisant usage de l⁷squation (2),
+
+(23) ¹zen-2¹zc„-,‚2 — αἲ, ,- - oe² (ιη-,αἨΓι 4- stu}
+ou, d'aprss l’squation (18),
+
+(24) ιιη-ἓαΆΗ — αξ = (— 1)”.τ2 ,
+
+formule3 qui subsiste pour η Ξ 2 .
+
+Eerivons maintenant les squations (18) et (24) de la manibre
+· sulvante:
+
+(25) ἶίνι-ιῑιπψι = u} - (- 1)η
+

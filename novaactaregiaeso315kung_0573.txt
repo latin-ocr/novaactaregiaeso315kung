@@ -1,0 +1,52 @@
+SUR LE DEVELOPPEMENT DE QUELQUES FONCTIONS DISCONTINUES O'sC. 13
+
+ξε).
+
+Supposons, que n soit un nombre entier superieur ou egal ἐι 5,
+satisfaisant ἐι la congruenoe
+
+(76) 2231, mod. 4,
+
+et definissons les quantites qs, ‚ q„ 512 , . .. . au moyen des &galites
+(77) μεεὶηγῖπροῑπΟΞ rin—l
+
+et
+(78) yr÷22 ες), pour r Ξ 0 2
+
+les conditione, mentionnees dans le theorema ΙΙ seront remplies‚ et en
+faisant usage de la notation
+
+(79) s = E(n.2·) ‚
+
+nous aurens pour ιι) Ξ Ο
+
+(80)
+
+mg·
+
+§r = αἶ-ξ- -ξ-ΜΞὮ (α,η cos mec -1- bm sin 27ηπα3) ,
+ο „12
+
+si a} n'est pas multiple de ὲ, mais
+
+Γ
+
+ΙΙ
+
+(81) ‚fsyr— ἓεῖθ-Ι- -Ι-ηΞ (amcosanae-f-bm sin2m71oe) ‚
+r=0 m=1
+si x est multiple de ὲ, oh les ooeffioients am et bm sont donnes par les
+egalites
+
+:2 '‘='¹‘¹ · 1'71
+
+(82>' a0=—3 Σ νειηῖ,
+
+ 
+
+ 
+
+(83) a = - -l— Ξ ¹ sin Q sin ΞΠΗἬ pour m -Ξ 1 ⁷
+mn r=1 2 η
+(84) ὁ,η = ὲ ΓΞΞῆ sin Q eos ΞΠΗἭ pour m Ξ 1 .
+

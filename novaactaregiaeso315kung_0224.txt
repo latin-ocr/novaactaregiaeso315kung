@@ -1,0 +1,45 @@
+56 ΘὸΒΑΝ DILLNER,
+
+qui. pour xp = lc„(r = 1 , 2 , . . . ,μ.) , change en le suivant [(182)1,
+
+(224) <posteo -Pfflffi‘ = O (r Ξ 1 , 2, . . . ‚pn .
+
+La somme des integrales sle la premiere 2³3er (210) prend main-
+tenant la forme
+
+(225) {usw'ssffffzo (2:0,1‚...,E*2)‚
+r=¹1l¹r „72³¹
+
+ou, pour s· :1¹ et pour la inoindre valeur de E [(186)], on a
+(226) u1=.E÷
+
+donc, le nombre des variables independantes est, en 'vertu de (218), di-
+minue jusqu⁷a une. Pour E > 2, 12 systeme (225) a aequis un emploi
+particulier dans la theorie des fonctions dites abeliennes, par rapport
+auxquelles on doit observer que, quelles que soient les fonctions de
+plusieurs variables que l'on emploie pour remplacer les parametres
+‘q ...... qv, 12 nombre des variables independanteS‚ parmi ces plusieurs
+variables‚ ne pourra jamais surpasser celui cles varia-bles independan't-es,
+parmi ιι] ....... q ν, egard dn etant tenu au caractere multiforme des in-
+versions hyperelliptiques.
+
+La somme des integrales de la cleu.z¹i&me 6519&oe est donnee par
+les sorniules (211) et (212) pour M¹ = . . . = M„ = 1 .
+
+Pour (1 > Ο ou ἒ > r11 g 1 -ι- λ [n0 27 Remarque]7 il n’y a que des
+integrales de la premiere espece.
+
+Ainsi7 pour m = 3, ι’ = 1, ,ς’ = 1 et par suite μ --. 2 , on aura ce
+
+theoreme d’addition‚ a une variable independante nel. Ᾰ la somme des
+integrales [(225)]
+
+ijff'=0
+*ffihrfflm4
+
+correspond la relation suivante, obtenue en pos-ant a· = e3 dans (222),
+
+eoem — &90³2 — 63) = HQ) η
+
+qui, combinee avec le resultat d'elimination, tire (12 (223) (r = 1 , 2),
+

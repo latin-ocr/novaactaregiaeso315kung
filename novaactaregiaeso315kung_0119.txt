@@ -1,0 +1,51 @@
+Es sei Ru) eine doppeltperiodische Funktion mit drei Unendliohkeits—
+stellen. Bezeiehnet dann lc irgend einen Werth, den die Funktion in den
+Nullstessen von F'(u) nieht annimmt‚ so hat. die Funktion F(u) -lc nur
+
+einfaehe Nullstellen und folglich nur einfaehe Unendliehkeits-
+
+ 
+
+F(u> - lc
+
+stellen. Wir kennen also eine jede doppeltperiodisohe Funktion dritter
+Ordnung auf eine solehe mit einfachen Unendlichkeitsstellen zurfiekffihren.
+Es sei diese Reduktion sehon gemacht, so dass also F(u) eine doppelt—
+periodisohe Funktion mit den drei einfaehen Unendlichkeitsstellen a, b, e
+bezeichnet‚ denen die Residuen Α, B, C ent-spreohen, Wobei man
+
+A÷B÷C=O
+
+hat. Es sei ferner φφ) diejenige go-funktion, welche dieselben Perioden
+hat wie F(u). Danu ist
+
+ 
+
+ 
+
+φφ) - 50<a> ' ραι) - soff) 500⁶) '⁷— so<e> ⁷
+
+ 
+
+(1) Hm: ἐμ, 50¹(u)†50'(a)- 4— B phebi-EQ ÷C· 50¹(u)÷50‘(0)]
+
+wobei die u so gewahlt sind, dass F(0) = Ο ist.
+Der identisohen Gleiehung
+
+[ {2551} ῑῑῐξῑῑς) Γ ÷ 2 affl {3531} 15 {353³ ] Ξ 8 5000> ψ ma>
+
+ 
+
+ 
+
+zufolge erhfflt man
+
+(2) ΜΞ-Α([ἱέἔῑέῒὲῖὲἑῖὟ-Βῐῖέὲῑῑέῖεῑξὲῑ) Ῑ-Θῇὲῑιῖῑῑῑξῑῑὶμϋν
+
+ 
+
+woselbst.
+λ = — F'(0) = Ama) -ι- Βςο(ὁ) ÷ Ome)
+lst.
+Nova Acta Reg. Soc. Se. Ups. Ser. 111. 1
+

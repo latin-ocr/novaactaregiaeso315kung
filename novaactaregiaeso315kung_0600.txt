@@ -1,0 +1,48 @@
+4 H. pamm,
+
+Naeh (5) ist
+
+(ΓΗΣ)
+(522⁴ss) V Ξ - j (Ρξιῐξ ÷ Ρηᾱη ÷ Ρζᾱζ)
+
+(10 y„ ιο)
+
+wodurch V bis auf eine addiffive Konstante bestimmt wird. Isss das
+regulere Gebiet von P einfaeh zusammenhkingend, eo> hat auch das
+regulere Gebiet von V dieeelbe Eigensehaffl und V kann daher in
+der Form (3⁴⁵) dargestellt werden, wornit der Satz 2 in diesem Falle Α
+bewiesen ist. Wenn aber das regulere Gebie‘rs von P mehrfach zusam—
+menhssingend ist, so wird Vim allgemeinen melu-werthig3 V kann daun>
+durch folgende Betrach‘tnngen bestimmt werden. Man kann das mehr-
+fach zusammenhiingende Gebiet durch Ausfiihrung von gewissen Quer—
+Sehnit‘ten in ein einfach zusammenhimge1·1des Verwandeln. Naeh den Be-
+trachtnngen der Potentialtheorie kann man ¹ieden dieser Quersehnitte als
+aus zwei unendlioh benaehbarten Fla'ehen bestehend anseheln auf denen
+V in entspreehenden Punkten eine konstante Werthedifferenz hat, und
+diese Quersehnitte k611nen in Bezug auf V als Doppelsehiehten angesehen
+werden. Jedeslnal ein Quersohnitt in derselben Richtung durchsetzt Wird,
+wdehst V mit der beziigliehen Differenz⁷ so dass Vin den] urspriing-
+lichen mehrfaeh zue-<unmenhiingenden Raume mit einer eyklisehen Kon—
+stante behaftet wird. Ι
+
+In dem einfaeh zusammenhiingenden Reum kann nun V in der Form
+
+V: V1 -Ι- G
+
+clarg‹3sssellt werden, wo Vl eine vellig bestimmte Funktion und C eine
+winfirliehe Konstante bedeutet. Die Funktion Vl ist so bestimmt‚ dass
+sie der Gleiehung (5²²³) gemigt und in einern gegebenen Punkte einen
+gegebenen Werth hat. V¹ kann dann durch (3²²⁴) dargestellt werden,
+Wenn man zu dem Oberflaehenintegrale noch diejenigen⁷ welche iiber·
+
+die Querschnitte zu nehmen sind⁷ hinzufiigt. Diese sind von der Form
+
+ 
+
+ 
+
+wo ω’ und ω” die beiden Fliiehen sind, we10he jeden Quersehnitt er-
+
+setzen kennen. sind diese Fla'ohen einander unendlieh nahe gelegtr
+so wird
+

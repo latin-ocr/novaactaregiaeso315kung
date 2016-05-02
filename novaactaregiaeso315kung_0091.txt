@@ -1,0 +1,35 @@
+Emmss UNTERSUCHUNGEN IN DER ALGEBRA. 13
+
+Π.
+ALGEBRAISOHER THEIL.
+
+ll. Eine Gleichung vom Primzahlgrade n
+
+(1) f<oe> = 0
+mit den Wurzeln mo, cel , . . . xa„ sei gegeben: Wir bezeichnen mit
+G die Grruppe der linearen substitutione-n von ³³0 , ccl, . . . *vn-1,
+(αῖς) (a=1‚2,...n-1)
+mai÷fi7 ss=0,1,...n-1
+wo &3³2³ ist wenn ν’Ξε (mod. n) ist, und versssehen unter
+(2) l, Τι’ Tzv · · · T(n—2)·'—1
+(n— 2)! Substitutionen von oeo ‚ 931, . . . sen—1, so beschaffen, dass in
+
+G‚GT1,GT2,...G1}„„2„-1
+
+alle substitutionen von 330 , σοι, . . . aen-1 enthalten sind.
+Wir bezeichnen durch
+
+(vao, ,τι , . . . ,πη-1)
+
+eine rationale F unktion (mit rationalen Koefficienten) von mo, ³³1 ‚ . . .
+,κη-1, welche fiir die substitutionen in G und nur fiir diese- formal un-
+verblndert bleib'n. Die Formeu, in welche φ durch die respektiven Sub-
+stitutionen (2) fibergeffihrt wird, schreiben wir:
+
+(3) (Ρ, ‘Pl τ (Ρεν · · · (P(n—2)1—1 ·
+
+Wenn eine dieser Formen φ, von den fibrigen numerisch verschie-
+den ist und einen rationalen Wert hat, so sind ato, cel ‚ . . . ,τη-,1 alle
+verschieden, die Gruppe der Gleichung (1) in der Gruppe T7¹G ΤΓ euthal-
+ten und die Gleichung durch Wurzelgressen auflbsbar.
+

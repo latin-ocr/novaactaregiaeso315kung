@@ -1,0 +1,62 @@
+[0
+
+H. Pavum,
+
+KAP. Ι,
+
+Elektromagnetisehe Darstellung willkfirlicher Funktionen.
+
+Definition 1. Mit dem regyulc'iren Gebiet einer reellen Funktion von
+drei Vera'nderlichen werden wir im folgenden denjenigen von einer oder
+mehreren geschlossenen Flaohen begrenzten Raum verstehen, innerhalb
+dessen die Funktion nebst ihren ersten und zweiten Differontialquotienten
+einwerthig, endlioh und kontinuirlich ist.
+
+δαῖε Ζ. Jede einwerthige Funktion VQeyz) kann innerhalb' ihres
+einfach zusammenhiingenden reguliiren Gebietes als eine Potamialfunktion
+von Massen, die nach doem Newton-Conlomb⁷sohen Gesetze wirken, dar-
+gestent. werden.
+
+Wenn nz'ihmlioh ρ aus der Gleichung
+
+(l) xl V: —4719
+
+bestimmt wird, wo
+
+(⁶2) ATVZO²IJ⁷÷6²V÷02V
+041² ‘62st 62²
+
+ 
+
+ 
+
+ 
+
+ist, so ist die allgemeine msung von (1) bekanntlioh
+
+(3) ν’ =s⁶sff²¹ ÷s⁹j²1
+
+wo σ eine auf der Begrenzung willkfirlich gewiihlte Funktion‚ dw ein
+Element der Begreuzuug, dr ein dem regulstren Gebiete gehbriges Vo—
+lumselement, und ἰ’ der Abstand von dem Elemente dw oder clv zu dem
+Punkte aryz ist. Die Inoegra‘rionen sind iiber die ganze Begrenzung bzw.
+das ganza regulare Gebiet genommen. Wenn nun σ so bestimmt wird,
+dass in allen Punkten der Oberflkiqhe
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ι ¹ Γ, ,
+(3:1) s⁶7f‘'=V-jss
+wird, so ist σ eindeutig bestimmt, und
+V' = V
+(3²³²) Α V: [ΜΨ Ἴμβῐίῖ.
+ι, 7’ 7·
+

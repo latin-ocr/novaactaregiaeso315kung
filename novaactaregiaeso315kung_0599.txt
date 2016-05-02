@@ -1,0 +1,43 @@
+ANALYT1scn13 DARSTELLUNG Des ELEKTROMAGNssTrsMUs. 3
+
+Definition 2. Ein System von drei von einander unabha'ngigen
+Funktionen (Px RJR) von drei unabhssingigen Veriinderlichen wird eine
+Vektorfunktion (P) oder kiirzer Vektor, und dasjenige Gebiet, innerhalb
+welches eine Vektorfunktion definirt ist, wird ihr Feld genennt.
+
+Geometrz'sclze Representation. VVerden die unabhiingigen Veriinder-
+lichen als Cartesian‘sehe Koordinaten (αρε) aufgefasst, so kbiinen die
+drei Funktionen KRP: durch drei den Koordinatenachsen parallele
+Geraden dargestellt werden, die den bezfiglichen Funktionen proportional
+sind. Die drei Funktionen Px P, R kijnnen durch die vier Funktionen
+Palm: ersetzt werden, welche folgendermassen bestiinmt sind:
+
+¹ miffffi
+
+(4) 1 222} (3).
+
+P ist also eine positive Quamnam λχλμλε sind durch die Gleichung
+AE÷AE÷AE=l
+
+verbunden3 sie kbnnen daher als Richtungs-cosinen einer Geraden be-
+trachtet werden. Ist die Liinge dieser Geraden P proportional, der
+Punkt, (πρε) ihr Anfangspunkt, und ihre positive Richtung von diesem
+Punlzte aus gerechnet, so kann diese nach Grb'sse und Riclttungy bestimmte
+Ger-ade den Vektor P darstellen.
+
+Definition 3. Ein Vektor P hat ein Potential (V), wenn es eine
+Funktion V gicht, welche den Bedingungen
+
+(5) ΡΙ = -ξξ (3)
+
+geniigt.
+Die nothwendige und hinreichende Bedingung fiir die Existenz
+eines Potentials ist
+
+(5²²⁴) ffl-ffi20 (ὃ).
+&gs {32
+Sata 2. Jedes Velztorfeld, welches ein Potemial hat, kann in
+der Form eines Kraftfeldes dargestellt werden, welches durch Mas-
+sen, die nach dem Newton- Goulomb'schen Gesetze wirken, hervorge-
+rufen ist.
+

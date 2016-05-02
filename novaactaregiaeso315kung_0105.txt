@@ -1,0 +1,46 @@
+EINlGE UNTERSUCHUNGEN IN DER ALGEBRA. 27
+
+Die erste dieser Gleichungen kann nicht identisch gelten, weil die
+erste der Gleichungen (27) als iden‘sisch ange110n1me11ist; die zweite
+ist wegen der Identitat (28) nieht identisch. W⁷enn wir von der
+zweiten der Gleiohungen (27) als identisch geltend ausgehen, gelangen
+wir in einen {thulichen Widerspruch. Also war die Annahme χτ--χθ
+unstatthaft, und die VVurzeln der Gleichung (7) sind alle von einander
+verschieden. Wir haben hier angenommen, dass die Funktionen (10)
+ausas), <pm <ps bestehen. Unsere Behauptung kann aber auf &huliche
+Weise bewiesen werden, wenn die Funktionen (10) aus φη ςρ,7 φ) be-
+stehen.
+
+Die Gruppe der Gleiehung (7) ist in der Gruppe (25) oder (26)
+eubalum, je nachdem die Funktionen (10) aus φ, φῖ, φᾶ oder aus §vm
+φΗ φὶ bestehen. Die Gleichnng zerfffllt in zwei Gleichungen mit ratio-
+nalen Koefficienten, was sehon aus nzo 14 hervorgeht wegen 1 <ρ<η;
+die eine ist 2‘ffl, die andere 3¹⁹—n Grades.
+
+19. Wir kommen weiter zum Falle ρ = 4.
+
+Um die Substitutionen der ersten der Gruppen (11) in einfacherer
+Weise ausdriicken zu kennen⁷ setzen wir wie Vorher 28 Ξ ν· -1-ιέ (mod. 5).
+Die Substitutionenkomplexe im Schema, welches zur Definition der Gruppe
+dient, bringen wir mittelst der Formeln (12) und (13) in die Formen Σ
+
+oder ΣΤ). Dann ergiebt sich:
+1((θ, T„ T„ Z))3Die Substitutionen in
+H'„ H‘1.lz‘‚ 2(ν-τ)2(ῖ-1-2ν-1-2τ-1-1)1. T3r43t⁷ HQ .1ἱ,-(7·-ι)2(ἱ-ν-1-1)1. T„⁷
+H'¹ .1ῑ”., -(ν-τ)2(ἱ-τ-1-1)1.Τι.
+
+(29)
+
+ 
+
+Dieses Resultat geht auch aus (15) hervor mittelst der Identitat
+(ί (ἶ, Tr, T„ Τι))Ξ(<ΤεῖζιΟΤΣΓ-Η 121222‘122-2- »a
+
+welche aus nto 6 folgert.
+Wir suchen weiter die Substitutionen der zweiten Gruppe (11) auf.
+In dem wir n:0 6 anwenden und die Gruppe der substitutionen
+
+1ί, α(ι’-1-ν-1-8-1-ί-1-ῑι-1-1)-(ν-1-5-1-τ-1-ῑι-1-1)1 (a=1‚2,3‚4) -
+
+mit H'O bezeichnen, erhalten wir:
+

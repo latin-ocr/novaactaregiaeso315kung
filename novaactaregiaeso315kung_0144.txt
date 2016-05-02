@@ -1,0 +1,50 @@
+6 A. Bmann,
+
+4) Supposons enfin, que les deux quantites αΟ et a0a2 - αξ soient
+differentes de zerO, l'equation differentielle (5) peut se mettre sous la
+forme ⁵
+
+(23) a0(t-t1>(t—t2> ‘js—53 ψ <b0t÷ 121>AE ÷22<a0- 120— amm = 0 ,
+
+tl et ²52 etant deux quantites inegales entre elles. En y introduisaut au
+lieu de t une variable nouvelle m, lice avec t par la relation
+
+(24) τεΐιῖΐὲωψῑιζΐέ
+
+ 
+
+ 
+
+nous en obtiendrons
+
+ 
+
+(25) <ae2-1>‹j³< ÷<2x÷u>fg÷nowſsn>y = 0 ,
+
+οὺ. λ et μ sont des quant-stes constantes. Comme dans le cas precedent
+nous &emona-ons, que nous pouvons supposer, que dans l'equation (25)
+la quantite 1 — λ ne soit &gale ἐι aucun des nombres entiers
+
+(26) n‚n-{-l‚n-f-2‚....2n-l.
+Nous resumons ces resultats dans le theoreme suivant.
+lee'ore‘fme II. Soit donne'e une e'quation d{ffe'o²ewztielle de la forme
+
+(
+
+<a0t²÷2a1t÷a2>23²1÷(b0t÷b1){—{÷009==02
+
+ 
+
+οὰ les coeffiez‘ents ‘⁶²0 ‚ al , a2 ne s'annalem‘ pas simultandment, et οἳι les coef-
+ficz'ents ao, b0 ne s’annulent pas simultandment‚ et supposons, que l'on satis-
+fasse ὰ cette e'quation dzffe'rentielle par une fonction entibre rationnelle de la
+variable t; en de'siynant par λ , μ des quantite's constantes et par n un nombre
+entier positis ou nul, cette e'quation dzffe'rentielle se transforme par une sub-
+stitution line'aire de Za forme
+
+t = βω ÷ ν
+en une des quatre e'quations dzffdrentielles suivantes:
+1) 32792÷Ckoe÷u)}933—my=02
+
+οἳι λ ne s'annule,pas;
+

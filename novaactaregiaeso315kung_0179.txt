@@ -1,0 +1,54 @@
+DEVELOPPEMENT D’UNE FONCTION ANALYTIQUE POUR UN CONTOUR etC· 11
+(33) D⁴„„„,. = ‘’r-1 — e„ (r z 2 ‚ . . . 7 712)
+
+<Stant prise pour diambtre d’un cerole, oe cerole ne renferme aucun des
+autres points. Ge cerole sera. dono un cerole cle eonverfsence du (ἰένΘΙΟΡ-
+pement (28) et aura pour oentre
+
+(34) α = Ξ) (εΗ ÷ 02> (γ = ε) , . . . 77η) .
+
+Le dc}veloppen]ent1 (28) prendra alors la forme
+
+(35) list-1„- Ξ [231²]ss = S(e„>- Son-1> 0· Ξ ⁶2 , . . .,m> ‚
+
+ff„-l P(‘1')7‘
+
+la valeur de α &tant celle de (34).
+
+De‘veloppement de ίίὴίέρναίθ (21) prise entre le point critique el et ὲ.
+
+8. Maintenant il reste de trouver l'inte'zgrale pr'ise entre une
+limite finie et. l’infini. Pour ce cas nous avons d'aprkffi (32), pour des
+
+valeurs differentes de P(Z)-‚† et Pszs'L‘ et pour m > η ,
+
+(36) Γ
+
+ 
+
+r=l τ
+
+Ρ<Ζ>Ἷιι - Ρηκεΐὶξ <22 .- Ξ’η Γ {Pr-m*ss - [κη-ἕ (ιε .
+
+D'un autre acm} on a d'aprks, (26)
+
+ 
+
+ 
+
+(37) s ‘lm · =-MC‘²¹'7 ἷθξ, .
+ὲ P<ae>³ ⁰ 59(ξῇ
+
+Pour M un nombre fraemionnaire [(23)]‚ on aura le dssveloppement
+
+de (37) d’une manibre plus commode si l’on pose gns: X et par suite,
+d’aprbs (22),
+
+(38) a: -- es = CX-¹ 7
+d‘oh l'on tire⁷ en metram, pour ,Μῑξ une fraction irreductible ‚
+(39) N=⁷⁷L-2⁷²=‘l 1=‘l-7³,
+
+ 
+
+n 1> p
+

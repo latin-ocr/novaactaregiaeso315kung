@@ -1,0 +1,45 @@
+EINIGE UNTERSUCHUNGEN IN DER ALGEBRA. 15
+
+muss also ffir Ι numerisch unveriindert bleiben. Alsc muss entspre-
+chend jeder substitution in I eine oder mehrere Substitutionen in (5)
+existiren, welche die Wurzeln von f1(³³) auf dieselbe Weise unter sich
+vertauschen, wie die Substitution in Ι. Wir haben also folgenden
+Satz:
+
+Wenn wir in (5) nur Substitutz‘onen beo-iicktsichtz'gsen, welche die Wur-
+zeln von f1(x) ausschliessliclz zmter sich vertausclzen, und in diesen Substitu-
+te'onen nur die Cylceln, welche diese Wurzeln enthaltevz, so erhalten wir eine
+Gmppe, welche die Gruppe von f1(x) in sich eoztlzdlt.
+
+Die Ordnung der Gruppe I ist ein Divisor der Ordnung der
+Gruppe (5). Es muge nkinilich H die allgemeinste intransitive Unter-
+gruppe vonr (5) sein7 welche die Wurzeln von f1(a3) ausschliesslich unter
+sich vertauscht. Dann besteht Ι aus den substitutionem, welche wir
+aus den Substitutionen in H auf die Weise bilden, dass wir nur die
+Oykeln‚ welche die Wurzeln von fl(oe) vertanschen, beibehaltem und
+es gilt der Satz, dass die Ordnung von Ι ein Divisor der Ordnung
+von H ist ¹). Die ordnung von H ist aber ein Divisor der Ordnung
+von (5). Α18ο ist auch die Ordnung von I ein Divisor der ordnung
+
+von (5).
+
+13. lVenn 9> 1 ist, ist. die Ordnungszahl m der Gruppe‚ welche
+den Gruppen
+
+(6) 133¹G Tro, TZ¹GTm . . . TQQIGTQ,
+
+gemeinsam ist, in n— l als Divisor enthalten. Wir haben namlioh zu-
+erst, dass die Gruppen TJJGTT⁰ und Tffffir'Tr¹ keine Cirkularsubstitution
+72²AE Ordnung gemeinsam haben kunnen. Sonst wfirden nemlich auch
+die von diesen Gruppen durch Tr? transformirten Gruppen G und
+TTDTJGTOETAEl eine solche gemeinsam haben. Dann ware ΤΠΤῙΟ1 mit
+der Gruppe der Oirkularsubstitutionen 223⁰: Ordnung in G permutabel‚
+was unmcglich ist, weil Tr¹ Tr] ¹ nicht linear ist. Aue der Thatsache
+
+aber, dass die den Gruppen (6) gemeinsame Gruppe keine Girkular-
+substitution der Primzahlordnung n enthfflt, folgt, wie CAUCHY es ge-
+zeigt hat 2), dass die Ordnungszahl m der Gruppe den F aktor n nicht
+
+1) Siehe NE'ITO'S Substitutionentheorie etc„ pag. 102.
+2) In den Exercises d'analyse et de physique mathematique‚ pag. 250.
+

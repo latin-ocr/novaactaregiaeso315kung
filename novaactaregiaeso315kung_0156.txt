@@ -1,0 +1,53 @@
+18 A. BERGER7
+η, ⁷241222-l—27 . 2n-1 ⁷
+
+et par suite le ooeffioient de ,13⁷¹ dans le second membre de l'equzition
+(90) ne s’annulera pas.
+
+On peut remarquer ici, qne i'oqnation clifferentielle (88) est satis-
+faite par
+
+(91) fs = ff η
+
+quelle que soit la quantite λ.
+
+§5-
+
+Soit n un nombre entier positis ou nuL et designons pai· λ, μ
+deux constantes arbitr-(ines, soumises seulement ὲῑ la condition, quo la
+quantit& 1 -λ ne soit &gale ii aucun des nombres entiers
+
+η, 72÷1.,n-}-2‚ . . . ‘An-1 .
+En posant
+
+ 
+
+(92) Z Ξ (22-2-1>n-1÷}(·j{‡{) ,
+
+nous obtiendrons de cette e'galite pai· differentiation logarithmique
+
+(93) (aff—DQ-(272†Z*2)aez--1u.3 = O
+
+clm
+
+et, par consequent,
+
+ 
+
+ 
+
+dn÷128022 - l) ἵ-Ζξ [⁷¹4¹ Ἴ (μή-ι q
+(94) —WI‘Z- - (2η ÷ λ - 2) ⁶ Δίᾳ) -,ι <iffi Ξ 0
+ΟΠ, d'apres la formule de Lmnmw,
+(l'¹†²z d⁷¹÷¹z (2¹¹2
+
+ 
+
+(95) (³2²-1>ffaem÷{<4-2>ffl-ss⁶i —024 1><n÷z-2>ff=0.
+
+clam7Ll
+En y faisant
+(96) ζῖῖξ 2 u
+
+d 35⁷¹ '
+

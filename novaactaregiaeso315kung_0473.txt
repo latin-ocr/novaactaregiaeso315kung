@@ -1,0 +1,40 @@
+Nachtrag.
+
+Beschreibung der zur Bestimmung der horizontalen Intensitssit im Erdmagne-
+tischen Observatorium zu Gettingen angewandten Instrumente und
+Methoden, und Messung der Horizontal-Intensitat
+an den Tagen 1891 Aug. 30, Sept. 3 und 5.
+
+Von W. Felgentraeqer.
+
+ξ 1. Ubersicht.
+
+Es bezeiehne, in Gaussisehen Efflheiten, H die horizontale erdmagnetisohe Kom-
+ponente, JI das maguetische Moment des Magnetstabes.
+Eine Bestimmung von H zu einer besonderen Zeit erfordert drei Arbeiten:
+I) Die Bestimmung von M. H,
+ΙΙ) Die Bestimmung von {II- ‚
+111) Die gleichzeitige Beobaehtung der Variationsiustrumente fiir Deklination und
+horizontale Intensitfit..
+
+Ι. MJL
+§a Fdrmel fflr M.H.
+
+Die Bestimmung von JI . H geschieht durch Messung der Sehwingungsdauer.
+Es sei: ⁴
+K das Trfigheitsmoment des Magnetem,
+t die Temperatur in Celsiusgraden,
+Θ der Torsionskoeffizient,
+τ die auf unendlioh kleine Bdgen reduzierte Schwingungsdauer in Sekunden,
+A der Abstand zwischen Spiegel und Skala (optiseh zu messem),
+,ς die Sohwingungsamplitude in Skalenteilen,
+mH derjenige temporare Magnetismm, welcher, wenn der Magneta sich im Me-
+ridian befindet, also auch wahrend der Beobaehtung der Sehwingungsdauer,
+durch H im Magnetstabe induziert wird.
+Dann ist:
+7t²K
+
+(JJ4 mH)H= Uri} (⁹)T2 .
+
+ 
+

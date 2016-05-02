@@ -1,0 +1,44 @@
+4 A. BERGER,
+
+entieres rationnelles du meme degre‚ ou qu’auoune de ees equations dif-
+ferentielles ne soit satisfaite par une fonction entiere rationnelle. Par
+suite il suffit de considerer l'equation differentielle transformee‚ et pour
+cet effet nous distinguemus les quatre oas suivants.
+
+1) Supposons, en premier lieu, que αιο = O et α1 = 0; d'apres la
+supposition sus-dite α2 et b⁰ seront differents de zero, et l’equation dif-
+ferentielle (5) peut s'ecrire
+
+(7) a2Q÷<b0t÷b>Zssg-nboy= ο.
+
+En divisant le premier membre de cette equation par οι2 et en
+faisant
+
+(8) t=ssz²7
+
+l'equation (7) prendra la forme
+(9) ἅ-,ᾖψαωψωᾶῗ- ηλμεο,
+
+οὺ λ, μ sont des quantites constantes, et οὺ λ ne s’annule pas.
+
+2) Soit αΟ = O ‚ mais al une quantite, qui ne s'annule pas: d’apres
+la supposition b0 sera different de zero, et l'equation differentielle (5)
+peut s'ecrire
+
+(10) (2a1t÷a2> -ξῗ-μωιψω-θ-ηὸμεο.
+
+Introduisons ici une variable nouvelle ιε, liee avec t par la relation
+
+(11) ιεω-Ξαῖῖ,
+
+l'equation differentielle (10) se transformer-a en
+
+(12) affy ÷ (λῶ ÷ 1ὴέΞή e n2y= 0
+
+oh λ et μ designent des quantites constantes, et ou λ ne s'annule pas.
+
+3) Soit αο une quantine, qui ne s’annule pas, mais a0a2 -αῗ ,- O,
+l’equation differentielle (5) peut se mettre sous la forme
+
+(13) a0<t - c1>2 {²72 ÷ (bot ΔΓ hl) ἐξ ÷ n<a0 - bo - a0n>y= o ,
+

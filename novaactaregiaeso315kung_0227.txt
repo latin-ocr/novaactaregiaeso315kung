@@ -1,0 +1,55 @@
+DI'WELOPPEMENT D⁷UNE FONCTION ANALYTIQUE POUR UN CONTOUR ete. 59
+
+(231) ’Ξμ Ψῑξῖζΐῳ = ο με 0,1 ..... (Ε-1)) ,
+
+ 
+
+οὺ, pour s =11 et pour la moindre valeur de E [(⁴202)], ΟΠ a
+(232) μ, = E -f- 1 3
+
+donc, le nombre des variables ind5pendantes est. en vertu de (219), di-
+minu& jusqu’z‘z une.
+
+La somme des integrales (le la clemzkme espbce est donnesse par
+les formules (216) et, (217) pour Ml = . . . = Μμ = 1.
+
+Ainsi, pour m = 2 , 1¹ = 8 = 1, P1(x)= 1-Η1,τ2 et. μ = 2, on
+aura ce thdmrbme d’additiou, ἐι une vari-able indsspendante 54¹1. Ᾰ la
+somme des inffigrales
+
+’ξῖ ssr (1 τ Ο
+H ⁷ *W “ ἶ( =
+r=1 7¹7· PCI) ⁶
+
+oorrespond la relation suivante, obtenue en identifiant. les termes indci-
+pendants de a? dans (228),
+
+1
+ΗΞΗΪ ⁷
+
+(τι, :c2)²' =
+
+ 
+
+relation qui, combin6e aveo le &sulm d’fflimination, tir& de (229),
+
+91=ffioergssss>st=lv2>=
+
+donne le th6or32me d’addition en question.
+
+La somme des inwgrales de la deuxiQme espbce se trouve imm&-
+diatement suivant (216).
+
+On v6rifiera ce ῖῇἑοτὸῐῃθ en premant la diffffientielle logarithmique
+de la relation (228), pour :13² = H317 ou
+
+ 
+
+<1-H2223><1—H220{>= Hffljfff) ,
+cette diff&rentie]le devenant
+
+x, ἀπ’, abda& d91
+1 - Η· ΔΓ 1 — 1122} ² 1129ss
+
+ 
+

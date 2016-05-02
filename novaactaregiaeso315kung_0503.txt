@@ -1,0 +1,55 @@
+SUR UNE GENERAMSATION ALGk'EBRlQUE Das NOMBRES DE. LAME. 13
+
+et par suite, si l'on desig-ne par η un nombre entier positis ou nul,
+r=11 Γ ΙΙ l'=71
+(80) „v Σ usumul — Σ αΞΗ-ἦ- Σ u? = Σ (Ξ 1)Γ .
+„20 r=0 r—*O »²0
+
+Remplagons dans la deuxieme somme du premier membre r par
+ν- l, nous obtiendrons de l’equatiou (80)
+
+1 4- <— 1>'¹
+(81) z· ,Σ murm - 2 u 4 Σ u2 Ξ Ο
+’.ΞΟ ²1 ΞΟ ..ι
+OU
+’,ΞΠ Π
+(82) Σ must, ={(u523÷1— ssssgjss) ‚
+r=0 ι, Η
+
+sormule demontree pour n Ξ
+Des equations (77) et (852) resulte ee theoreme.
+
+lee'orenze VII. Si l'on (Id-§igme par n zm nombre entier positis ou
+nul, 072 aura
+
+ 
+
+ 
+
+ 
+
+’.ξπ U? Ξ unua-kl
+’ΞΟ ¹ ‘U
+et
+⁷²⁷¹ 1 ι, l — (—- l)'²
+Σ αμιΗμι Ξ -(zc,3÷1- ) .
+‚.=0 ιε 2 ’
+
+Pour η ξ 1 on a d'apres le theoreme'. II
+(83) ῑι,,,1ῑι,Η,1 - u} = (— 1)”“1 ⁷
+
+d⁷0i1 l‘on tire, en y appliquant l’equation (2),
+
+(84) 4zcn-1(mzc„ -ξ- {al-1) - 41ιῖ Ξ 4(- 1)”“1
+ou
+
+(85) (Qun-v⁴ -ξ- ευῑι,,)2 - (;υ2 -f- 4) αξ = 4(* 1)”“1
+et par suite, d'apres l’equation (2)⁷
+
+(86) (an-1 -Ι- zcn÷,)² — (ff -ξ- 4) αξ Ξ 4(- 1)”“1 .
+
+ΗθωΡΙᾶςοηε n par 2n—l dans cette formule, nous ‘trouverons
+pour n Ξ l
+
+(87) (Νὴ-2 -Ι- ²⁶2n)² — (ff -ἧ- 4) αξη-1 Ξ 4 ;
+

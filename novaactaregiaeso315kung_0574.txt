@@ -1,0 +1,79 @@
+14 A. Eamne,
+
+De l'ae}quation (82) on tire
+
+n-l
+
+ 
+
+(85) ao Ξ
+
+n
+
+Pour les nombres pairs r on a sin ⁹2} = 0; par suite nous pou-
+vons remplacer r par n—Zr dans les seconds membres des &quations
+(83) et (84). De cette manibre nous en obtiendrons
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(86) am = ᾖ Σ2 (- 1)Γ sin ΜΞΝ pour m} 1
+νει ,
+et
+(87) bm = ml—TI Σ,2 (- 1)Γ cos 4⁷⁷W⁷⁷ pour m Ξ 1 ,
+r=1
+De l’dquation (86) on tire
+(88) Ξτηπαι7η cos 2⁹33ss = Σ2 2ζ-1γ sin 4⁷⁷7²²T⁷⁷ cos 22²st
+ΤΞ, ,
+= —2—2—<— l)' {Sin 2(2r- l)m71 -Ι- Sin 2(2ιν-;1>τηπ
+= — Sin 2mn
+n
+et, par suite,
+(89) am = - ff tg 2 '7⁷3⁷‘
+
+ 
+
+pour m ξ 1 . De Γόφιεῑῒὶοη (87) on obtient de mssme
+
+4mr71 271271 ’
+cos
+η η
+
+ 
+
+ 
+
+ 
+
+(9ο) mmmm cos 2 ’ξπ ,Σ2 8(- 1)Γ cos
+νει
+
+2(2r — l)m7·!
+
+ 
+
+= Γ-ἕῖμ- 1>” cos 4- 008 Ξβγ 4 l> mn}
+
+ 
+
+n
+
+= 1 — ΘΟΕ 27ηπ
+
+ 
+
+‘n
+

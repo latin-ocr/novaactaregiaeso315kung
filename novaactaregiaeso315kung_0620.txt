@@ -1,0 +1,42 @@
+24 · Η. PETfflNI,
+
+ist. Far einen Faden ist Q 1 ,
+
+ὃ 72 -
+
+lu
+. [η ”6180
+
+wo o w
+
+Wir werden jetzt einen anderen Ausdruok ffir den Vektorfluss durch
+eine nieht gesehlossene Flaehe suchen.
+Lemma 2, STOKES' Satz.
+
+Ξ [(ΡξαξψΡηάηψΡζαζ) = [Ηώς
+
+wo [mn die Richt-ungsoosinen der nach der positiven Seite der Flfiohe
+hin geriehteten Normale sind, und die lntegration auf der rechten Seite
+in der positiven Riehtung l'assngs der Kontur zu nehmen ist. Mit An-
+wendung der in der Gleiohung (8) gegebenen Darstellung des Vektors
+P geht (30), wenn PxPyPZ gegen FGH vertauscht werden, in
+
+(31) (dew=]n(FsI}÷Gclvq÷Hd‘÷-) —sBB—dew
+iiber. Andererseits folgt aus (30) unmitteffiar
+
+(3121) sponda) Ξ ᾗ [κᾶε .
+
+In diesem Kapitel wellen wir nur ye.30lzlossene Vektorrohre behan-
+deln. Fflr solehe Raume giebt der Fal] 2zo eine eiufaohe
+
+320 Elelct'roclynavnisclze Darstellmwg] cles Velctors Ρ. Es ist lmlmlich
+iiberall auf der Oberflache
+
+folglich kann (vgl. S. 13)
+
+gesetzt werden
+
+Fzspcg‘lf
+
+falls F einwerthig und J= O angenommen wird.
+

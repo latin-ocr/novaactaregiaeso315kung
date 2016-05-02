@@ -1,0 +1,44 @@
+EINIGE UNTERSUCHUNGEN IN DER ALGEBRA. 29
+
+Dass ωτ und χρ von den iibrigen Wurzeln versehieden sind, fol-
+gert sich damus, dass die Formeln (32) fiir θ nnr einen Wert geben,
+
+wenn r gegeben ist.
+Wir nehmen nun an, dass die Wurzeln der Gleiehung
+
+ 
+
+alle verschieden sind. Naeh nto 14 wissen wir⁷ dass (33) reduktibel ist,
+weil [(n — 2)! — ρ]Ῑ nicht. durch η - 2 theilbar ist und ρ < (n— 2)! - 1
+ist.. Wir werden aber auch die Gruppe I aufsuehen, in welcher gema'ss
+n:o 12 die Gruppe der Gleichung (33) enthalten ist. Die Gruppe (29)
+
+besteht aus den substitutionem:
+1, (τ, 2τ-θ)<θ, 314-30), (τ, 6)(2τ-θ, 3τ4-3θ),
+(†‚31÷30](0, Ξτ-θ), (τ, θ), (Ξῖ-θ, 3τ-4-36),
+(τ, Ξτῌθςθ, ὃτῆ-ὃθ), (τ, 31430, θ, Ξτ-θ).
+
+Da wir die substitutionem ausnehmen‚ welche die Wnrzeln der Glei-
+chung (33) aussohliesslich unter sich vertausehen‚ und in diesen Sub-
+stitutionen nur die Cykeln beibehalten, welche diese Wurzeln vertan-
+seben, so ergiebt sich
+
+1, (21—6, 314-30).
+
+Dies ist die gesuchte Gruppe I.
+Zufolge (32) ist s -1 von τ und θ versehieden. xm ist also
+eine der VVurzeln der Gleichung (33). Weil aes-1 durch (29) nieht um-
+
+geset-zt wird‚ ist diese Wurzel rational.
+
+C. Es mbgen einige der Wurzeln der Gleichung (7) unter sich
+gleich sein, und die Funktionen (10) aus gor, φᾶ, (pl, gp„ bestehen.
+
+Wir bezeichnen wie vorher mit χῖ und ⁹⁶⁶ zwei einander gleiohe
+Wurzeln der Gleiehung (7), und haben zuerst die Relation zwisehen τ,
+θ und r, s, t, u aufzusuchen.
+
+Die Funktionen (9) bestehen aue den Funktionen (10) und aus φ
+und w-‹r÷s÷e÷u)· Aus der Thatsaohe‚ dass φ bei der Transposition (τ,θ>
+formal verfindeft wird⁷ numeriseh unverfindert bleibt und dass φ und
+

@@ -1,0 +1,61 @@
+SUB UNE GENICJRALISATION ALGEBRIQUE DEs NOMBRES DE LAM1'3. 11
+
+Introduisons ’ν - 1 au lieu de ν’ dans 13 premiere somme du second
+membre de cette equation‚ nous en obtiendrons
+
+r=n ’Ἑνὶ-Η r--n
+(65) ,τ Σ um. = ,Σ 202,.-1— Σ αρν-1
+
+r=l
+
+et, par suite,
+
+r=71
+(66) α’ Σ u„ = ἰιρηΗ - u1 ;
+
+mais puisqu’on 3 uo = 1, ²⁶1 = (v, on tire de l'equation (66)
+
+λιι
+2³
+
+ 
+
+ΙΙ
+
+(67) » 2⁶2„=²‘212÷¹ ,
+ι
+
+0 ἂ]
+
+formule, qui est vraie pour n Ξ Ο .
+Si l'on remplace η par 22'-{-2 dans 13 formule de reoursion (2),
+
+on en obtiendra pour 7· Ξ 0
+(68) ovum-41 = u2r÷2 — u„ ;
+
+en faisant r successivement egal 3 Ο , l 7 2, . . . η dans cette formule,
+nous en deduirons pour η Ξ Ο
+
+(69) „v ’ἶ 2,,
+
+et par suite, en remplassant r par r - 1 dans 13 premiere somme du se-
+cond membre,
+
+ιι-εη r=n÷1 r=n
+(70) ¹⁷⁴⁷ ΣΟ Πὲι--Η = Σ1 'Mer — Σ ἳῦἳν 7
+r= r= r=
+d’oh
+(71) ‘5⁶ ΣΟ u2r÷1 = ²l2n÷2 - ²⁶0 3
+
+mais puisqu'on 3 uo = 1 , nous en obtiendrons pour η Ξ Ο 13 formule
+
+ 
+
+a?
+
+(72) ΜΞ um, Ξ v2n÷2 — 1 ι
+r=0
+
+Nous resumons les formules (62), (67), (72) dans le theoreme
+suivant.
+

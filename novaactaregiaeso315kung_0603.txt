@@ -1,0 +1,59 @@
+ANALYTlsCHE DARSTELLUNG DES ELEKTROMAGNETISMUS. 7
+
+1νο Ι»- 61116 positive oder negative ζ(31111126 Zahl ist und Ω1 derjenige Theil
+(161· ΕΙΞ16116 der um den Punkt ([1- 3] z) 11111 dem Radius eins beschriebenen
+Kugel, welcher von (16111 voni Punkte (zyz) aus zu 61116111 Punkte (ξηζ)
+der fraglichen geselilossenen Kontur gezogenen Radius Vektor in posi-
+tiver Richtung ausgesohnitfeu wird, wem] der Punkt (ξη ζ) (116 ganze Kon-
+tur beselireibt (Fig. 1). Die positive Seite (161· von der Kontur begrenzten
+Flfiche ist diejenige, von welolier aus man (116 Kontur 111 positiver Rich-
+tung besohrieben 616111. Ι)16 positive Richtung wird 111 gew'dhnliohor Weise
+mit (161· Wahl des Koordina‘nenaohsensystems festgesefzf. Wenn man (116
+positive Richtung 11111 der entoepengesetzten der Bewegung (161· Zeiger
+611161 Uhr zusammenfallen 111661 l ·11111
+
+das ΚΟ011111161611361166116γ516111 zweck-
+
+massig oemass I oder II (Fig. QG> 06-
+11ῑ11111 werden, wo Ι bei dem Uber-
+gange von zu 61 zu (11·61 Dimensionen
+sehr empfehlenswerth ist. Die Auf-
+
+fassung (161 sol (1611 Winkel ist ·1160
+ganz analoo derjeiiigen der 61161161]
+Man kann also allgemein V durch (116 Formel
+
+(511) V: sfl‘lfflsfzzvfl ÷s⁹d² ÷C
+
+darstellen, wo C und die xv willkfirliehe Konstanten sind, und (116 Mehr—
+deutfigkeit von V in diejenige der Ω eingeschlossen ist3 ρ ist durch die
+Gleichung
+
+ 
+
+(6) Q 4- Ξ 1- ὃό-Ρ- - 4πρ
+0ae ὂ3] ὂῑ
+gegeben.
+Definition 5. Ein Vektor P hat 6111 Velctorpotential (FG H), Wenn
+66 (11·61 Fuuktionen FGH giebt, welche (1611 Bedingungen
+
+&H ²³⁶³(3)
+
+(7) Px: ay 62
+
+ 
+
+geniigen. ,
+Die nothwendige und hinreiehende Bedingung fiir die Existenz
+eines Vektorpotentials ist
+
+&Px &Py 61³2
+
+(74) 6oe ὃ3] ὂε
+
+ 
+
+ 
+
+ 
+

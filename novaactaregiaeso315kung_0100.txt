@@ -1,0 +1,47 @@
+‘22 J. T. SC'mERBERG,
+
+ersten Grade und hat in] ersten Falle die Wurzel x,.„1‚ im zweiten die
+VVnrzel ‘Tamum- Die zweite Gleichung ist vom vierten Grade und ist in
+beiden Fn'llen ohne Kuhikwurzeln auflbsbar.
+
+B. Es megel] einige der XVurzeln xo , ω, a . . . ³54 einander gleieh
+sein und die Fu1·1kt.ione1·1 (10) aus (ρ und (ρ,. bestehen.
+
+Wir bezeichnen zwei einander gleiche Wurzeln durch χτ und xe
+und werden zuerst untersuchen, wie τ und θ von ν· ablxiingen. Es wird
+sich dabei zeigen, dass ,Γτ und χᾶ von den &brigen Wurzeln verschie-
+den sind.
+
+Durch die Transposition (xv, χθ) kann die Funktion (ρ ihren nu-
+merischen Wert nicht endem. Da von den Funktionen (9) nur (pr der
+Funktion (p nmncrisch gleich ist, muse (p durch dio Transposition (xv, xe)
+in (pr iihergehen oder formal ungekindert bIeiben. Das letztere kann nicht
+eintreten7 weil G keine Transposition enthfflt. Also haben wir, Wenn wir
+
+(aer, xe) kurz mit (τ, θ) bezeichnen, ‘s'(r‚⁹) {gom was
+(16) (r,0)=§:Tr
+
+giebt7 wo Σ der Gruppe G zugeh'ert.
+Wir werden nun den analytischen Ausdruck fiir (τ, θ) aufsuchen.
+
+Wir haben:
+Ιί, ἱ3)ῖ(2,»3).
+
+Die Substitution Ji, (T— θ) i- 2(r-‡- θ)Ι ersetzt 2 durch θ und 3 durch
+τ. Also xvird:
+
+(τ,θ);)ἱ,(τ-θ)ί-2(τ-ᾗ-θ)1“1.;ί,ἱ3).)ί,<τ»«θ)ί-2<τ-ι-θ)ἶ,(1.11.
+
+i÷2(z÷0)
+
+(τ — ωε · T3<t÷e>÷1 ·
+
+(17) (τ, 0)= i,
+
+(16) und (17) geben 3(r÷0)†1{r‚ d. h.
+(18) v÷032(7·-1>.
+
+WVenn τ gegeben ist, giebt (18) nur einen Wert fiir θ. Also
+kann neben χο keine andere Wurzel ³⁶11 der Gleichung (7) gleich :rt sein.
+xv und φρ sind also von den iibrigen Wurzeln von s(„1) verschieden.
+

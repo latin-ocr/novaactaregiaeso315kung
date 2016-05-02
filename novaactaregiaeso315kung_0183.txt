@@ -1,0 +1,45 @@
+DEVELOPPEMENT D'UNE FONCTION ANALYTIQUE POUR UN CONTOUR GtC. 15
+
+οὺ les limites d'inffigration doivent satisfaire ἐι la relation (22) mainte-
+nant mise sous la forme,
+
+(48) α’ - em = C-g-M-
+
+Les inversions sinmltamsses de ces deux integrales sont dffinies
+par Les deux fornmles,
+
+Ι α] = JQL) ,
+&ae 1 ἣεπω,
+et
+Ι ξ = Qu> ‚
+(m) l Q=ffioem
+
+la liaison entre ees deux inversions &tan‘c⁷ d'aprff (48)⁷ exprime'ffi par
+l'identit&
+
+ww Qw-m=0fflwff-
+
+Les dfflivaes de ces inversions §expriment d’aprssffl (47) sous cette
+forme⁷
+
+dm
+
+φῆ πεῖωεηψῆεμωω-ω-υωω-ωῇ,
+(53) {f Ξ Ε’(α) = [(1 - H, ΜΨ) . . . (1 - blm-1 ῦᾳιγίηῖῑ .
+
+La demsere integrale (47) et son inversion (50) sont dites les
+comple'ments de la premibre inwgralel (47) et de son inversion (49).
+
+Propridte's analytz'ques des z'nversz'ons J (u) et 3(u).
+ll. Si l’on met l’inffigrale
+
+eo dx
+
+(54) —T=7⁰(6=l‚2‚...,m)
+x„ P(·⁷J)⁷²
+et que l'on pose les η racines de 1 sous la forme,
+
+ρπῐρ
+
+(55) eQ=e—n(9=1‚...n>‚
+
